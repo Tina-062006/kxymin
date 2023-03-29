@@ -17,7 +17,7 @@
         },
         {
             "url": "https://agit.ai/kvymin/drpy_js/raw/branch/master/config.json",
-            "name": "JS接口",
+            "name": "JavaScript接口",
             "time": "2023-03-21"
         },
         {
@@ -32,7 +32,7 @@
         },
         {
             "url": "https://agit.ai/kvymin/pyramid/raw/branch/master/config.json",
-            "name": "pyramid接口",
+            "name": "金字塔接口",
             "time": "2023-03-21"
         }
     ]
