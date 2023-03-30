@@ -3,7 +3,7 @@
   "spider":"./java/custom_spider.jar;md5;ce1f5c25edfd364ed1312933f61a70f4",
   
   "sites": [
-    {"key":"js豆瓣","name":"🅱豆瓣","type":3,"api":"./drpy_js/libs/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./drpy_js/js/drpy.js"},
+    {"key":"js豆瓣","name":"🅱豆瓣","type":3,"api":"./drpy_js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./drpy_js/js/drpy.js"},
     {"key":"世界杯","name":"一起看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837"},
     {"key":"Hei19","name":"石榴","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b45"},
     {"key":"独播库","name":"独播库","type":"4","api":"https://tang.run.goorm.app/duboku","searchable":"1","quickSearch":"1","filterable":"1"},
