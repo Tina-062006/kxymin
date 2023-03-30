@@ -1,6 +1,6 @@
 {
   "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
-  "spider": "./java/Pandora.jar;md5;af94cc4d3c30f6cee8b8b20e7b70a0bc",
+  "spider": "./java/Pandora.jar;md5;295e3d68b91b30e3e690d0a3380e5da1",
   "sites": [
     {
       "key": "js豆瓣",
@@ -359,6 +359,16 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://饭太硬.ga/x/json/bilibili.json"
+    },
+    {
+       "key":"csp_Alist",
+       "name":"Alist盘",
+       "type":3,
+       "api":"csp_AList",
+       "searchable":1,
+       "quickSearch":0,
+       "filterable":0,
+       "ext":"http://饭太硬.ga/x/json/alist.json"
     },
     {
       "key": "csp_Bili",
