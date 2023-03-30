@@ -3,8 +3,7 @@
   "spider":"./java/custom_spider.jar;md5;ce1f5c25edfd364ed1312933f61a70f4",
   
   "sites": [
-    
-    {"key":"豆瓣","name":"🅱豆瓣","type":3,"api":"./drpy_js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./drpy_js/js/drpy.js"},
+    {"key":"js豆瓣","name":"🅱豆瓣","type":3,"api":"./drpy_js/libs/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./drpy_js/js/drpy.js"},
     {"key":"世界杯","name":"一起看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837"},
     {"key":"Hei19","name":"石榴","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b45"},
     {"key":"独播库","name":"独播库","type":"4","api":"https://tang.run.goorm.app/duboku","searchable":"1","quickSearch":"1","filterable":"1"},
@@ -37,6 +36,7 @@
   "parses": [
       {"name": "01","type": 1,"url": "http://www.pandown.pro/app/tkys/tkysjx.php?url="},
       {"name": "00","type": 1,"url": "https://api.json.icu/api/?key=9a820717fcc751d583a6bb36a15a5b6a&url="},
+      {"name": "02","type": 1,"url": "http://110.42.2.115:880/analysis/json/?uid=2351&my=abefklvwxABDINTY79&url="},
       {"name": "03","type": 1,"url": "https://www.nxflv.com/?url="},
       {"name": "05","type": 1,"url": "http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="},
       {"name": "06","type": 0,"url": "https://jx.777jiexi.com/player/?url="},
