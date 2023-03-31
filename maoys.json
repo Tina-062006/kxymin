@@ -1,6 +1,6 @@
 {
   "wallpaper":"https://picsum.photos/1280/720/?blur=5",
-  "spider":"./java/custom_spider.jar;md5;ce1f5c25edfd364ed1312933f61a70f4",
+  "spider":"./jar/custom_spider.jar;md5;ce1f5c25edfd364ed1312933f61a70f4",
   
   "sites": [
     {"key":"js豆瓣","name":"🅱豆瓣","type":3,"api":"./drpy_js/libs/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./drpy_js/JavaScript/drpy.js"},

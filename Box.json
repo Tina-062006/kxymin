@@ -1,6 +1,6 @@
 {
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-  "spider": "./java/Box.jar;md5;58dbcf7265f01cc353e5b27855600236",
+  "spider": "./jar/Box.jar;md5;58dbcf7265f01cc353e5b27855600236",
   "sites": [
     {
       "key": "YQK_spider",
