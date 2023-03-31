@@ -34,11 +34,7 @@
   ],
   
   "parses": [
-      {"name": "01","type": 1,"url": "http://www.pandown.pro/app/tkys/tkysjx.php?url="},
-      {"name": "00","type": 1,"url": "https://api.json.icu/api/?key=9a820717fcc751d583a6bb36a15a5b6a&url="},
-      {"name": "02","type": 1,"url": "http://110.42.2.115:880/analysis/json/?uid=2351&my=abefklvwxABDINTY79&url="},
-      {"name": "03","type": 1,"url": "https://www.nxflv.com/?url="},
-      {"name": "05","type": 1,"url": "http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="},
+      {"name": "05","type": 1,"url": "https://api.maoyingshi.cc/home/api?type=ys&uid=2893307&key=efjlmnpvACIJMNPSX1&url="},
       {"name": "06","type": 0,"url": "https://jx.777jiexi.com/player/?url="},
       {"name": "09","type": 0,"url": "https://jx.bozrc.com:4433/player/?url="}
     ],
