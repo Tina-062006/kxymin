@@ -71,6 +71,16 @@
       "filterable": 1
     },
     {
+      "key":"csp_FanYY",
+      "name":"剥饭",
+      "type":3,
+      "api":"csp_FanYY",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"http://ali.饭太硬.ml/alitoken"
+    },
+    {
       "key": "csp_Lib",
       "name": "利奥",
       "type": 3,
