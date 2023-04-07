@@ -1,6 +1,6 @@
 {
   "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
-  "spider": "./jar/Pandora.jar;md5;295e3d68b91b30e3e690d0a3380e5da1",
+  "spider": "./jar/Pandora.jar;md5;4e76031a18cb23b27867a2c0829492b7",
   "sites": [
     {
       "key":"js豆瓣",
@@ -42,6 +42,35 @@
       "ext": "tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
     },
     {
+       "key":"csp_FanYY",
+       "name":"阿里云",
+       "type":3,
+       "api":"csp_FanYY",
+       "searchable":1,
+       "quickSearch":1,
+       "filterable":1,
+       "ext":"./alitoken.txt"
+    },
+    {
+      "key": "csp_WoGG",
+      "name": "饭饭",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./alitoken.txt"
+    },
+    {
+      "key": "csp_Dy1010",
+      "name": "双十",
+      "type": 3,
+      "api": "csp_Dy1010",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "csp_MeiJu69",
       "name": "69美剧",
       "type": 3,
@@ -69,16 +98,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key":"csp_FanYY",
-      "name":"剥饭",
-      "type":3,
-      "api":"csp_FanYY",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"http://ali.饭太硬.ml/alitoken"
     },
     {
       "key": "csp_Lib",
@@ -398,7 +417,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://ali.饭太硬.ml/alitoken"
+      "ext": "./alitoken.txt"
     },
     {
       "key": "Zhaozy",
@@ -408,7 +427,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://ali.饭太硬.ml/alitoken$$$yingshi$$$abcd1234"
+      "ext": "./alitoken$$$yingshi$$$abcd1234"
     },
     {
       "key": "YiSo",
@@ -418,7 +437,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://ali.饭太硬.ml/alitoken"
+      "ext": "./alitoken.txt"
     },
     {
       "key": "PanSou",
@@ -428,7 +447,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://ali.饭太硬.ml/alitoken"
+      "ext": "./alitoken.txt"
     },
     {
       "key": "UpYun",
@@ -438,7 +457,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://ali.饭太硬.ml/alitoken"
+      "ext": "./alitoken.txt"
     },
     {
       "key": "push_agent",
@@ -448,7 +467,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "http://ali.饭太硬.ml/alitoken"
+      "ext": "./alitoken.txt"
     }
   ],
   "parses": [
