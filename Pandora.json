@@ -39,17 +39,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
-		},	
-		{
-			"key": "csp_Jianying",
-			"name": "简影",
-			"type": 3,
-			"api": "csp_Jianying",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "hjju123@qq.com$$$123456"
-        },
+		},
 		{
 			"key": "csp_BuLei",
 			"name": "布雷",
@@ -68,7 +58,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
-		},		
+		},
 		{
 			"key":"csp_Dy1010",
 			"name":"双十",
@@ -86,7 +76,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "http://ali.饭太硬.ml/alitoken"
+			"ext": "http://tvmvip110.club/tv/box/alitoken/token.php"
 		},
 		{
 			"key": "csp_WoGG",
@@ -96,7 +86,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "http://ali.饭太硬.ml/alitoken"
+			"ext": "http://tvmvip110.club/tv/box/alitoken/token.php"
 		},
 		{
 			"key": "csp_Lib",
@@ -406,7 +396,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "http://ali.饭太硬.ml/alitoken"
+			"ext": "http://tvmvip110.club/tv/box/alitoken/token.php"
 		},
 		{
 			"key": "Zhaozy",
@@ -416,7 +406,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "http://ali.饭太硬.ml/alitoken$$$yingshi$$$abcd1234"
+			"ext": "http://tvmvip110.club/tv/box/alitoken/token.php$$$yingshi$$$abcd1234"
 		},
 		{
 			"key": "YiSo",
@@ -426,7 +416,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "http://ali.饭太硬.ml/alitoken"
+			"ext": "http://tvmvip110.club/tv/box/alitoken/token.php"
 		},
 		{
 			"key": "PanSou",
@@ -436,7 +426,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "http://ali.饭太硬.ml/alitoken"
+			"ext": "http://tvmvip110.club/tv/box/alitoken/token.php"
 		},
 		{
 			"key": "UpYun",
@@ -446,7 +436,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "http://ali.饭太硬.ml/alitoken"
+			"ext": "http://tvmvip110.club/tv/box/alitoken/token.php"
 		},
 		{
 			"key": "push_agent",
@@ -456,7 +446,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "http://ali.饭太硬.ml/alitoken"
+			"ext": "http://tvmvip110.club/tv/box/alitoken/token.php"
 		}
 	],
 	"parses": [{
