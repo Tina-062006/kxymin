@@ -3,9 +3,10 @@
   "spider":"./jar/custom_spider.jar;md5;ce1f5c25edfd364ed1312933f61a70f4",
   
   "sites": [
-    {"key":"js豆瓣","name":"🅱豆瓣","type":3,"api":"./drpy_js/libs/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./drpy_js/JavaScript/drpy.js"},
+    {"key":"js豆瓣","name":"🅱豆瓣","type":3,"api":"./JavaScript/libs/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./JavaScript/drpy.js"},
     {"key":"世界杯","name":"一起看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837"},
     {"key":"Hei19","name":"石榴","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b45"},
+    {"key":"独播库","name":"独播库","type":"4","api":"https://tang.run.goorm.app/duboku","searchable":"1","quickSearch":"1","filterable":"1"},
     {"key":"Lgyy","name":"蓝光","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b2e573ff040fcd54b50475660ee1a7d1"},
     {"key":"Smdyy","name":"神马","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"16705ee9f4764be8499806f52d4bf1e7"},
     {"key":"Ddys","name":"低端","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"1cc92323700909e7d46623bc85b958d6"},
@@ -14,27 +15,27 @@
     {"key":"Czsapp","name":"厂长","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3"},
     {"key":"Kuaikan","name":"快看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"459b1cb892e317546676a2c9dcec2bff"},
     {"key":"Kunyu77","name":"七七","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8b48a0834ee08e5e64977bc9fc8bc3e0"},
-    {"key":"lezhu","name":"乐猪","type":1,"api":"http://pandown.pro/maoys/lezhu.php","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"Auete","name":"奥特","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b04b15448ad5bd4312f1fa1fb9aa9b1b"},
     {"key":"Bili","name":"哔哩","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"85b2986381a134ba3ebbaf25ae8138e7#https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"},
     {"key":"AList","name": "AList","type": "3","api":"csp_AList","searchable":"1","ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"},
     {"key":"Cokemv","name":"可乐","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b88de1329655cca1beba45aa9776de70"},
     {"key":"LiteApple","name":"苹果","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"6deed4548c44b18d268a5d828f04d86e"},
     {"key":"SP360","name":"SP360","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"9248c57eb22ace4a3431fbd1a979465f"},
-    {"key":"Gitcafe","name":"纸条","type":"3","api":"csp_Paper","searchable":"1","quickSearch":"1","filterable":"1","ext":"./alitoken.txt"},
-    {"key":"Upso","name":"云搜","type":"3","api":"csp_UpYun","searchable":"1","quickSearch":"1","filterable":"1","ext":"./alitoken.txt"},
+    {"key":"Gitcafe","name":"纸条","type":"3","api":"csp_Paper","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://ali.饭太硬.ml/alitoken"},
+    {"key":"Upso","name":"云搜","type":"3","api":"csp_UpYun","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://ali.饭太硬.ml/alitoken"},
     {"key":"Lib","name":"Libvio","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"78d057e4d03e47cb62dce13d69b41d6f"},
     {"key":"Dy555","name":"555","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"f41992bd740145ed58cb212dc0876582"},
     {"key":"Xiaoh","name":"Xiaoh","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"0842c1d2a8534ec62fb3a3ed848851a7"},
-    {"key":"Zhaozy","name":"资源","type":"3","api":"csp_Zhaozy","searchable":"1","quickSearch":"1","filterable":"1","ext":"./alitoken.txt$$$yingshi$$$abcd1234"},
-    {"key":"YiSo","name":"易搜","type":"3","api":"csp_YiSo","searchable":"1","quickSearch":"1","filterable":"1","ext":"./alitoken.txt"},
-    {"key":"AliPS","name":"盘搜","type":"3","api":"csp_PanSou","searchable":"1","quickSearch":"1","filterable":"1","ext":"./alitoken.txt"},
+    {"key":"Zhaozy","name":"资源","type":"3","api":"csp_Zhaozy","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://ali.饭太硬.ml/alitoken$$$yingshi$$$abcd1234"},
+    {"key":"YiSo","name":"易搜","type":"3","api":"csp_YiSo","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://ali.饭太硬.ml/alitoken"},
+    {"key":"AliPS","name":"盘搜","type":"3","api":"csp_PanSou","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://ali.饭太硬.ml/alitoken"},
     {"key":"Zxzj","name":"在线","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"23a412dda32885ae2bcb97b956cd7ad4"},
-    {"key":"push_agent","name":"推送","type":"3","api":"csp_Push","searchable":"1","quickSearch":"1","filterable":"1","ext":"./alitoken.txt"}
+    {"key":"push_agent","name":"推送","type":"3","api":"csp_Push","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://ali.饭太硬.ml/alitoken"}
   ],
   
   "parses": [
-      {"name": "05","type": 1,"url": "https://api.maoyingshi.cc/home/api?type=ys&uid=2893307&key=efjlmnpvACIJMNPSX1&url="},
+      {"name": "02","type": 1,"url": "https://api.json.icu/api/?key=9a820717fcc751d583a6bb36a15a5b6a&url="},
+      {"name": "03","type": 1,"url": "http://124.221.180.169:999/api/?key=d35d10afa9183bb0c777b94a1a7f71c2&url="},
       {"name": "06","type": 0,"url": "https://jx.777jiexi.com/player/?url="},
       {"name": "09","type": 0,"url": "https://jx.bozrc.com:4433/player/?url="}
     ],
