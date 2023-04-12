@@ -31,15 +31,15 @@
 			"ext": "https://api-tx.11ty.top"
 		},
 		{
-			"key": "csp_AppTT",
-			"name": "图图",
-			"type": 3,
-			"api": "csp_AppTT",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
-		},
+		    "key":"csp_AppTT",
+		    "name":"图图",
+		    "type":3,
+		    "api":"csp_AppTT",
+		    "searchable":1,
+		    "quickSearch":1,
+		    "filterable":1,
+		    "ext":"dk1YWXFYbkhNbmlsU1JLI01kMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiTXpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
+		}, 
 		{
 			"key": "csp_BuLei",
 			"name": "布雷",
@@ -288,12 +288,22 @@
 		},
 		{
 			"key": "csp_SP33",
-			"name": "三三",
+			"name": "360",
 			"type": 3,
 			"api": "csp_SP33",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
+		},
+		{
+		    "key":"csp_MeiJu69",
+		    "name":"美剧",
+		    "api":"csp_AppYsV2",
+		    "type":3,
+		    "filterable":1,
+		    "quickSearch":1,
+		    "searchable":1,
+		    "ext":"https://www.69mj.com/xgapp.php/v2/"
 		},
 		{
 			"key": "Qtv",
