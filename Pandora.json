@@ -1,6 +1,6 @@
 {
 	"wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
-	"spider": "./jar/Pandora.jar;md5;4e76031a18cb23b27867a2c0829492b7",
+	"spider": "./jar/Pandora.jar;md5;613066b0150c902b3d51bde7a433be83",
 	"sites": [{
 			"key": "js豆瓣",
 			"name": "🅱豆瓣",
