@@ -1,5 +1,5 @@
 {
-	"wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
+	"wallpaper": "",
 	"spider": "./jar/Pandora.jar;md5;613066b0150c902b3d51bde7a433be83",
 	"sites": [{
 			"key": "js豆瓣",
@@ -31,15 +31,15 @@
 			"ext": "https://api-tx.11ty.top"
 		},
 		{
-		    "key":"csp_AppTT",
-		    "name":"图图",
-		    "type":3,
-		    "api":"csp_AppTT",
-		    "searchable":1,
-		    "quickSearch":1,
-		    "filterable":1,
-		    "ext":"dk1YWXFYbkhNbmlsU1JLI01kMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiTXpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
-		}, 
+			"key": "csp_AppTT",
+			"name": "图图",
+			"type": 3,
+			"api": "csp_AppTT",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "dk1YWXFYbkhNbmlsU1JLI01kMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiTXpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
+		},	
 		{
 			"key": "csp_BuLei",
 			"name": "布雷",
@@ -76,17 +76,17 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "http://tvmvip110.club/tv/box/alitoken/token.php"
+			"ext": "./alitoken.txt"
 		},
 		{
 			"key": "csp_WoGG",
-			"name": "影视饭",
+			"name": "哥哥",
 			"type": 3,
 			"api": "csp_WoGG",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "http://tvmvip110.club/tv/box/alitoken/token.php"
+			"ext": "./alitoken.txt"
 		},
 		{
 			"key": "csp_Lib",
@@ -287,6 +287,16 @@
 			"filterable": 1
 		},
 		{
+			"key":"csp_MeiJu69",
+			"name":"美剧",
+			"api":"csp_AppYsV2",
+			"type":3,
+			"filterable":1,
+			"quickSearch":1,
+			"searchable":1,
+			"ext":"https://www.69mj.com/xgapp.php/v2/"
+		},
+		{
 			"key": "csp_SP33",
 			"name": "360",
 			"type": 3,
@@ -294,16 +304,6 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
-		},
-		{
-		    "key":"csp_MeiJu69",
-		    "name":"美剧",
-		    "api":"csp_AppYsV2",
-		    "type":3,
-		    "filterable":1,
-		    "quickSearch":1,
-		    "searchable":1,
-		    "ext":"https://www.69mj.com/xgapp.php/v2/"
 		},
 		{
 			"key": "Qtv",
@@ -406,7 +406,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "http://tvmvip110.club/tv/box/alitoken/token.php"
+			"ext": "./alitoken.txt"
 		},
 		{
 			"key": "Zhaozy",
@@ -416,7 +416,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "http://tvmvip110.club/tv/box/alitoken/token.php$$$yingshi$$$abcd1234"
+			"ext": "./alitoken.txt$$$yingshi$$$abcd1234"
 		},
 		{
 			"key": "YiSo",
@@ -426,7 +426,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "http://tvmvip110.club/tv/box/alitoken/token.php"
+			"ext": "./alitoken.txt"
 		},
 		{
 			"key": "PanSou",
@@ -436,7 +436,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "http://tvmvip110.club/tv/box/alitoken/token.php"
+			"ext": "./alitoken.txt"
 		},
 		{
 			"key": "UpYun",
@@ -446,7 +446,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "http://tvmvip110.club/tv/box/alitoken/token.php"
+			"ext": "./alitoken.txt"
 		},
 		{
 			"key": "push_agent",
@@ -456,7 +456,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "http://tvmvip110.club/tv/box/alitoken/token.php"
+			"ext": "./alitoken.txt"
 		}
 	],
 	"parses": [{
