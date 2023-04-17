@@ -459,16 +459,18 @@
 			"ext": "./alitoken.txt"
 		}
 	],
-	"parses": [{
-			"name": "06",
-			"type": 0,
-			"url": "https://jx.777jiexi.com/player/?url="
-		},
-		{
-			"name": "09",
-			"type": 0,
-			"url": "https://jx.bozrc.com:4433/player/?url="
-		}
+	"parses": [		
+		{"name": "00","type": 0,"url": "https://jx.m3u8.pw/?url="},
+		{"name": "01","type": 0,"url": "https://jxdp.codermart.net/?url="},
+		{"name": "02","type": 0,"url": "https://jx.xmflv.com/?url="},
+		{"name": "03","type": 0,"url": "https://jx.jsonplayer.com/player/?url="},
+		{"name": "05","type": 0,"url": "https://jx.zhanlangbu.com/?url="},
+		{"name": "07","type": 0,"url": "http://okjx.cc/?url="},
+		{"name": "06","type": 0,"url": "https://jx.777jiexi.com/player/?url="},
+		{"name": "08","type": 0,"url": "https://jx.yparse.com/index.php?url="},
+		{"name": "09","type": 0,"url": "https://jx.bozrc.com:4433/player/?url="},
+		{"name": "10","type": 0,"url": "https://jx.aidouer.net/?url="},
+		{"name": "11","type": 0,"url": "https://jx.quankan.app/?url="}
 	],
 
 	"lives": [{
