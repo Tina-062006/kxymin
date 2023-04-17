@@ -375,8 +375,7 @@
 			"api": "csp_Yj1211",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "http://饭太硬.ga/x/json/bilibili.json"
+			"filterable": 1
 		},
 		{
 			"key": "csp_Bili",
