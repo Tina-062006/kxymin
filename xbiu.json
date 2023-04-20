@@ -277,29 +277,67 @@
 	"zhujiexi": [{
 		"name": "主解1",
 		"url": "http://ts.lmlemon.com/home/api?type=ys&uid=19083&key=32ca2fdd9690e842d5f54ecc78ae4f79&url="
+	}, {
+		"name": "融兴解析",
+		"url": "https://rx.bt5v.com/json/jsonindex.php/?url="
+	}, {
+		"name": "左岸解析",
+		"url": "http://110.42.2.115:880/analysis/json/?uid=2100&my=cqrtwyACDGLOXY0249&mgtv=app&url="
+	}, {
+		"name": "懒懒解析",
+		"url": "http://lanlan.ckflv.cn/?url="
+	}, {
+		"name": "主解析",
+		"url": "https://k.json.icu/home/api?type=ys&uid=4274082&key=ajlrtuvwIJNOPQSX03&url="
+	}, {
+		"name": "融兴",
+		"url": "https://svip.rongxingvr.top/api/?key=bpWXKrAJUKm3puOCH4&url="
+	}, {
+		"name": "左岸",
+		"url": "http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url="
+	}, {
+		"name": "左岸2",
+		"url": "https://za.kuanjv.com/?url="
+	}, {
+		"name": "太空",
+		"url": "http://124.222.68.182/jiexi/4kJX.php/?url="
+	}, {
+		"name": "扶风",
+		"url": "https://vip.byteamone.cn/api/?key=rpPXBo57OXwYBnirql&url="
+	}, {
+		"name": "多多",
+		"url": "http://qiqi.520say.cn/json/dd.php?url="
+	}],
+	
+	"beiyongjiexi": [{
+		"name": "备解1",
+		"url": "https://jx.jsonplayer.com/player/?url="
+	}, {
+		"name": "备解2",
+		"url": "https://jx.xmflv.com/?url="
+	}, {
+		"name": "备解3",
+		"url": "https://jx.iztyy.com/svip/?url="
+	}, {
+		"name": "备解4",
+		"url": "https://okjx.cc/?url="
+	}, {
+		"name": "备解5",
+		"url": "https://www.pangujiexi.com/pangu/?url="
+	}, {
+		"name": "左岸",
+		"url": "https://jx.parwix.com:4433/player/analysis.php?v="
+	}, {
+		"name": "人人",
+		"url": "https://jx.blbo.cc:4433/?url="
+	}, {
+		"name": "虾米",
+		"url": "https://jx.xmflv.com/?url="
+	}, {
+		"name": "九亿",
+		"url": "https://m3u8.look4you.top/?url="
 	}],
 
-	"beiyongjiexi": [{
-			"name": "备解1",
-			"url": "https://jx.jsonplayer.com/player/?url="
-		},
-		{
-			"name": "备解2",
-			"url": "https://jx.xmflv.com/?url="
-		},
-		{
-			"name": "备解3",
-			"url": "https://jx.iztyy.com/svip/?url="
-		},
-		{
-			"name": "备解4",
-			"url": "https://okjx.cc/?url="
-		},
-		{
-			"name": "备解5",
-			"url": "https://www.pangujiexi.com/pangu/?url="
-		}
-	],
 	"dianshizhibo": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
 	"嗅探词": "m3u8?#ixigua#.czspp#.m3u8#mp4#.flv#.mp3#.m4a#?video_id=",
 	"guolvdizhi": ".html#51.la#?url=#cnzz.com#baidu.com#tootw.com#auete.com#bilibili.com",
