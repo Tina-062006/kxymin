@@ -1,8 +1,7 @@
 {
-	"dyname": "测试规则230419",
+	"dyname": "测试规则230420",
 	"dyzuozhe": "1119908@qq.com",
-	"apiyuan": [
-		{
+	"apiyuan": [{
 			"name": "鲲娱",
 			"searchurl": "https://api.kunyu77.com/api.php/provide/searchVideo?pcode=040110002&version=1.8.5&package=com.idianVideo.app.android&sys=android&sysver=10&brand=vivo&model=V2136A&devid=5d6195167c4268ee03ac61044e453f74&sj=1672647882&searchName=",
 			"searchua": "okhttp/3.12.0",
@@ -347,8 +346,7 @@
 		}
 	]
 ],
-"zhanyuan": [
-	{
+"zhanyuan": [{
 		"name": "农民",
 		"searchUrl": "https://v.xiangdao.me",
 		"searchUA": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
@@ -1470,10 +1468,24 @@
 		"detailxl": "//*[@id=&&&y-playList&&&]/div/span/text()",
 		"detailjs": "//a/span/text()",
 		"detailjsurl": "//a/@href"
+	},
+	{
+		"name": "哆哆美剧",
+		"searchUrl": "https://ddmeiju.com",
+		"searchUA": "Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
+		"playUA": "Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
+		"websearchurl": "https://ddmeiju.com/index.php/vod/search.html?wd=",
+		"searchname": "//div[@class='module-card-item-title']/text()",
+		"searchid": "//div[@class='module-card-item-footer']/a/@href",
+		"searchpic": "//img[@class='lazy lazyload']/@data-original",
+		"searchstarr": "//div[@class='module-card-item-title']/text()",
+		"detaillist": "//div[@class='module-play-list']/div",
+		"detailxl": "//div[@class='module-tab-item tab-item  active']/text()|//a[@class='module-tab-item tab-item']/text()",
+		"detailjs": "//a/text()",
+		"detailjsurl": "//a/@href"
 	}
 ],
-"webyuan": [
-	{
+"webyuan": [{
 		"name": "厂长",
 		"playtext": "",
 		"url": "https://www.czzzu.com/?s=",
