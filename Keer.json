@@ -1758,7 +1758,7 @@
 			"detaillist": "//div[@class=&&&module-play-list&&&]/div",
 			"detailxl": "//*[@id=&&&y-playList&&&]/div/span/text()",
 			"detailjs": "//a/span/text()",
-			"detailjsurl": "//a/@href\"
+			"detailjsurl": "//a/@href"
 		}
 	],
 	"webyuan": [{
