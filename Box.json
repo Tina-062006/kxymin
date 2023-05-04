@@ -32,19 +32,7 @@
     {"key":"Music_spider","name":"音乐","api":"csp_Music","type":3,"filterable":0,"quickSearch":1,"searchable":1,"ext":""}
   ],
   
-  "lives": [
-    {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "live",
-          "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cDovL3BhbmRvd24ucHJvL3R2Ym94L3poaWJvLnR4dA=="
-          ]
-        }
-      ]
-    }
-  ],
+  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3BhbmRvd24ucHJvL3R2Ym94L3poaWJvLnR4dA=="]}]}],
   
   "parses": [
    {"name":"解析聚合","type":3,"url":"Demo"},
