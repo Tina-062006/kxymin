@@ -8,17 +8,17 @@
         {
             "url": "https://agit.ai/kvymin/TV/raw/branch/master/Pandora.json",
             "name": "备用接口",
-            "time": "2023-03-21"
+            "time": "2023-05-04"
         },
         {
             "url": "https://agit.ai/kvymin/TV/raw/branch/master/Box.json",
             "name": "巧计接口",
-            "time": "2023-03-21"
+            "time": "2023-05-04"
         },
         {
             "url": "https://agit.ai/kvymin/drpy_js/raw/branch/master/config.json",
             "name": "JavaScript接口",
-            "time": "2023-03-21"
+            "time": "2023-05-04"
         },
         {
             "url": "https://agit.ai/kvymin/TVRule/raw/branch/main/config.json",
@@ -28,7 +28,7 @@
         {
             "url": "https://agit.ai/kvymin/xBPQ/raw/branch/master/config.json",
             "name": "xBPQ接口",
-            "time": "2023-03-21"
+            "time": "2023-05-4"
         },
         {
             "url": "https://agit.ai/kvymin/pyramid/raw/branch/master/config.json",
