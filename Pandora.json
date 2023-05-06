@@ -60,9 +60,7 @@
   
   "parses": [
     {"name": "00","type": 1,"url": "https://vip.ckllk.com/API.php?appkey=404164cdd1472561b4c61f1845e0bff8&url="},
-    {"name": "01","type": 1,"url": "http://pandown.pro/app/kkdy.php?url="},
     {"name": "02","type": 1,"url": "http://xn--wnup5g.xn--z7x900a.love:63/Art0425/analysis.php?v="},
-    {"name": "03","type": 1,"url": "http://pandown.pro/app/doubiekan.php?url="},
     {"name": "05","type": 0,"url": "https://jx.zhanlangbu.com/?url="},
     {"name": "06","type": 0,"url": "https://jx.777jiexi.com/player/?url="},
     {"name": "07","type": 0,"url": "http://okjx.cc/?url="},
