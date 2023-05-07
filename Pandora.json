@@ -1,6 +1,6 @@
 {
   "wallpaper": "",
-  "spider": "./jar/Pandora.jar;md5;528559dc26fc8138875e8bf32f670cac",
+  "spider": "./jar/Pandora.jar;md5;687223923442374b0ccb5e3a61b8b1a9",
   "sites": [
     
     {"key":"py_douban","name":"豆瓣","type":3,"api":"py_douban","searchable":1,"quickSearch":1,"filterable":1,"ext":"./pyramid/douban.py"},
@@ -60,14 +60,14 @@
   
   "parses": [
     {"name": "00","type": 1,"url": "https://vip.ckllk.com/API.php?appkey=404164cdd1472561b4c61f1845e0bff8&url="},
+    {"name": "01","type": 0,"url": "https://jx.jsonplayer.com/player/?url="},
     {"name": "02","type": 1,"url": "http://xn--wnup5g.xn--z7x900a.love:63/Art0425/analysis.php?v="},
     {"name": "05","type": 0,"url": "https://jx.zhanlangbu.com/?url="},
     {"name": "06","type": 0,"url": "https://jx.777jiexi.com/player/?url="},
     {"name": "07","type": 0,"url": "http://okjx.cc/?url="},
     {"name": "08","type": 0,"url": "https://jx.yparse.com/index.php?url="},
     {"name": "09","type": 0,"url": "https://jx.bozrc.com:4433/player/?url="},
-    {"name": "10","type": 0,"url": "https://jx.aidouer.net/?url="},
-    {"name": "11","type": 0,"url": "https://jx.jsonplayer.com/player/?url="}
+    {"name": "10","type": 0,"url": "https://jx.aidouer.net/?url="}
   ],
 
   "lives": [
