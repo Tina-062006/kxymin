@@ -45,11 +45,7 @@
   ],
   
   "parses": [
-    {"name": "05","type": 0,"url": "https://jx.zhanlangbu.com/?url="},
-    {"name": "06","type": 0,"url": "https://jx.777jiexi.com/player/?url="},
-    {"name": "07","type": 0,"url": "https://www.ckmov.com/?url="},
-    {"name": "08","type": 0,"url": "https://jx.yparse.com/index.php?url="},
-    {"name": "09","type": 0,"url": "https://jx.bozrc.com:4433/player/?url="}
+    {"name": "06","type": 0,"url": "https://jx.777jiexi.com/player/?url="}
   ], 
       
   "flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","csm3u8"],
