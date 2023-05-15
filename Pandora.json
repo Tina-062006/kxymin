@@ -24,7 +24,6 @@
     {"key":"csp_Bttoo","name":"Bttwoo","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_AppMr","name":"明日","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_zxzj","name":"在线","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.pro/"},
-    {"key":"csp_zxzjH3","name":"在线HD","type":3,"api":"csp_ZxzjH3","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.pro/"},
     {"key":"csp_Lgyy","name":"蓝光","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip"},
     {"key":"csp_Smdyy","name": "神马","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key":"csp_Nmys","name":"🌾农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/nmys.json"},
