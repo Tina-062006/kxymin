@@ -39,8 +39,7 @@
     {"key":"csp_AList","name":"AList","type":3,"api":"csp_AList","changeable":1,"searchable":1,"ext":"http://饭太硬.ga/x/json/Alist.json"},    
     {"key":"csp_Bili","name":"哔哩","type":3,"api":"csp_Bili","changeable":1,"searchable":1,"ext":"http://饭太硬.ga/x/json/bilibili.json"},
     {"key":"csp_Biliych","name":"演唱会","type":3,"api":"csp_Bili","changeable":1,"searchable":1,"ext":"http://饭太硬.ga/x/json/biliych.json"},
-    
-    {"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","changeable":1,"searchable":1,"ext":"./alitoken.txt","jar":"https://pan.shangui.cc/f/ggRHV/custom_spider.jar"},    
+ 
     {"key":"csp_WoGG","name":"影视范","type":3,"api":"csp_WoGG","changeable":1,"searchable":1,"ext":"./alitoken.txt"},
     {"key":"Dovx","name":"七夜","type":3,"api":"csp_Dovx","changeable":1,"searchable":1,"ext":"./alitoken.txt"},
     {"key":"YiSo","name":"易搜","type":3,"api":"csp_YiSo","changeable":1,"searchable":1,"ext":"./alitoken.txt"},
