@@ -20,7 +20,7 @@
     {"key":"Dy555","name":"555","type":3,"api":"csp_Dora","changeable":1,"searchable":1,"ext":"f41992bd740145ed58cb212dc0876582"},
     {"key":"Xiaoh","name":"Xiaoh","type":3,"api":"csp_Dora","changeable":1,"searchable":1,"ext":"0842c1d2a8534ec62fb3a3ed848851a7"},
     {"key":"Bili","name":"哔哩","type":3,"api":"csp_Bili","changeable":0,"searchable":1,"ext":"./json/Bili.json"},
-    {"key":"AList","name":"AList","type": "3","api":"csp_AList","changeable":0,"searchable":1,"ext":"./json/alist.json"},
+    {"key":"AList","name":"AList","type":"3","api":"csp_AList","changeable":0,"searchable":1,"ext":"./json/alist.json"},
     {"key":"Gitcafe","name":"纸条","type":3,"api":"csp_Paper","changeable":0,"searchable":1,"ext":"./alitoken.txt"},
     {"key":"Upso","name":"云搜","type":3,"api":"csp_UpYun","changeable":0,"searchable":1,"ext":"./alitoken.txt"},
     {"key":"YiSo","name":"易搜","type":3,"api":"csp_YiSo","changeable":0,"searchable":1,"ext":"./alitoken.txt"},
