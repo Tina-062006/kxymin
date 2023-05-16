@@ -1,5 +1,5 @@
 { 
-  "wallpaper": "",
+  "wallpaper": "http://fongmi.eu.org/img.php",
   "spider": "./jar/custom_spider.jar;md5;14c78d28d57487100b1b93786df78bc6",
 
   "sites": [    
