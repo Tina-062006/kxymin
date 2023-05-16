@@ -21,11 +21,11 @@
     {"key":"Bili","name":"哔哩","type":"3","api":"csp_Bili","changeable":"0","searchable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"},
     {"key":"AList","name": "AList","type": "3","api":"csp_AList","changeable":"0","searchable":"1","ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"},
     {"key":"Xiaoh","name":"Xiaoh","type":"3","api":"csp_Dora","changeable":"0","searchable":"0","ext":"0842c1d2a8534ec62fb3a3ed848851a7"},
-    {"key":"Gitcafe","name":"纸条","type":"3","api":"csp_Paper","changeable":"1","searchable":"1","ext":"https://www.qiaoji8.com/jar1/token.txt"},
-    {"key":"Upso","name":"云搜","type":"3","api":"csp_UpYun","changeable":"1","searchable":"1","ext":"https://www.qiaoji8.com/jar1/token.txt"},
-    {"key":"YiSo","name":"易搜","type":"3","api":"csp_YiSo","changeable":"1","searchable":"1","ext":"https://www.qiaoji8.com/jar1/token.txt"},
-    {"key":"AliPS","name":"盘搜","type":"3","api":"csp_PanSou","changeable":"1","searchable":"1","ext":"https://www.qiaoji8.com/jar1/token.txt"},
-    {"key":"push_agent","name":"推送","type":"3","api":"csp_Push","changeable":"0","searchable":"0","ext":"https://www.qiaoji8.com/jar1/token.txt"}
+    {"key":"Gitcafe","name":"纸条","type":"3","api":"csp_Paper","changeable":"1","searchable":"1","ext":"./alitoken.txt"},
+    {"key":"Upso","name":"云搜","type":"3","api":"csp_UpYun","changeable":"1","searchable":"1","ext":"./alitoken.txt"},
+    {"key":"YiSo","name":"易搜","type":"3","api":"csp_YiSo","changeable":"1","searchable":"1","ext":"./alitoken.txt"},
+    {"key":"AliPS","name":"盘搜","type":"3","api":"csp_PanSou","changeable":"1","searchable":"1","ext":"./alitoken.txt"},
+    {"key":"push_agent","name":"推送","type":"3","api":"csp_Push","changeable":"0","searchable":"0","ext":"./alitoken.txt"}
   ],
 
   "lives": [
