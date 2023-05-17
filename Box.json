@@ -25,7 +25,7 @@
     {"key":"csp_Auete","name":"Auete","type":3,"api":"csp_Auete","changeable":1,"searchable":1},
     {"key":"csp_Cokemv","name":"Cokemv","type":3,"api":"csp_Cokemv","changeable":1,"searchable":1},
     {"key":"csp_BBB","name":"哔哩","type":3,"api":"csp_Bili","changeable":1,"searchable":0,"ext":"./json/Bili.json"},
-    {"key":"csp_Yj1211","name":"短视频","api":"csp_Yj1211","type":3,"changeable":1,"searchable":1},
+    {"key":"csp_Yj1211","name":"短视频","type":3,"api":"csp_Yj1211","changeable":1,"searchable":1},
     {"key":"csp_Yisou","name":"易搜","type":3,"api":"csp_Yisou","changeable":1,"searchable":1,"ext":"./alitoken.txt"},
     {"key":"csp_Gitcafe","name":"小纸条","type":3,"api":"csp_GitCafe","changeable":1,"searchable":1,"ext":"./alitoken.txt"},
     {"key":"csp_AliPanSou","name":"盘搜","type":3,"api":"csp_AliPanSou","changeable":1,"searchable":1,"ext":"./alitoken.txt"},
@@ -57,9 +57,10 @@
       ],
   
   "parses": [
-    {"name":"解析聚合","type":3,"url":"Demo"},
-    {"name":"Json并发","type":2,"url":"Parallel"},
-    {"name":"Json轮询","type":2,"url":"Sequence"},
+    //{"name":"解析聚合","type":3,"url":"Demo"},
+    //{"name":"Json并发","type":2,"url":"Parallel"},
+    //{"name":"Json轮询","type":2,"url":"Sequence"},
+    {"name": "06","type": 0,"url": "https://jx.777jiexi.com/player/?url="},
     {"name":"专属","type":1,"url":"http://pandown.pro/app/doubiekan.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
     {"name":"解析","type":1,"url":"http://pandown.pro/app/kkdy.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}}
   ],
