@@ -4,7 +4,7 @@
   
   "sites": [
     {"key":"py_douban","name":"豆瓣","type":3,"api":"py_douban","changeable":1,"searchable":1,"ext":"./pyramid/douban.py"},
-    {"key":"csp_MianHua","name":"棉花","type":3,"api":"csp_MianHua","changeable":1,"searchable":1,"playerType":2,"ext":"https://api.haokantj.com"},
+    {"key":"csp_MianHua","name":"棉花","type":3,"api":"csp_MianHua","playerType":2,"changeable":1,"searchable":1,"ext":"https://api.haokantj.com"},
     {"key":"csp_YQKAPP","name":"一起看","api":"csp_YQKAPP","type":3,"changeable":1,"searchable":1,"ext":"https://api-aws.11ty.top"},
     {"key":"csp_HDMOLI","name":"魔力","api":"csp_HDMOLI","type":3,"changeable":1,"searchable":1},
     {"key":"csp_Mayiys","name":"蚂蚁","api":"csp_Mayiys","type":3,"playerType":2,"changeable":1,"searchable":1},
@@ -32,7 +32,7 @@
     {"key":"csp_UPanSo","name":"优盘搜","type":3,"api":"csp_UPanSo","changeable":1,"searchable":1,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
     {"key":"csp_FindZY","name":"找资源","type":3,"api":"csp_FindZY","changeable":1,"searchable":1,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
     {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","changeable":0,"searchable":0,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
-    {"key":"csp_Music","name":"音乐","api":"csp_Music","type":3,"changeable":1,"searchable":1}
+    {"key":"csp_Music","name":"音乐","type":3,"api":"csp_Music","changeable":1,"searchable":1}
   ],
   
   "lives":[
