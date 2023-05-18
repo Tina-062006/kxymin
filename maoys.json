@@ -40,9 +40,9 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "Json",
-      "type": 1,
-      "url": "./tvlive/live.json",
+      "name": "mile",
+      "type": 0,
+      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
       "logo": "http://epg.51zmt.top:8000/{logo}"
     }
