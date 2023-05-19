@@ -54,12 +54,14 @@
   ],
   
   "parses": [
+    {"name":"00","type":1,"url":"http://pandown.pro/app/doubiekan.php?url="},
     {"name":"01","type":0,"url":"https://jx.777jiexi.com/player/?url="},
     {"name":"02","type":0,"url":"https://go.yh0523.cn/y.cy?url="},
     {"name":"03","type":0,"url":"http://api.wpsseo.cn/?v="},
     {"name":"05","type":0,"url":"https://yun.ckmov.com/?url="},
     {"name":"07","type":0,"url":"https://jx.aidouer.net/?url="},
-    {"name":"06","type":1,"url":"http://pandown.pro/app/doubiekan.php?url="}
+    {"name":"08","type":0,"url":"https://www.h8jx.com/jiexi.php?url="},
+    {"name":"09","type":0,"url":"https://vip.bljiex.com/?v="}
   ], 
 
   "rules": [
