@@ -149,7 +149,7 @@
             "type_id": "Windows"
         }
     ],
-   "cookie": "https://raw.kgithub.com/FongMi/CatVodSpider/main/txt/cookie.txt", 
+   "cookie": "https://agit.ai/kvymin/TV/raw/branch/master/json/cookie.txt", 
         "filter": {
         "考公考证": [
             {
