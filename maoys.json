@@ -41,7 +41,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "mile",
+      "name": "live",
       "type": 0,
       "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
