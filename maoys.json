@@ -16,7 +16,7 @@
     {"key":"Cokemv","name":"Cokemv","type":3,"api":"csp_Dora","changeable":1,"searchable":1,"ext":"b88de1329655cca1beba45aa9776de70"},
     {"key":"LiteApple","name":"苹果","type":3,"api":"csp_Dora","changeable":1,"searchable":1,"ext":"6deed4548c44b18d268a5d828f04d86e"},
     {"key":"SP360","name":"SP360","type":3,"api":"csp_Dora","changeable":1,"searchable":1,"ext":"9248c57eb22ace4a3431fbd1a979465f"},
-    {"key":"Lib","name":"Libvio","type":3,"api":"csp_Dora","changeable":1,"searchable":1,"ext":"78d057e4d03e47cb62dce13d69b41d6f"},
+    {"key":"Libvio","name":"Libvio","type":3,"api":"csp_Dora","changeable":1,"searchable":1,"ext":"78d057e4d03e47cb62dce13d69b41d6f"},
     {"key":"Dy555","name":"555","type":3,"api":"csp_Dora","changeable":1,"searchable":1,"ext":"f41992bd740145ed58cb212dc0876582"},
 
     {"key":"酷影","name":"酷影","type":3,"api":"csp_AppYsV2","changeable":1,"searchable":1,"ext":"http://kuyun.realku.cn/api.php/app/"},
