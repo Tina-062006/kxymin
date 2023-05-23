@@ -30,7 +30,7 @@
     {"key":"csp_Bttoo","name":"Bttwoo","type":3,"api":"csp_Bttwoo","changeable":1,"searchable":1},
     
     {"key":"csp_酷影","name":"酷影","type":3,"api":"csp_AppYsV2","changeable":1,"searchable":1,"ext":"http://kuyun.realku.cn/api.php/app/"},
-    {"key":"csp_猫咪","name":"猫咪","type":3,"api":"csp_AppYsV2","changeable":1,"searchable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
+    {"key":"csp_如意","name":"如意","type":3,"api":"csp_AppYsV2","changeable":1,"searchable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
 
     {"key":"csp_Anime1","name":"动漫","type":3,"api":"csp_Anime1","changeable":1,"searchable":1},
     {"key":"csp_Dm84","name":"巴士","type":3,"api":"csp_Dm84","changeable":1,"searchable":1},
