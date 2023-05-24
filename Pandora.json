@@ -72,13 +72,15 @@
       "name": "TXT",
       "type": 0,
       "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.12.13",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "Json",
       "type": 1,
-      "url": "./tvlive/live.json",
+      "url": "https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
       "logo": "http://epg.51zmt.top:8000/{logo}"
     }
