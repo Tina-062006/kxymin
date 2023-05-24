@@ -1,6 +1,6 @@
 { 
   "wallpaper": "http://fongmi.eu.org/img.php",
-  "spider": "./jar/custom_spider.jar;md5;14c78d28d57487100b1b93786df78bc6",
+  "spider": "./jar/custom_spider.jar;md5;b6cb6ac01700f9baa345e272d3877628",
 
   "sites": [    
     {"key":"douban","name":"豆瓣","type":3,"api":"py_douban","changeable":1,"searchable":1,"ext":"./pyramid/douban.py"},
@@ -29,10 +29,10 @@
     {"key":"Xiaoh","name":"Xiaoh","type":3,"api":"csp_Dora","changeable":1,"searchable":1,"ext":"0842c1d2a8534ec62fb3a3ed848851a7"},
     {"key":"Bili","name":"哔哩","type":3,"api":"csp_Bili","changeable":0,"searchable":1,"ext":"./json/Bili.json"},
     {"key":"AList","name":"AList","type":3,"api":"csp_AList","changeable":0,"searchable":1,"ext":"./json/alist.json"},
-    {"key":"Gitcafe","name":"纸条","type":3,"api":"csp_Paper","changeable":0,"searchable":1,"ext":"./alitoken.txt"},
     {"key":"Upso","name":"云搜","type":3,"api":"csp_UpYun","changeable":0,"searchable":1,"ext":"./alitoken.txt"},
     {"key":"YiSo","name":"易搜","type":3,"api":"csp_YiSo","changeable":0,"searchable":1,"ext":"./alitoken.txt"},
     {"key":"AliPS","name":"盘搜","type":3,"api":"csp_PanSou","changeable":0,"searchable":1,"ext":"./alitoken.txt"},
+    {"key":"盤搜索","name":"盤搜索","type":"3","api":"csp_PanSearch","changeable":0,"searchable":1,"ext":"./alitoken.txt"},
     {"key":"push_agent","name":"推送","type":3,"api":"csp_Push","changeable":0,"searchable":0,"ext":"./alitoken.txt"}
   ],
 
