@@ -3,6 +3,7 @@
   "spider": "./jar/Pandora.jar;md5;22bea96778121a176132c5d1d2e92889",
   "sites": [
     {"key":"py_douban","name":"豆瓣","type":3,"api":"py_douban","changeable":1,"searchable":1,"ext":"./pyramid/douban.py"},
+    {"key":"csp_WoGG","name":"影视范","type":3,"api":"csp_WoGG","changeable":1,"searchable":1,"ext":"./alitoken.txt"},
     {"key":"csp_77","name":"七七","type":3,"api":"csp_Kunyu77","changeable":1,"searchable":1},
     {"key":"小苹果","name":"小苹果","type":3,"api":"csp_LiteApple","playerType":1,"changeable":1,"searchable":1},
     {"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","changeable":1,"searchable":1},
@@ -41,7 +42,6 @@
     {"key":"csp_Bili","name":"哔哩","type":3,"api":"csp_Bili","changeable":1,"searchable":1,"ext":"http://饭太硬.ga/x/json/bilibili.json"},
     {"key":"csp_Biliych","name":"演唱会","type":3,"api":"csp_Bili","changeable":1,"searchable":1,"ext":"http://饭太硬.ga/x/json/biliych.json"},
  
-    {"key":"csp_WoGG","name":"影视范","type":3,"api":"csp_WoGG","changeable":1,"searchable":1,"ext":"./alitoken.txt"},
     {"key":"Dovx","name":"七夜","type":3,"api":"csp_Dovx","changeable":1,"searchable":1,"ext":"./alitoken.txt"},
     {"key":"TuGou","name":"土狗","type":3,"api":"csp_TuGou","searchable":1,"quickSearch":1,"changeable":0,"ext":"./alitoken.txt"},
     {"key":"YiSo","name":"易搜","type":3,"api":"csp_YiSo","changeable":1,"searchable":1,"ext":"./alitoken.txt"},
