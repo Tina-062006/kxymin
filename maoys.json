@@ -19,7 +19,7 @@
     {"key":"Libvio","name":"Libvio","type":3,"api":"csp_Dora","changeable":1,"searchable":1,"ext":"78d057e4d03e47cb62dce13d69b41d6f"},
     {"key":"Dy555","name":"555","type":3,"api":"csp_Dora","changeable":1,"searchable":1,"ext":"f41992bd740145ed58cb212dc0876582"},
 
-    {"key":"酷影","name":"酷影","type":3,"api":"csp_AppYsV2","changeable":1,"searchable":1,"ext":"http://kuyun.realku.cn/api.php/app/"},
+    {"key":"酷影","name":"酷影","type":3,"api":"csp_AppYsV2","changeable":1,"searchable":1,"ext":"http://cms.wbsys.top/api.php/app/"},
     {"key":"如意","name":"如意","type":3,"api":"csp_AppYsV2","changeable":1,"searchable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
     {"key":"熊盾","name":"磁力熊","type":1,"api":"https://v.3412.net.cn/macapi.php/provide/vod","playUrl":"https://player.3412.net.cn/?url=","changeable":1,"searchable":1},
     {"key":"lezhu","name":"乐猪","type":1,"api":"http://pandown.pro/maoys/lezhu.php","changeable":1,"searchable":1},
@@ -62,8 +62,6 @@
     {"name":"02","type":0,"url":"https://go.yh0523.cn/y.cy?url="},
     {"name":"03","type":0,"url":"http://api.wpsseo.cn/?v="},
     {"name":"05","type":0,"url":"https://yun.ckmov.com/?url="},
-    {"name":"07","type":0,"url":"https://jx.aidouer.net/?url="},
-    {"name":"08","type":0,"url":"https://www.h8jx.com/jiexi.php?url="},
     {"name":"09","type":0,"url":"https://vip.bljiex.com/?v="}
   ], 
 
