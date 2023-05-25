@@ -32,7 +32,7 @@
     {"key":"Dovx","name":"七夜","type":3,"api":"csp_Dovx","changeable":0,"searchable":1,"ext":"./alitoken.txt"},
     {"key":"YiSo","name":"易搜","type":"3","api":"csp_YiSo","changeable":0,"searchable":1,"ext":"./alitoken.txt"},
     {"key":"AliPS","name":"盘搜","type":"3","api":"csp_PanSou","changeable":0,"searchable":1,"ext":"./alitoken.txt"},
-    {"key":"PanSearch","name":"盤搜索","type":"3","api":"csp_PanSearch","changeable":0,"searchable":1,"ext":"./alitoken.txt"}
+    {"key":"PanSearch","name":"盤搜索","type":"3","api":"csp_PanSearch","changeable":0,"searchable":1,"ext":"./alitoken.txt"},
     {"key":"push_agent","name":"推送","type":"3","api":"csp_Push","changeable":0,"searchable":0,"ext":"./alitoken.txt"}
   ],
 
