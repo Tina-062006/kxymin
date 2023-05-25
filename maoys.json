@@ -3,7 +3,7 @@
   "spider": "./jar/custom_spider.jar;md5;a6341f9843995df1e094064a47c88817",
   
   "sites": [
-    {"key":"douban","name":"豆瓣","type":3,"api":"py_douban","changeable":1,"searchable":1,"ext":"./pyramid/douban.py"},
+    {"key":"douban","name":"豆瓣","type":3,"api":"py_douban","changeable":0,"searchable":0,"ext":"./pyramid/douban.py"},
     {"key":"世界杯","name":"一起看","type":"3","api":"csp_Dora","changeable":"1","searchable":"1","ext":"8e3aefcba838d8dc5102ac786719d837"},
     {"key":"Lgyy","name":"蓝光","type":"3","api":"csp_Dora","changeable":"1","searchable":"1","ext":"b2e573ff040fcd54b50475660ee1a7d1"},
     {"key":"Ddys","name":"低端","type":"3","api":"csp_Dora","changeable":"1","searchable":"1","ext":"1cc92323700909e7d46623bc85b958d6"},
@@ -22,14 +22,14 @@
     {"key":"SP360","name":"SP360","type":"3","api":"csp_Dora","changeable":"1","searchable":"1","ext":"9248c57eb22ace4a3431fbd1a979465f"},
     {"key":"Libvio","name":"Libvio","type":"3","api":"csp_Dora","changeable":"1","searchable":"1","ext":"78d057e4d03e47cb62dce13d69b41d6f"},
     {"key":"Dy555","name":"555","type":"3","api":"csp_Dora","changeable":"1","searchable":"1","ext":"f41992bd740145ed58cb212dc0876582"},
-    {"key":"Bili","name":"哔哩","type":"3","api":"csp_Bili","changeable":"1","searchable":"1","ext":"./json/bili.json"},
-    {"key":"AList","name": "AList","type": "3","api":"csp_AList","changeable":"1","searchable":"1","ext": "./json/alist.json"},
-    {"key":"Upso","name":"云搜","type":"3","api":"csp_UpYun","changeable":"1","searchable":"1"},
+    {"key":"Bili","name":"哔哩","type":"3","api":"csp_Bili","changeable":"0","searchable":"1","ext":"./json/bili.json"},
+    {"key":"AList","name": "AList","type": "3","api":"csp_AList","changeable":"0","searchable":"1","ext": "./json/alist.json"},
+    {"key":"Upso","name":"云搜","type":"3","api":"csp_UpYun","changeable":"0","searchable":"1"},
     {"key":"Xiaoh","name":"小宝","type":"3","api":"csp_Dora","changeable":"1","searchable":"1","ext":"0842c1d2a8534ec62fb3a3ed848851a7"},
-    {"key":"YiSo","name":"易搜","type":"3","api":"csp_YiSo","changeable":"1","searchable":"1"},
-    {"key":"AliPS","name":"盘搜","type":"3","api":"csp_PanSou","changeable":"1","searchable":"1"},
-    {"key":"盤搜索","name":"盤搜索","type":"3","api":"csp_PanSearch","changeable":"1","searchable":"1"},
-    {"key":"push_agent","name":"推送","type":"3","api":"csp_Push","changeable":"1","searchable":"1"}
+    {"key":"YiSo","name":"易搜","type":"3","api":"csp_YiSo","changeable":"0","searchable":"1"},
+    {"key":"AliPS","name":"盘搜","type":"3","api":"csp_PanSou","changeable":"0","searchable":"1"},
+    {"key":"盤搜索","name":"盤搜索","type":"3","api":"csp_PanSearch","changeable":"0","searchable":"1"},
+    {"key":"push_agent","name":"推送","type":"3","api":"csp_Push","changeable":"0","searchable":"0"}
   ],
 
   "lives": [
