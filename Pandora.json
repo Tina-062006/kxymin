@@ -43,7 +43,7 @@
     {"key":"csp_Biliych","name":"演唱会","type":3,"api":"csp_Bili","changeable":1,"searchable":1,"ext":"http://饭太硬.ga/x/json/biliych.json"},
  
     {"key":"Dovx","name":"七夜","type":3,"api":"csp_Dovx","changeable":1,"searchable":1,"ext":"./alitoken.txt"},
-    {"key":"TuGou","name":"土狗","type":3,"api":"csp_TuGou","searchable":1,"quickSearch":1,"changeable":0,"ext":"./alitoken.txt"},
+    {"key":"TuGou","name":"土狗","type":3,"api":"csp_TuGou","searchable":1,"changeable":0,"ext":"./alitoken.txt"},
     {"key":"YiSo","name":"易搜","type":3,"api":"csp_YiSo","changeable":1,"searchable":1,"ext":"./alitoken.txt"},
     {"key":"Zhaozy","name":"找资源","type":3,"api":"csp_Zhaozy","changeable":1,"searchable":1,"ext":"./alitoken.txt$$$yingshi$$$abcd1234"},
     {"key":"PanSou","name":"盘搜","type":3,"api":"csp_PanSou","changeable":1,"searchable":1,"ext":"./alitoken.txt"},
