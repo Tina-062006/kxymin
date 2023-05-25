@@ -1,6 +1,6 @@
 {
   "wallpaper": "https://picsum.photos/1280/720/?blur=5",
-  "spider": "./jar/custom_spider.jar;md5;35ed4f8761257fa9052865ad0f1a2342",
+  "spider": "./jar/custom_spider.jar;md5;a41ca4cee6c2af1fcc0c7fd0fc28fb3d",
   
   "sites": [
     {"key":"douban","name":"豆瓣","type":3,"api":"py_douban","changeable":0,"searchable":0,"ext":"./pyramid/douban.py"},
