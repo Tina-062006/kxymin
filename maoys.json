@@ -17,7 +17,8 @@
     {"key":"Cokemv","name":"Cokemv","type":"3","api":"csp_Dora","changeable":1,"searchable":1,"ext":"b88de1329655cca1beba45aa9776de70"},
     {"key":"Libvio","name":"Libvio","type":"3","api":"csp_Dora","changeable":1,"searchable":1,"ext":"78d057e4d03e47cb62dce13d69b41d6f"},
     {"key":"Dy555","name":"555","type":"3","api":"csp_Dora","changeable":1,"searchable":1,"ext":"f41992bd740145ed58cb212dc0876582"},
-   
+    
+    {"key":"csp_lezhu","name":"乐猪","type":1,"api":"http://pandown.pro/maoys/lezhu.php","changeable":1,"searchable":1},
     {"key":"ikanbot","name":"机器人","type":3,"api":"./JavaScript/ikanbot.js","changeable":1,"searchable":1},
     {"key":"SP360","name":"SP360","type":"3","api":"csp_Dora","changeable":1,"searchable":1,"ext":"9248c57eb22ace4a3431fbd1a979465f"},
 
