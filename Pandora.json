@@ -1,13 +1,13 @@
 {
   "wallpaper": "",
-  "spider": "./jar/Pandora.jar;md5;34f9df52d7e93a9470f8ededa168a9fb",
+  "spider": "./jar/Pandora.jar;md5;ebb1f03776fe4cb56896b10b7834739c",
   "sites": [
     
     {"key":"py_douban","name":"豆瓣","type":3,"api":"py_douban","changeable":1,"searchable":1,"ext":"./pyramid/douban.py"},
-    {"key":"csp_WoGG","name":"影视范","type":3,"api":"csp_WoGG","changeable":1,"searchable":1,"ext":"./alitoken.txt$$$https://wogg.xyz/"},
+    {"key":"csp_WoGG","name":"影视范","type":3,"api":"csp_WoGG","changeable":1,"searchable":1,"ext":"./alitoken.txt"},
     {"key":"csp_AppTT","name":"图图","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"SldYWXFabkhXTWlsTlpMdFNSSyN0ek1JdzlJQVJSY00=$$$Q01pbkowUzdvNnNZWk1WVw==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
     {"key":"csp_Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","changeable":1,"searchable":1},
-    {"key":"csp_LiteApple","name":"小苹果","type":3,"api":"csp_LiteApple","playerType":1,"changeable":1,"searchable":1},
+    {"key":"csp_LiteApple","name":"小苹果","type":3,"api":"csp_LiteApple","changeable":1,"searchable":1},
     {"key":"csp_Kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","changeable":1,"searchable":1},    
     {"key":"csp_Czsapp","name":"厂长","type":3,"api":"csp_Czsapp","changeable":1,"searchable":1},
     {"key":"csp_YQKAPP","name":"一起看","type":3,"api":"csp_YQKAPP","playerType":2,"changeable":1,"searchable":1,"ext":"https://api-aws.11ty.top"},
