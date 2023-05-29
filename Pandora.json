@@ -42,8 +42,7 @@
     
     {"key":"csp_AList","name":"AList","type":3,"api":"csp_AList","changeable":1,"searchable":1,"ext":"./json/Alist.json"},    
     {"key":"csp_Bili","name":"哔哩","type":3,"api":"csp_Bili","changeable":1,"searchable":1,"ext":"./json/bili.json"},
-    {"key":"csp_Biliych","name":"演唱会","type":3,"api":"csp_Bili","changeable":1,"searchable":1,"ext":"./json/biliych.json"},
- 
+     
     {"key":"csp_Dovx","name":"七夜","type":3,"api":"csp_Dovx","changeable":1,"searchable":1,"ext":"./alitoken.txt"},
     {"key":"csp_YiSo","name":"易搜","type":3,"api":"csp_YiSo","changeable":1,"searchable":1,"ext":"./alitoken.txt"},
     {"key":"csp_TuGou","name":"土狗","type":3,"api":"csp_TuGou","changeable":1,"searchable":1,"ext":"./token.txt"},
