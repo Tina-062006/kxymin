@@ -11,7 +11,7 @@
     {"key":"IKan","name":"爱看","type":"3","api":"csp_Dora","changeable":1,"searchable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50"},
     {"key":"Czsapp","name":"厂长","type":"3","api":"csp_Dora","changeable":1,"searchable":1,"ext":"8ee655f702d0d21f3643504783babbc3"},
     {"key":"Kuaikan","name":"快看","type":"3","api":"csp_Dora","changeable":1,"searchable":1,"ext":"459b1cb892e317546676a2c9dcec2bff"},
-    {"key":"Kunyu77","name":"七七","type":"3","api":"csp_Kunyu77","changeable":1,"searchable":1,"ext":"./pyramid/kunyu77.py"},
+    {"key":"kunyu77","name":"77","type":3,"api":"py_kunyu77","changeable":1,"searchable":1,"ext":"./pyramid/kunyu77.py"},
     {"key":"Auete","name":"Auete","type":"3","api":"csp_Dora","changeable":1,"searchable":1,"ext":"b04b15448ad5bd4312f1fa1fb9aa9b1b"},
     {"key":"Cokemv","name":"Cokemv","type":"3","api":"csp_Dora","changeable":1,"searchable":1,"ext":"b88de1329655cca1beba45aa9776de70"},
     {"key":"LiteApple","name":"苹果","type":"3","api":"csp_Dora","changeable":1,"searchable":1,"playerType": 1,"ext":"6deed4548c44b18d268a5d828f04d86e"},
