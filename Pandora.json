@@ -1,12 +1,13 @@
 {
   "wallpaper": "",
-  "spider": "./jar/Pandora.jar;md5;ebb1f03776fe4cb56896b10b7834739c",
-  "sites": [    
+  "spider": "./jar/Pandora.jar;md5;10eb32e7f059984cba18ee3a8b764470",
+  "sites": [
+    
     {"key":"py_douban","name":"豆瓣","type":3,"api":"py_douban","changeable":1,"searchable":1,"ext":"./pyramid/douban.py"},
     {"key":"csp_WoGG","name":"影视范","type":3,"api":"csp_WoGG","changeable":1,"searchable":1,"ext":"./alitoken.txt"},
     {"key":"csp_AppTT","name":"图图","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"SldYWXFabkhXTWlsTlpMdFNSSyN0ek1JdzlJQVJSY00=$$$Q01pbkowUzdvNnNZWk1WVw==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
     {"key":"csp_Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","changeable":1,"searchable":1},
-    {"key":"csp_LiteApple","name":"苹果","type":3,"api":"csp_LiteApple","changeable":1,"searchable":1},
+    {"key":"csp_LiteApple","name":"小苹果","type":3,"api":"csp_LiteApple","changeable":1,"searchable":1},
     {"key":"csp_Kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","changeable":1,"searchable":1},    
     {"key":"csp_Czsapp","name":"厂长","type":3,"api":"csp_Czsapp","changeable":1,"searchable":1},
     {"key":"csp_YQKAPP","name":"一起看","type":3,"api":"csp_YQKAPP","playerType":2,"changeable":1,"searchable":1,"ext":"https://api-aws.11ty.top"},
@@ -28,7 +29,11 @@
     {"key":"csp_Bdys","name":"哔嘀","type":3,"api":"csp_Bdys01","changeable":1,"searchable":1},
     {"key":"csp_Zxzj","name":"在线","type":3,"api":"csp_Zxzj","changeable":1,"searchable":1,"ext":"https://www.zxzj.pro/"},
     {"key":"csp_Bttoo","name":"Bttwoo","type":3,"api":"csp_Bttwoo","changeable":1,"searchable":1},
-       
+    
+    {"key":"csp_酷影","name":"酷影","type":3,"api":"csp_AppYsV2","changeable":1,"searchable":1,"ext":"http://kuyun.realku.cn/api.php/app/"},
+    {"key":"csp_如意","name":"如意","type":3,"api":"csp_AppYsV2","changeable":1,"searchable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
+
+    
     {"key":"csp_SP33","name":"360","type":3,"api":"csp_SP33","changeable":1,"searchable":1},
     {"key":"csp_Qtv","name":"腾讯","type": 3,"api":"csp_Qtv","changeable":1,"searchable":1},
     {"key":"csp_Itv","name":"爱奇艺","type":3,"api":"csp_Itv","changeable":1,"searchable":1},
@@ -42,7 +47,8 @@
     
     {"key":"csp_AList","name":"AList","type":3,"api":"csp_AList","changeable":1,"searchable":1,"ext":"./json/Alist.json"},    
     {"key":"csp_Bili","name":"哔哩","type":3,"api":"csp_Bili","changeable":1,"searchable":1,"ext":"./json/bili.json"},
-     
+    {"key":"csp_Biliych","name":"演唱会","type":3,"api":"csp_Bili","changeable":1,"searchable":1,"ext":"./json/biliych.json"},
+ 
     {"key":"csp_Dovx","name":"七夜","type":3,"api":"csp_Dovx","changeable":1,"searchable":1,"ext":"./alitoken.txt"},
     {"key":"csp_YiSo","name":"易搜","type":3,"api":"csp_YiSo","changeable":1,"searchable":1,"ext":"./alitoken.txt"},
     {"key":"csp_TuGou","name":"土狗","type":3,"api":"csp_TuGou","changeable":1,"searchable":1,"ext":"./token.txt"},
