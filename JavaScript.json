@@ -1,7 +1,7 @@
 {
 	"spider": "https://ghproxy.net/https://raw.githubusercontent.com/zhixc/CatVodTVSpider/main/jar/custom_spider.jar;md5;5ed246305f5321755c4cdaadf52e7204",
 	"wallpaper": "",
-	"sites": [[
+	"sites": [
 		{"key": "js豆瓣","name": "豆瓣","type": 3,"api": "./JavaScript/libs/drpy2.min.js","changeable": 1,"searchable": 0,"ext": "./JavaScript/drpy.js"},
 		{"key": "360","name": "360","type": 3,"api": "csp_SP360","changeable": 1,"searchable": 1},
 		{"key": "MGTV","name": "MGTV","type": 3,"api": "csp_MGTV","changeable": 1,"searchable": 1},
@@ -44,5 +44,5 @@
 		{"name": "bozrc","type": 0,"url": "https://jx.bozrc.com:4433/player/?url="}, 
 		{"name": "综合", "type": 0, "url": "https://jx.jsonplayer.com/player/?url="},
 		{"name": "爱酷","type": 0,"url": "https://jx.zhanlangbu.com/?url="}
-    ]
+	]
 }
