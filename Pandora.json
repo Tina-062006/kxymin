@@ -4,7 +4,7 @@
   "sites": [
     
     {"key":"py_douban","name":"豆瓣","type":3,"api":"py_douban","changeable":1,"searchable":1,"ext":"./pyramid/douban.py"},
-    {"key":"csp_WoGG","name":"影视范","type":3,"api":"csp_WoGG","changeable":1,"searchable":1,"ext":"./alitoken.txt"},
+    {"key":"csp_WoGG","name":"影视范","type":3,"api":"csp_WoGG","changeable":1,"searchable":1,"ext":"./alitoken.txt$$$http://wogg.xyz/"},
     {"key":"csp_AppTT","name":"图图","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"SldYWXFabkhXTWlsTlpMdFNSSyN0ek1JdzlJQVJSY00=$$$Q01pbkowUzdvNnNZWk1WVw==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
     {"key":"csp_Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","changeable":1,"searchable":1},
     {"key":"csp_LiteApple","name":"小苹果","type":3,"api":"csp_LiteApple","changeable":1,"searchable":1},
