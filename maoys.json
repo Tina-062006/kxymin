@@ -2,6 +2,7 @@
   "wallpaper": "https://picsum.photos/1280/720/?blur=5",
   "spider": "./jar/custom_spider.jar;md5;a7c9c147779e7913c55d5c10e9e54ac3",
   "sites": [
+    {"key":"py_douban","name":"豆瓣","type":3,"api":"py_douban","changeable":1,"searchable":1,"ext":"./pyramid/douban.py"},
     {"key":"世界杯","name":"一起看","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837"},
     {"key":"Lgyy","name":"蓝光","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"b2e573ff040fcd54b50475660ee1a7d1"},
     {"key":"Ddys","name":"低端","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"1cc92323700909e7d46623bc85b958d6"},
