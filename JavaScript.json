@@ -24,8 +24,8 @@
 		{"key": "迷你库","name": "迷你库","type": 3,"api": "./JavaScript/libs/drpy2.min.js","changeable": 1,"searchable": 1,"ext": "./JavaScript/v2/迷你库[V2].js"},
 		{"key": "天空","name": "天空","type": 3,"api": "./JavaScript/libs/drpy2.min.js","changeable": 1,"searchable": 1,"ext": "./JavaScript/v2/天空影视[V2].js"},
 		{"key": "鸭鸭","name": "鸭鸭","type": 3,"api": "./JavaScript/libs/drpy2.min.js","changeable": 1,"searchable": 1,"ext": "./JavaScript/v2/鸭鸭[V2].js"},
-
-        {"key":"mengdandan","name":"萌蛋蛋","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"http://app.mengdandan.com/xgapp.php/v1/"},
+		
+		{"key":"mengdandan","name":"萌蛋蛋","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"http://app.mengdandan.com/xgapp.php/v1/"},
 		{"key":"BuLei","name":"布蕾","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"http://222.211.73.177:1868/api.php/app/"},
 		{"key":"69mj","name":"69美剧","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
 		{"key":"如意","name":"如意","type":3,"api":"csp_AppYsV2","changeable": 1,"searchable": 1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
