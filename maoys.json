@@ -15,7 +15,6 @@
     {"key":"Cokemv","name":"可乐","type":"3","api":"csp_Dora","changeable":"1","searchable":"1","quickSearch":"1","filterable":"1","ext":"b88de1329655cca1beba45aa9776de70"},
     {"key":"LiteApple","name":"苹果","type":"3","api":"csp_Dora","changeable":"1","searchable":"1","quickSearch":"1","filterable":"1","ext":"6deed4548c44b18d268a5d828f04d86e"},
     {"key":"SP360","name":"SP360","type":"3","api":"csp_Dora","changeable":"1","searchable":"1","quickSearch":"1","filterable":"1","ext":"9248c57eb22ace4a3431fbd1a979465f"},
-    {"key":"Upso","name":"云搜","type":"3","api":"csp_UpYun","changeable":"1","searchable":"1","quickSearch":"1","filterable":"1"},
     {"key":"Libvio","name":"Libvio","type":"3","api":"csp_Dora","changeable":"1","searchable":"1","quickSearch":"1","filterable":"1","ext":"78d057e4d03e47cb62dce13d69b41d6f"},
     {"key":"Dy555","name":"555","type":"3","api":"csp_Dora","changeable":"1","searchable":"1","quickSearch":"1","filterable":"1","ext":"f41992bd740145ed58cb212dc0876582"},
 
@@ -33,6 +32,7 @@
     {"key":"AList","name": "AList","type": "3","api":"csp_AList","changeable":"1","searchable":"1","ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"},
  
     {"key":"Xiaoh","name":"小宝","type":"3","api":"csp_Dora","changeable":"1","searchable":"1","quickSearch":"1","filterable":"1","ext":"0842c1d2a8534ec62fb3a3ed848851a7"},
+    {"key":"Upso","name":"云搜","type":"3","api":"csp_UpYun","changeable":"1","searchable":"1","quickSearch":"1","filterable":"1"},
     {"key":"YiSo","name":"易搜","type":"3","api":"csp_YiSo","changeable":"1","searchable":"1","quickSearch":"1","filterable":"1"},
     {"key":"找資源","name":"找資源","type":"3","api":"csp_Zhaozy","changeable":"1","searchable":"1","quickSearch":"1","filterable":"1", "ext": "影視天下第一$$$test2$$$test2"},
     {"key":"AliPS","name":"盘搜","type":"3","api":"csp_PanSou","changeable":"1","searchable":"1","quickSearch":"1","filterable":"1"},
