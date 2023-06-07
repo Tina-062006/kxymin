@@ -38,7 +38,7 @@
 
 		{"key":"资源库","name":"资源库","type":1,"api":"https://api.1080zyku.com/inc/apijson.php","playerType":1,"searchable":1,"changeable":1},
 		{"key":"lezhu","name":"乐猪","type":1,"api":"http://pandown.pro/maoys/lezhu.php","searchable":1,"changeable":1},
-        {"key":"熊熊","name":"磁力熊","type":"1","api":"https://v.3412.net.cn/macapi.php/provide/vod","playUrl":"https://player.i597.cc/?url=","searchable":"1","changeable":"1"},
+		{"key":"熊熊","name":"磁力熊","type":"1","api":"https://v.3412.net.cn/macapi.php/provide/vod","playUrl":"https://player.i597.cc/?url=","searchable":"1","changeable":"1"},
         
 		{"key": "push_agent","name": "推送","type": 3,"api": "csp_PushAgent","changeable": 0,"searchable": 0}
 	  ],
