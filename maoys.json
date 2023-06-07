@@ -18,7 +18,6 @@
     {"key":"Libvio","name":"Libvio","type":"3","api":"csp_Dora","changeable":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"78d057e4d03e47cb62dce13d69b41d6f"},
     {"key":"Dy555","name":"555","type":"3","api":"csp_Dora","changeable":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"f41992bd740145ed58cb212dc0876582"},
     
-    {"key":"DM影视","name":"DM影视","type":3,"api":"csp_AppYsV2","changeable":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.dmdh.top:5680/api.php/app/"},
     {"key":"爱迪","name":"爱迪","type":3,"api":"csp_AppYsV2","changeable":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aidiapp.xyz/xgapp.php/v2/"},
     {"key":"鸭鸭","name":"鸭鸭","type":3,"api":"csp_AppYsV2","changeable":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
     {"key":"猫影","name":"猫影","type":3,"api":"csp_AppYsV2","changeable":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
