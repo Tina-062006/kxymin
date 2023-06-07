@@ -27,7 +27,7 @@
     {"key":"csp_Cokemv","name":"Cokemv","type":3,"api":"csp_Cokemv","changeable":1,"searchable":1},
     
     {"key":"py_bili","name":"bilivd","type":3,"api":"py_bili","changeable":1,"searchable":1,"ext":"./pyramid/py_bilibili.py"},
-    {"key":"csp_BBB","name":"哔哩","type":3,"api":"csp_Bili","changeable":1,"searchable":0,"ext":"./json/Bili.json"},
+    {"key":"csp_BBB","name":"哔哩","type":3,"api":"csp_Bili","changeable":1,"searchable":0,"ext":"./json/bili.json"},
     {"key":"csp_Yj1211","name":"短视频","type":3,"api":"csp_Yj1211","changeable":1,"searchable":1},
     {"key":"csp_Yisou","name":"易搜","type":3,"api":"csp_Yisou","changeable":1,"searchable":1,"ext":"./alitoken.txt"},
     {"key":"csp_Gitcafe","name":"小纸条","type":3,"api":"csp_GitCafe","changeable":1,"searchable":1,"ext":"./alitoken.txt"},
