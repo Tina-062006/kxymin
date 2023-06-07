@@ -55,7 +55,7 @@
 	  	{"name": "火山嗅探","hosts":["huoshan.com"],"regex":["item_id="]},
 	  	{"name": "抖音嗅探","hosts":["douyin.com"],"regex":["is_play_url="]}
 	  ],
-    "parses": [
+	"parses": [
 		{"name": "777","type": 0,"url": "https://jx.777jiexi.com/player/?url="},
 		{"name": "bozrc","type": 0,"url": "https://jx.bozrc.com:4433/player/?url="}, 
 		{"name": "综合", "type": 0, "url": "https://jx.jsonplayer.com/player/?url="},
