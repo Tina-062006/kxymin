@@ -4,6 +4,7 @@
   
   "sites": [
     {"key":"py_douban","name":"豆瓣","type":3,"api":"py_douban","changeable":1,"searchable":1,"ext":"./pyramid/douban.py"},
+    
     {"key":"csp_MianHua","name":"棉花","type":3,"api":"csp_MianHua","changeable":1,"searchable":1,"ext":"https://api.haokantj.com"},
     {"key":"csp_YQKAPP","name":"一起看","api":"csp_YQKAPP","type":3,"changeable":1,"searchable":1,"ext":"https://api-aws.11ty.top"},
     {"key":"csp_HDMOLI","name":"魔力","api":"csp_HDMOLI","type":3,"changeable":1,"searchable":1},
@@ -24,6 +25,8 @@
     {"key":"csp_LibVio","name":"LibVio","type":3,"api":"csp_Lib","changeable":1,"searchable":1},
     {"key":"csp_Auete","name":"Auete","type":3,"api":"csp_Auete","changeable":1,"searchable":1},
     {"key":"csp_Cokemv","name":"Cokemv","type":3,"api":"csp_Cokemv","changeable":1,"searchable":1},
+    
+    {"key":"py_bili","name":"bilivd","type":3,"api":"py_bili","changeable":1,"searchable":1,"ext":"./pyramid/py_bilibili.py"},
     {"key":"csp_BBB","name":"哔哩","type":3,"api":"csp_Bili","changeable":1,"searchable":0,"ext":"./json/Bili.json"},
     {"key":"csp_Yj1211","name":"短视频","type":3,"api":"csp_Yj1211","changeable":1,"searchable":1},
     {"key":"csp_Yisou","name":"易搜","type":3,"api":"csp_Yisou","changeable":1,"searchable":1,"ext":"./alitoken.txt"},
