@@ -41,7 +41,7 @@
     {"key":"盤搜索","name":"盤搜索","type":"3","api":"csp_PanSearch","changeable":1,"searchable":1,"quickSearch":1,"filterable":1},
     {"key":"push_agent","name":"推送","type":"3","api":"csp_Push","changeable":1,"searchable":1,"quickSearch":1,"filterable":1},
     {"key":"公告","name":"公告","type":3,"api":"csp_Notice","searchable":0,"changeable":0,"ext":"./json/notice.json"}
-  ]
+  ],
 
   "lives": [
     {
