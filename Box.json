@@ -25,7 +25,7 @@
     {"key":"csp_LibVio","name":"LibVio","type":3,"api":"csp_Lib","changeable":1,"searchable":1},
     {"key":"csp_Auete","name":"Auete","type":3,"api":"csp_Auete","changeable":1,"searchable":1},
     {"key":"csp_Cokemv","name":"Cokemv","type":3,"api":"csp_Cokemv","changeable":1,"searchable":1},
-    {"key":"影视范","name":"影视范","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xn--yeta099v.online:66/api.php/app/"},
+    
     {"key":"py_bili","name":"bilivd","type":3,"api":"py_bili","changeable":1,"searchable":1,"ext":"./pyramid/py_bilibili.py"},
     {"key":"csp_BBB","name":"哔哩","type":3,"api":"csp_Bili","changeable":1,"searchable":0,"ext":"./json/bili.json"},
     {"key":"csp_Yj1211","name":"短视频","type":3,"api":"csp_Yj1211","changeable":1,"searchable":1},
