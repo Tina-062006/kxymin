@@ -1,8 +1,7 @@
 {
   "wallpaper": "",
-  "spider": "./jar/Pandora.jar;md5;5ce71caef727c72289254da2925f7af5",
-  "sites": [
-    
+  "spider": "./jar/Pandora.jar;md5;f29e9bc19d40c5d4cbb271ec41172c74",
+  "sites": [ 
     {"key":"py_douban","name":"豆瓣","type":3,"api":"py_douban","changeable":1,"searchable":1,"ext":"./pyramid/douban.py"},
     {"key":"csp_Miaobo","name":"秒播","type":3,"api":"csp_Miaobo","changeable":1,"searchable":1},
     {"key":"csp_WoGG","name":"影视范","type":3,"api":"csp_WoGG","changeable":1,"searchable":1,"ext":"./alitoken.txt$$$http://tvfan.xxooo.cf/"},
