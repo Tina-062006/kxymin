@@ -1,6 +1,6 @@
 {
   "wallpaper": "https://picsum.photos/1280/720/?blur=5",
-  "spider": "./jar/custom_spider.jar;md5;728d224d92a05e0f5977be12d0a4f065",
+  "spider": "./jar/custom_spider.jar;md5;9a303abf7e5df38af2eb12057ff245c7",
   "sites": [
     {"key":"py_douban","name":"豆瓣","type":3,"api":"py_douban","changeable":1,"searchable":1,"ext":"./pyramid/douban.py"},
     {"key":"世界杯","name":"一起看","type":"3","api":"csp_Dora","changeable":1,"searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837"},
