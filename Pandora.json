@@ -1,11 +1,11 @@
 {
   "wallpaper": "",
-  "spider": "./jar/Pandora.jar;md5;fd6a2cf8f31c7112731c5f90dab94847",
+  "spider": "./jar/Pandora.jar;md5;410df6c3274dab8d5bdfb44d04c40882",
   "sites": [ 
     {"key":"py_douban","name":"豆瓣","type":3,"api":"py_douban","changeable":1,"searchable":1,"ext":"./pyramid/douban.py"},
     {"key":"csp_YQKAPP","name":"一起看","type":3,"api":"csp_YQKAPP","playerType":2,"changeable":1,"searchable":1,"ext":"https://api-aws.11ty.top"},
     {"key":"csp_DuoX","name":"多线","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"filterable":1}, 
-    {"key":"csp_WoGG","name":"影视范","type":3,"api":"csp_WoGG","changeable":1,"searchable":1,"ext":"./alitoken.txt$$$http://wogg.xyz/"},
+    {"key":"csp_WoGG","name":"影视范","type":3,"api":"csp_WoGG","changeable":1,"searchable":1,"ext":"./alitoken.txt+4k|fhd|auto$$$http://wogg.xyz/"},
     {"key":"csp_AppTT","name":"图图","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"U2c3aDRRb0xMQnpWVjRhY1NSSyNIdW8wTkVCZG91ZWw=$$$U3FYMms0cWJZR2kzbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
     {"key":"csp_Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","changeable":1,"searchable":1},
     {"key":"csp_LiteApple","name":"小苹果","type":3,"api":"csp_LiteApple","changeable":1,"searchable":1},
@@ -50,14 +50,14 @@
     {"key":"csp_Bili","name":"哔哩","type":3,"api":"csp_Bili","changeable":1,"searchable":1,"ext":"./json/bili.json"},
     {"key":"csp_Biliych","name":"演唱会","type":3,"api":"csp_Bili","changeable":1,"searchable":1,"ext":"./json/biliych.json"},
  
-    {"key":"csp_Dovx","name":"七夜","type":3,"api":"csp_Dovx","changeable":1,"searchable":1,"ext":"./alitoken.txt"},
-    {"key":"csp_YiSo","name":"易搜","type":3,"api":"csp_YiSo","changeable":1,"searchable":1,"ext":"./alitoken.txt"},
+    {"key":"csp_Dovx","name":"七夜","type":3,"api":"csp_Dovx","changeable":1,"searchable":1,"ext":"./alitoken.txt+4k|fhd|auto"},
+    {"key":"csp_YiSo","name":"易搜","type":3,"api":"csp_YiSo","changeable":1,"searchable":1,"ext":"./alitoken.txt+4k|fhd|auto"},
     {"key":"csp_TuGou","name":"土狗","type":3,"api":"csp_TuGou","changeable":1,"searchable":1,"ext":"./token.txt"},
-    {"key":"csp_Zhaozy","name":"找资源","type":3,"api":"csp_Zhaozy","changeable":1,"searchable":1,"ext":"./alitoken.txt$$$yingshi$$$abcd1234"},
-    {"key":"csp_PanSou","name":"盘搜","type":3,"api":"csp_PanSou","changeable":1,"searchable":1,"ext":"./alitoken.txt"},
-    {"key":"csp_UpYun","name":"UP云搜","type":3,"api":"csp_UpYun","changeable":1,"searchable":1,"ext":"./alitoken.txt"},
-    {"key":"csp_PanSearch","name":"盘搜索","type":3,"api":"csp_PanSearch","changeable":1,"searchable":1,"ext":"./alitoken.txt"},
-    {"key":"push_agent","name":"推送","type":3,"api":"csp_Push","changeable":0,"searchable":0,"ext":"./alitoken.txt"}
+    {"key":"csp_Zhaozy","name":"找资源","type":3,"api":"csp_Zhaozy","changeable":1,"searchable":1,"ext":"./alitoken.txt+4k|fhd|auto$$$yingshi$$$abcd1234"},
+    {"key":"csp_PanSou","name":"盘搜","type":3,"api":"csp_PanSou","changeable":1,"searchable":1,"ext":"./alitoken.txt+4k|fhd|auto"},
+    {"key":"csp_UpYun","name":"UP云搜","type":3,"api":"csp_UpYun","changeable":1,"searchable":1,"ext":"./alitoken.txt+4k|fhd|auto"},
+    {"key":"csp_PanSearch","name":"盘搜索","type":3,"api":"csp_PanSearch","changeable":1,"searchable":1,"ext":"./alitoken.txt+4k|fhd|auto"},
+    {"key":"push_agent","name":"推送","type":3,"api":"csp_Push","changeable":0,"searchable":0,"ext":"./alitoken.txt+4k|fhd|auto"}
     
   ],
   "lives": [
