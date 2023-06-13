@@ -1,6 +1,6 @@
 {
   "wallpaper": "",
-  "spider": "./jar/Pandora.jar;md5;f29e9bc19d40c5d4cbb271ec41172c74",
+  "spider": "./jar/Pandora.jar;md5;9ef1b5b3d4c197f0f9fa72d82b0d3f37",
   "sites": [ 
     {"key":"py_douban","name":"豆瓣","type":3,"api":"py_douban","changeable":1,"searchable":1,"ext":"./pyramid/douban.py"},
     {"key":"csp_Miaobo","name":"秒播","type":3,"api":"csp_Miaobo","changeable":1,"searchable":1},
