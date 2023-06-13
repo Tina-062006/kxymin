@@ -29,7 +29,7 @@
 
     {"key":"Star","name":"星视界","type":"3","api":"csp_Dora","changeable":"1","searchable":"1","quickSearch":"1","filterable":"1","ext":"227debe32e2e299f5b71189055a92e93"},
     {"key":"Xiaoh","name":"Xiaoh","type":"3","api":"csp_Dora","changeable":"1","searchable":"1","quickSearch":"1","filterable":"1","ext":"0842c1d2a8534ec62fb3a3ed848851a7"},
-    {"key": "local","name": "Local(A)","type": "3","api": "csp_Local","searchable": "0","quickSearch": "0","filterable": "0","changeable" :"0"},
+    {"key":"local","name":"Local(A)","type":"3","api":"csp_Local","searchable":"0","quickSearch":"0","filterable":"0","changeable":"0"},
 
     {"key":"sean","name":"Sean","type":"3","api":"csp_Sean","changeable":"1","searchable":"1","quickSearch":"1","filterable":"1", "ext": "影視天下第一token"},
     {"key":"Upso","name":"云搜","type":"3","api":"csp_UpYun","changeable":"1","searchable":"1","quickSearch":"1","filterable":"1", "ext": "影視天下第一token"},
@@ -38,7 +38,7 @@
     {"key":"AliPS","name":"盘搜","type":"3","api":"csp_PanSou","changeable":"1","searchable":"1","quickSearch":"1","filterable":"1", "ext": "影視天下第一token"},
     {"key":"盤搜索","name":"盤搜索","type":"3","api":"csp_PanSearch","changeable":"1","searchable":"1","quickSearch":"1","filterable":"1", "ext": "影視天下第一token"},
     {"key":"阿里","name":"阿里","type":"3","api":"csp_Ali","changeable":"1","searchable":"1","quickSearch":"1","filterable":"1", "ext": "影視天下第一token"},
-    {"key":"push_agent","name":"PushAgent","type":"3","api":"csp_Push","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1", "ext": "影視天下第一token"}
+    {"key":"push_agent","name":"推送","type":"3","api":"csp_Push","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1", "ext": "影視天下第一token"}
   ],
 
   "lives": [
