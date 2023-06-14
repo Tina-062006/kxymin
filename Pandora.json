@@ -18,7 +18,7 @@
     {"key":"Libvio","name":"利奥","type": 3,"api":"csp_Libvio","changeable":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.libvio.cc/"},
     {"key":"Cokemv","name":"可乐","type":3,"api":"csp_Cokemv","changeable":1,"searchable":1,"quickSearch":1,"filterable":1},
     {"key":"Bttoo","name":"比特","type":3,"api":"csp_Bttwoo","changeable":1,"searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"Czsapp","name":"厂长","type":3,"api":"csp_Czsapp","changeable":1,"changeable":1,"searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"Czsapp","name":"厂长","type":3,"api":"csp_Czsapp","changeable":1,"searchable":1,"quickSearch":1,"filterable":1},
     {"key":"DiDuan" ,"name":"低端","type":3,"api":"csp_Ddrk","changeable":1,"searchable":1,"quickSearch":1,"filterable":0},
     
     {"key":"Nmys","name":"农民","type":3,"api":"csp_Nmys","changeable":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://饭太硬.top/x/json/nmys.json"},
@@ -35,10 +35,10 @@
     {"key":"如如","name":"如意","type":3,"api":"csp_AppYsV2","changeable":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
     {"key":"黄黄","name":"鸭鸭","type":3,"api":"csp_AppYsV2","changeable":1,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
     
-    {"key":"360","name":"360","type":3,"api":"csp_SP33","changeable":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-    {"key":"Qtv","name":"腾讯","type":3,"api":"csp_Qtv","changeable":1,"searchable": 1,"quickSearch":1,"filterable":1,"changeable":0},
-    {"key":"Itv","name":"爱奇艺","type":3,"api":"csp_Itv","changeable":1,"quickSearch":1,"searchable":1,"filterable":1,"changeable":0},
-    {"key":"Mtv","name":"芒果","type":3,"api":"csp_Mtv","changeable":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+    {"key":"360","name":"360","type":3,"api":"csp_SP33","changeable":1,"searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"Qtv","name":"腾讯","type":3,"api":"csp_Qtv","changeable":1,"searchable": 1,"quickSearch":1,"filterable":1},
+    {"key":"Itv","name":"爱奇艺","type":3,"api":"csp_Itv","changeable":1,"quickSearch":1,"searchable":1,"filterable":1},
+    {"key":"Mtv","name":"芒果","type":3,"api":"csp_Mtv","changeable":1,"searchable":1,"quickSearch":1,"filterable":1},
     
     {"key":"Dm84","name":"巴士","type":3,"api":"csp_Dm84","changeable":1,"searchable":1,"quickSearch":1,"filterable":1},
     {"key":"Ying","name":"樱花","type":3,"api":"csp_Ying","changeable":1,"searchable":1,"quickSearch":1,"filterable":1},
@@ -49,12 +49,12 @@
     {"key":"AList","name":"AList","type":3,"api":"csp_AList","changeable":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://饭太硬.top/x/json/alist.json"},    
     {"key":"Bili","name":"哔哩","type":3,"api":"csp_Bili","changeable":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://饭太硬.top/x/json/bilibili.json"},
     
-    {"key":"YiSo","name":"易搜","type":3,"api":"csp_YiSo","changeable":1,"searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"./alitoken.txt+4k|fhd|auto"},
-    {"key":"Zhaozy","name":"找资源","type":3,"api":"csp_Zhaozy","changeable":1,"searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"./alitoken.txt+4k|fhd|auto$$$fanfan$$$qqq111"},
-    {"key":"PanSou","name":"盘搜","type":3,"api":"csp_PanSou","changeable":1,"searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"./alitoken.txt+4k|fhd|auto"},
-    {"key":"UpYun","name":"Up搜","type":3,"api":"csp_UpYun","changeable":1,"searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"./alitoken.txt+4k|fhd|auto"},
+    {"key":"YiSo","name":"易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"./alitoken.txt+4k|fhd|auto"},
+    {"key":"Zhaozy","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"./alitoken.txt+4k|fhd|auto$$$fanfan$$$qqq111"},
+    {"key":"PanSou","name":"盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"./alitoken.txt+4k|fhd|auto"},
+    {"key":"UpYun","name":"Up搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"./alitoken.txt+4k|fhd|auto"},
     {"key":"PanSearch","name":"盘Se","type":3,"api":"csp_PanSearch","changeable":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt+4k|fhd|auto"},
-    {"key":"七夜","name":"七夜","type":3,"api":"csp_Dovx","changeable":1,"searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"./alitoken.txt+4k|fhd|auto"},
+    {"key":"七夜","name":"七夜","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"./alitoken.txt+4k|fhd|auto"},
     {"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":0,"changeable":0,"ext":"./alitoken.txt+4k|fhd|auto"}
     
   ],
