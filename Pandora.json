@@ -30,7 +30,7 @@
     {"key":"Lgyy","name":"蓝光","type":3,"api":"csp_Lgyy","changeable":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip"},
     {"key":"Ysgc","name":"工场","type":3,"api":"csp_Ysgc","changeable":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ysgc.vip"},
     {"key":"555","name":"555","type":3,"api":"csp_Ys555","changeable":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com"},
-    {"key":"Smdyy","name": "神马","type": 3,"api": "csp_Smdyy","changeable":1,"searchable": 1,"quickSearch": 1,"filterable": 1},
+    {"key":"Smdyy","name":"神马","type":3,"api":"csp_Smdyy","changeable":1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 
     {"key":"如如","name":"如意","type":3,"api":"csp_AppYsV2","changeable":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
     {"key":"黄黄","name":"鸭鸭","type":3,"api":"csp_AppYsV2","changeable":1,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
