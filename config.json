@@ -1,22 +1,22 @@
 {
     "urls": [
         {
-            "url": "https://agit.ai/kvymin/TV/raw/branch/master/maoys.json",
+            "url": "./maoys.json",
             "name": "主力接口",
             "time": "2023-05-12"
         },
         {
-            "url": "https://agit.ai/kvymin/TV/raw/branch/master/Pandora.json",
+            "url": "./Pandora.json",
             "name": "备用接口",
             "time": "2023-05-12"
         },
         {
-            "url": "https://agit.ai/kvymin/TV/raw/branch/master/Box.json",
+            "url": "./Box.json",
             "name": "巧计接口",
             "time": "2023-05-12"
         },
         {
-            "url": "https://agit.ai/kvymin/drpy_js/raw/branch/master/config.json",
+            "url": "./JavaScript.json",
             "name": "JavaScript接口",
             "time": "2023-05-04"
         },
