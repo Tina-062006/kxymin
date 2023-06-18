@@ -1,6 +1,6 @@
 {
   "wallpaper": " ",
-  "spider": "./jar/Box.jar;md5;8afc335df4268f915c45043b349cefd4",
+  "spider": "./jar/Box.jar;md5;e56cc13f065bfac65fa9bd1fe741a7b9",
   "sites": [
     
         {"key":"py_douban","name":"豆瓣","type":3,"api":"py_douban","changeable":1,"searchable":1,"ext":"./pyramid/douban.py"},
