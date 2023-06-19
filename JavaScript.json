@@ -3,14 +3,14 @@
 	"wallpaper": "",
 	"sites": [
 	{"key": "js豆瓣","name": "豆瓣","type": 3,"api": "./JavaScript/libs/drpy2.min.js","changeable": 1,"searchable": 0,"ext": "./JavaScript/drpy.js"},
- 
-    {"key":"ikanbot","name":"爱看","type":3,"api":"./JavaScript/drpy_ikanbot_min.js","searchable":1,"changeable":1},
-    {"key":"lezhu","name":"乐猪","type":1,"api":"http://pandown.pro/maoys/lezhu.php","searchable":1,"changeable":1},
-    
-    {"key":"独播库","name":"独播库","type":3,"api":"./JavaScript/libs/drpy2.min.js","searchable":1,"changeable":1,"ext":"./JavaScript/独播库.js"},
-    {"key":"HDmoli","name":"魔力","type":3,"api":"./JavaScript/libs/drpy2.min.js","searchable":1,"changeable":1,"ext":"./JavaScript/HDmoli.js"},
-    
-    {"key":"如意[V2]","name":"如意","type":3,"api":"csp_AppYsV2","searchable":1, "ext": "http://cms.maoyingshi.cc/api.php/app/"},
+	
+	{"key":"ikanbot","name":"爱看","type":3,"api":"./JavaScript/drpy_ikanbot_min.js","searchable":1,"changeable":1},	
+	{"key":"lezhu","name":"乐猪","type":1,"api":"http://pandown.pro/maoys/lezhu.php","searchable":1,"changeable":1},
+	
+	{"key":"独播库","name":"独播库","type":3,"api":"./JavaScript/libs/drpy2.min.js","searchable":1,"changeable":1,"ext":"./JavaScript/独播库.js"},	
+	{"key":"HDmoli","name":"魔力","type":3,"api":"./JavaScript/libs/drpy2.min.js","searchable":1,"changeable":1,"ext":"./JavaScript/HDmoli.js"},
+	
+	{"key":"如意[V2]","name":"如意","type":3,"api":"csp_AppYsV2","searchable":1, "ext": "http://cms.maoyingshi.cc/api.php/app/"},
     {"key":"Yj1211","name":"短视频","type":3,"api":"csp_Yj1211","searchable":1},
 	{"key": "69美剧","name": "69美剧","type": 3,"api": "./JavaScript/libs/drpy2.min.js","changeable": 1,"searchable": 1,"ext": "./JavaScript/v2/69美剧[V2].js"},
 	{"key": "555影视","name": "555","type": 3,"api": "./JavaScript/libs/drpy2.min.js","changeable": 1,"searchable": 1,"ext": "./JavaScript/v2/555影视[V2].js"},
