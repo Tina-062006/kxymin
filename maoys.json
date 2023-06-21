@@ -62,6 +62,8 @@
   "parses":[
    //{"name":"解析聚合","type":3,"url":"Demo"},
    //{"name":"嗅探聚合","type":3,"url":"Web"},
+    {"name": "未知","type": 1,"url": "http://43.143.107.57:417//api//?key=73259318e3d893e5b73fd87f20fbc2f7&url="}, 
+    {"name": "小新","type": 1,"url": "http://xiaoxin.1080p.me/home/api?type=ys&uid=2922388&key=afhmnrsuzEHNOP0378&url="}, 
     {"name": "777","type": 0,"url": "https://jx.777jiexi.com/player/?url="},
     {"name": "bozrc","type": 0,"url": "https://jx.bozrc.com:4433/player/?url="}, 
     {"name": "综合", "type": 0, "url": "https://jx.jsonplayer.com/player/?url="},
