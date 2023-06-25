@@ -1,5 +1,5 @@
 {
-"spider":"./jar/Pandora.jar;md5;6b685af783259513bc64b2c9de1c2b8a", 
+"spider":"./jar/Pandora.jar;md5;34dc1e75d13e681afded3cdda2d3a001", 
 "wallpaper":"", 
 "sites":[
   
@@ -17,6 +17,7 @@
 
 {"key":"如如","name":"飞飞","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://big.lfytyl.com/api.php/app/"},
 {"key":"黄黄","name":"迪迪","type":3,"api":"csp_AppYsV2","filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
+{"key":"酷酷","name":"酷影","type":3,"api":"csp_AppYsV2","ext":"http://ys.realdou.cn/api.php/app/","categories":["4K电影","4K电视剧"]},
 
 {"key":"csp_Czsapp","name":"厂长","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_DiDuan" ,"name":"低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
