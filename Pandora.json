@@ -85,14 +85,10 @@
   "parses":[
     //{"name":"聚合1","type":3,"url":"Demo"},
     //{"name":"聚合0","type":3,"url":"Web"},    
-    {"name": "00","type": 1,"url": "https://api.tyun77.cn/api.php/provide/parserUrl?url="},
+   // {"name": "00","type": 1,"url": "https://api.tyun77.cn/api.php/provide/parserUrl?url="},
     {"name": "网络","type": 1,"url": "https://api.cygc.xyz/analysis/?url="},
     {"name": "夜曲","type": 1,"url": "http://xhww.fun:63/爱肥猫.php?url="},
-    {"name": "01","type": 0,"url": "https://jx.jsonplayer.com/player/?url="}, 
-    {"name": "02","type": 0,"url": "https://jx.xmflv.com/?url="},
-    {"name": "03","type": 0,"url": "https://jx.iztyy.com/svip/?url="},
-    {"name": "04","type": 0,"url": "https://okjx.cc/?url="},
-    {"name": "05","type": 0,"url": "https://www.pangujiexi.com/pangu/?url="},
+    {"name": "03","type": 0,"url": "http://1.117.111.78:93/home/api?type=ys&uid=230629&key=公众号【影视范】&url="},
     {"name": "777","type": 0,"url": "https://jx.777jiexi.com/player/?url="}, 
     {"name": "bozrc","type": 0,"url": "https://jx.bozrc.com:4433/player/?url="},
     {"name": "zhanglang","type": 0,"url": "https://jx.zhanlangbu.com/?url="}
