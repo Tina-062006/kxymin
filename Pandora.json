@@ -84,8 +84,9 @@
 
   "parses":[
     //{"name":"聚合1","type":3,"url":"Demo"},
-    //{"name":"聚合0","type":3,"url":"Web"},
+    //{"name":"聚合0","type":3,"url":"Web"},    
     {"name": "00","type": 1,"url": "https://api.tyun77.cn/api.php/provide/parserUrl?url="},
+    {"name": "网络","type": 1,"url": "https://api.cygc.xyz/analysis/?url="},
     {"name": "夜曲","type": 1,"url": "http://xhww.fun:63/爱肥猫.php?url="},
     {"name": "01","type": 0,"url": "https://jx.jsonplayer.com/player/?url="}, 
     {"name": "02","type": 0,"url": "https://jx.xmflv.com/?url="},
