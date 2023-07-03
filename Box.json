@@ -29,7 +29,7 @@
 	{"key":"Yj1211","name":"直播聚合","type":3,"api":"csp_Yj1211","searchable":1},
 	{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"ext":"./alitoken.txt"},
 	{"key":"csp_Music","name":"音乐欣赏","type":3,"api":"csp_Music","searchable":1}
-	],
+  ],
 	
   "parses":[
 	//{"name":"解析聚合","type":3,"url":"Demo"},
