@@ -39,28 +39,28 @@
   ],
 			
   "rules":[
-  {"name":"量子","hosts":["vip.lz","hd.lz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
-  {"name":"非凡","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
-  {"name":"火山","hosts":["huoshan.com"],"regex":["item_id="]},
-  {"name":"抖音","hosts":["douyin.com"],"regex":["is_play_url="]}
+	{"name":"量子","hosts":["vip.lz","hd.lz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
+	{"name":"非凡","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
+	{"name":"火山","hosts":["huoshan.com"],"regex":["item_id="]},
+	{"name":"抖音","hosts":["douyin.com"],"regex":["is_play_url="]}
 ],
 
   "lives":[
-  {
-    "name":"live",
-    "type":0,
-    "url":"aHR0cDovL2h6NzUyLmxvdmU6NjMvdHh0L3R2YnMudHh0",
-    "playerType":1,
-    "ua":"okhttp/3.12.13",
-    "epg":"http://epg.112114.xyz/?ch={name}&amp;date={date}",
-    "logo":"https://epg.112114.xyz/logo/{name}.png"
-  },  
-  {
-    "name":"m3u",
-    "type":0,
-    "url":"https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u",
-    "epg":"http://epg.112114.xyz/?ch={name}&amp;date={date}",
-    "logo":"https://epg.112114.xyz/logo/{name}.png"
+	{
+     "name":"live",
+     "type":0,
+     "url":"aHR0cDovL2h6NzUyLmxvdmU6NjMvdHh0L3R2YnMudHh0",
+     "playerType":1,
+     "ua":"okhttp/3.12.13",
+     "epg":"http://epg.112114.xyz/?ch={name}&amp;date={date}",
+     "logo":"https://epg.112114.xyz/logo/{name}.png"
+    }, 
+	{
+     "name":"m3u",
+     "type":0,
+     "url":"https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u",
+     "epg":"http://epg.112114.xyz/?ch={name}&amp;date={date}",
+     "logo":"https://epg.112114.xyz/logo/{name}.png"
     }
   ],
 
