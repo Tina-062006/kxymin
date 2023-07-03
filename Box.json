@@ -11,7 +11,7 @@
 	{"key":"csp_SC1080","name":"时常影视","type":3,"api":"csp_SC1080","searchable":1},
 	{"key":"csp_YQK","name":"一起看TV","type":3,"api":"csp_YQKAPP","searchable":1,"ext":"https://api-aws.11ty.top"},
 	{"key":"csp_HDMOLI","name":"HDMOLI","type":3,"api":"csp_HDMOLI","searchable":1},
-	{"key":"csp_Bdys","name":"哔滴影视",","type":3,""api":"csp_Bdys01,"searchable":1},
+	{"key":"csp_Bdys","name":"哔滴影视","type":3,"api":"csp_Bdys01","searchable":1},
 	{"key":"csp_DiDuan","name":"低端影视","type":3,"api":"csp_Ddrk","searchable":1},
 	{"key":"csp_Lezhu","name":"乐猪影视","type":3,"api":"csp_Lezhu","searchable":1},
 	{"key":"csp_ShiLiuDY","name":"石榴电影","type":3,"api":"csp_ShiLiuDY","searchable":1},
@@ -19,7 +19,7 @@
 	{"key":"csp_77","name":"酷云七七","type":3,"api":"csp_Kunyu77","searchable":1},
 	{"key":"csp_360","name":"360影视","type":3,"api":"csp_SP360","searchable":1},
 	{"key":"csp_LiteApple","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1},
-	{"key":"csp_ZXZJ","name":"在线之家",","type":3,""api":"csp_Zxzj, "searchable":1},
+	{"key":"csp_ZXZJ","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1},
 	{"key":"csp_Lgdyy","name":"蓝光电影","type":3,"api":"csp_Lgdyy","searchable":1},
 	{"key":"csp_CZSPP","name":"厂长资源","type":3,"api":"csp_Czsapp","searchable":1},
 	{"key":"csp_LibVio","name":"LibVio","type":3,"api":"csp_Lib","searchable":1},
@@ -28,7 +28,7 @@
 	{"key":"csp_Bili","name":"哔哩哔哩","type":3,"api":"csp_Bili","searchable":1,"ext":"https://www.qiaoji8.com/tvbox/bili.json"},
 	{"key":"Yj1211","name":"直播聚合","type":3,"api":"csp_Yj1211","searchable":1},
 	{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"ext":"./alitoken.txt"},
-	{"key":"Music","name":"音乐欣赏","type":3,"api":"csp_Music","searchable":1}
+	{"key":"csp_Music","name":"音乐欣赏","type":3,"api":"csp_Music","searchable":1}
 	],
 	
   "parses":[
