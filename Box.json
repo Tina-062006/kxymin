@@ -1,6 +1,6 @@
 {
   "spider":"./jar/Box.jar;md5;cee9f2d2db9e38f46933d836a9d8b674",
-  "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
+  "wallpaper":"",
   "sites":[
 	{"key":"csp_MianHua","name":"棉花影视","type":3,"api":"csp_MianHua","searchable":1,"ext":"https://api.haokantj.com"},
 	{"key":"csp_NanGua","name":"南瓜影视","type":3,"api":"csp_NanGua","searchable":1},
