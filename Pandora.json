@@ -1,10 +1,11 @@
 {
-"spider":"./jar/Pandora.jar;md5;53c068a1f4c2de11d1160e4dbd0ddb0a", 
+"spider":"./jar/Pandora.jar;md5;cca6aff85e364046abad5fc1de1ed8e6", 
 "wallpaper":"", 
 
 "sites":[
   {"key": "豆瓣","name": "豆瓣","type": 3,"api": "./JavaScript/libs/drpy2.min.js","changeable": 1,"searchable": 0,"ext": "./JavaScript/drpy.js"},
-
+  
+  {"key":"傢伙","name":"糖糖","type":4,"api":"https://php.iptv.hz.cz/moguys.php","searchable":1,"changeable":1},
   {"key":"csp_YGP","name":"新片场","type":3,"api":"csp_YGP","searchable":1,"quickSearch":1,"changeable":0},
   {"key":"csp_DuoX","name":"多线","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://1.117.111.78:93/home/api?type=ys&uid=230629&key=公众号【影视范】&url="},  
   {"key":"csp_MmYs","name":"蘑菇","type":3,"api":"csp_MmYs","searchable":1,"quickSearch":1,"filterable":1},
