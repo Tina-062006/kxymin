@@ -3,9 +3,9 @@
 "wallpaper":"", 
 
 "sites":[
-  //{"key": "豆瓣","name": "豆瓣","type": 3,"api": "./JavaScript/libs/drpy2.min.js","changeable": 1,"searchable": 0,"ext": "./JavaScript/drpy.js"},
+  //{"key":"豆瓣","name":"豆瓣","type":3,"api":"./JavaScript/libs/drpy2.min.js","changeable":1,"searchable":0,"ext":"./JavaScript/drpy.js"},
   {"key":"豆瓣","name":"豆瓣","type":3,"api":"./JavaScript/douban.js","searchable":1,"changeable":1},
-  {"key":"ikanbot","name":"ikanbot","type":3,"api": "./JavaScript/libs/drpy2.min.js","changeable": 1,"searchable": 1,"ext": "./JavaScript/ikanbot.js"},
+  {"key":"ikanbot","name":"ikanbot","type":3,"api":"./JavaScript/libs/drpy2.min.js","changeable":1,"searchable":1,"ext":"./JavaScript/ikanbot.js"},
   {"key":"傢伙","name":"糖糖","type":4,"api":"https://php.iptv.hz.cz/moguys.php","searchable":1,"changeable":1},
   {"key":"lezhu","name":"乐猪","type":1,"api":"http://pandown.pro/maoys/lezhu.php","searchable":1,"changeable":1},
   {"key":"csp_YGP","name":"新片场","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0}, 
