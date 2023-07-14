@@ -11,29 +11,9 @@
             "time": "2023-05-12"
         },
         {
-            "url": "./Box.json",
-            "name": "巧计接口",
-            "time": "2023-05-11"
-        },
-        {
             "url": "./JavaScript.json",
             "name": "JavaScript接口",
             "time": "2023-05-04"
-        },
-        {
-            "url": "https://agit.ai/kvymin/TVRule/raw/branch/main/config.json",
-            "name": "湘雅情接口",
-            "time": "2023-05-04"
-        },
-        {
-            "url": "https://agit.ai/kvymin/xBPQ/raw/branch/master/config.json",
-            "name": "xBPQ接口",
-            "time": "2023-03-21"
-        },
-        {
-            "url": "https://agit.ai/kvymin/pyramid/raw/branch/master/config.json",
-            "name": "金字塔接口",
-            "time": "2023-03-21"
         }
     ]
 }
