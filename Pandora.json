@@ -4,7 +4,7 @@
 
 "sites":[
   {"key": "豆瓣","name": "豆瓣","type": 3,"api": "./JavaScript/libs/drpy2.min.js","changeable": 1,"searchable": 0,"ext": "./JavaScript/drpy.js"},
-  {"key":"贱贱","name":"荐片","type":3,"playerType":"1","api":"http://xn--sss604efuw.top/jm/js/drpy1.min.js","ext":"http://smallmi.xiaohewanwan.love:63/jp.js"},
+  {"key":"贱贱","name":"荐片","type":3,"playerType":"1","api":"./JavaScript/libs/drpy2.min.js","ext":"./JavaScript/jp.js"},
   {"key":"ikanbot","name":"ikanbot","type": 3,"api": "./JavaScript/libs/drpy2.min.js","changeable": 1,"searchable": 0,"ext": "./JavaScript/ikanbot.js"},
  
   {"key":"csp_YGP","name":"新片场","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0}, 
