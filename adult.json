@@ -1,5 +1,5 @@
 {
-  "spider": "https://raw.iqiq.io/Kvymin/JAR/main/jar/custom_spider.jar;md5;945ad30d5255359385ba59b8fb061bb7",
+  "spider": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;ae1463f4584754ef50ab902920ccb7da",
   "wallpaper": "https://gao.chuqiuyu.tk",
   "sites": [
     {
@@ -12,8 +12,8 @@
       "ext": {
         "drives": [
           {
-            "name": "AV",
-            "server": "https://a74d291e-3b91-45a5-9ec6-9f08a9178e59.id.repl.co"
+            "name": "SOD",
+            "server": "https://a.sodaz.xyz"
           }
         ]
       }
@@ -25,6 +25,28 @@
       "api": "csp_NiNi",
       "searchable": 1,
       "ext": "1"
+    },
+    {
+      "key": "量子",
+      "name": "量子",
+      "type": 0,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "伦理片"
+      ]
+    },
+    {
+      "key": "非凡",
+      "name": "非凡",
+      "type": 0,
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "伦理片"
+      ]
     },
     {
       "key": "玩偶",
@@ -509,6 +531,30 @@
       "api": "csp_Push",
       "searchable": 1,
       "changeable": 0
+    }
+  ],
+  "rules": [
+    {
+      "name": "量子廣告",
+      "hosts": [
+        "vip.lz",
+        "hd.lz"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+      ]
+    },
+    {
+      "name": "非凡廣告",
+      "hosts": [
+        "vip.ffzy",
+        "hd.ffzy"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+      ]
     }
   ]
 }

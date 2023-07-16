@@ -1,0 +1,20 @@
+{
+  "drives": [
+    {
+      "name": "七米藍",
+      "server": "https://al.chirmyram.com/dav",
+      "user": "alist",
+      "pass": "alist"
+    },
+    {
+      "name": "影視庫",
+      "server": "https://esir.eu.org/dav",
+      "user": "alist",
+      "pass": "alist"
+    },
+    {
+      "name": "範本",
+      "server": "https://cjk.lm317379829.repl.co/"
+   }
+  ]
+}
