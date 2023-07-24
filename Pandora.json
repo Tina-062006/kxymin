@@ -21,7 +21,7 @@
   {"key":"迪迪","name":"迪迪","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"}, 
   {"key":"酷酷","name":"酷影","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://ys.realdou.cn/api.php/app/","categories":["4K电影","4K电视剧"]}, 
   
-  {"key":"csp_Nmys","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://饭太硬.top/x/json/nmys.json"},
+  {"key":"csp_Nmys","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"./json/nmys.json"},
   {"key":"csp_DiDuan","name":"低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"changeable":1},
   {"key":"csp_Libvio","name":"Libvio","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.libvio.fun/"},
   {"key":"csp_Cokemv","name":"Cokemv","type":3,"api":"csp_Cokemv","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},  
