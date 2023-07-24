@@ -91,12 +91,20 @@
 
 "lives":[
   {
-    "name":"live",
+    "name":"直播",
     "type":0,
     "url":"https://xhdwc.tk/tvlive.txt",
     "playerType":1,
     "epg":"http://epg.112114.xyz/?ch={name}&amp;date={date}",
     "logo":"https://epg.112114.xyz/logo/{name}.png"
+  },
+  {
+    "name": "电视",
+    "type": 0,
+    "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+    "ua": "okhttp/3.12.13",
+    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+    "logo": "https://epg.112114.xyz/logo/{name}.png"
   }
  ],
  
