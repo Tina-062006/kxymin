@@ -62,8 +62,8 @@
   {"key":"AList","name": "AList","type": "3","api":"csp_AList","changeable":"0","searchable":"1","ext":"./json/alist.json"},
   {"key":"WebDAV","name":"WebDAV","type":3,"api":"csp_WebDAV","searchable":1,"changeable":0,"ext":"./json/webdav.json"},
 
-  {"key":"csp_Biliych","name":"演唱会","type": 3,"api": "csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://饭太硬.top/x/json/biliych.json"},
-  {"key":"csp_Bili","name":"哔哩","type": 3,"api": "csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://饭太硬.top/x/json/bilibili.json"},
+  {"key":"csp_Biliych","name":"演唱会","type": 3,"api": "csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"./json/biliych.json"},
+  {"key":"csp_Bili","name":"哔哩","type": 3,"api": "csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"./json/bilibili.json"},
   {"key":"MV_vod","name":"MTV","type":1,"api":"https://mv.饭太硬.ml/mv/vod","searchable":1,"quickSearch":1,"filterable":1,"changeable":0}
 ],
 
