@@ -11,10 +11,6 @@
       "server": "https://esir.eu.org/dav",
       "user": "alist",
       "pass": "alist"
-    },
-    {
-      "name": "範本",
-      "server": "https://cjk.lm317379829.repl.co/"
-   }
+    }
   ]
 }
