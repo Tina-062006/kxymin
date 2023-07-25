@@ -1,6 +1,6 @@
 {
   "spider":"./jar/Box.jar;md5;cee9f2d2db9e38f46933d836a9d8b674",
-  "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
+  "wallpaper":"",
   "sites":[
   	{"key":"豆瓣","name":"豆瓣","type": 3,"api":"./JavaScript/libs/drpy2.min.js","changeable": 1,"searchable": 0,"ext":"./JavaScript/drpy.js"},
 	{"key":"csp_MianHua","name":"棉花影视","type":3,"api":"csp_MianHua","changeable": 1,"searchable":1,"ext":"https://api.haokantj.com"},
