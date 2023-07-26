@@ -19,9 +19,9 @@
 	
 	{"key":"巴士","name":"巴士","type":3,"api":"csp_Dm84","searchable":1,"changeable":1},
 	{"key":"異界","name":"異界","type":3,"api":"csp_Ysj","searchable":1,"changeable":1},
-	{"key":"玩偶","name":"玩偶","type":3,"api":"csp_Wogg","searchable":1,"changeable":0,"ext":"./alitoken.txt"},
-	{"key":"七夜","name":"七夜","type":3,"api":"csp_Dovx","searchable":1,"changeable":0,"ext":"./alitoken.txt"},
-	{"key": "push_agent","name": "推送","type": 3,"api": "csp_PushAgent","changeable": 0,"searchable": 0,"ext":"./alitoken.txt"}
+	{"key":"玩偶","name":"玩偶","type":3,"api":"csp_Wogg","searchable":1,"changeable":0},
+	{"key":"七夜","name":"七夜","type":3,"api":"csp_Dovx","searchable":1,"changeable":0},
+	{"key": "push_agent","name": "推送","type": 3,"api": "csp_PushAgent","changeable": 0,"searchable": 0}
 ],
 
  "lives": [
