@@ -24,26 +24,16 @@
 	{"key": "push_agent","name": "推送","type": 3,"api": "csp_PushAgent","changeable": 0,"searchable": 0,"ext":"./alitoken.txt"}
 ],
 
-    "lives": [
-        {
-          "name": "直播",
-          "type": 0,
-          "playerType": 1,
-          "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "group": "redirect",
-            "channels": [
-                {
-                    "name": "live",
-                    "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-                    "urls": ["proxy://do=live&type=txt&ext=http://home.jundie.top:81/ray/tvlive.txt"]
-                }
-            ]
-        }
-    ],
+ "lives": [
+   {
+    "name": "电视",
+    "type": 0,
+    "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+    "ua": "okhttp/3.12.13",
+    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+    "logo": "https://epg.112114.xyz/logo/{name}.png"
+   }
+ ],
 	
  "doh":[
 	{"name": "Google","url": "https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},
