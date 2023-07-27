@@ -1,24 +1,19 @@
 {
     "urls": [
         {
-            "url": "./maoys.json",
+            "url": "./Pandora.json",
             "name": "主力接口",
-            "time": "2023-05-11"
+            "time": "2023-05-12"
         },
         {
-            "url": "./Pandora.json",
+            "url": "./maoys.json",
             "name": "备用接口",
-            "time": "2023-05-12"
+            "time": "2023-05-11"
         },
         {
             "url": "./JavaScript.json",
             "name": "JavaScript接口",
             "time": "2023-05-04"
-        },
-        {
-            "url": "https://agit.ai/kvymin/TVRule/raw/branch/main/config.json",
-            "name": "香雅晴接口",
-            "time": "2023-07-26"
         }
     ]
 }
