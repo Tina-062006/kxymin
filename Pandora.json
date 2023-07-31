@@ -9,7 +9,7 @@
   
   {"key":"csp_Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1}, 
   {"key":"csp_YT","name":"影探","type":3,"api":"csp_YT","searchable":1,"quickSearch":1,"changeable":1}, 
-  //{"key":"csp_DuoX","name":"多线","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"changeable":1}, 
+  {"key":"csp_Jianying","name":"剪影","type":3,"api":"csp_Jianying","searchable":1,"quickSearch":1,"changeable":1,"ext":"eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiI5NzYyZjljN2FlMDE0MjdmOGE2YzllYTJmOGNlNDNkMCIsImF1ZCI6IjY0MWQ4NDRlNDI2ODQxZWE5MGNmNmYzZjkzM2UwYWY3IiwiZXhwIjoxNjk4NDAzNzU4LCJpYXQiOjE2OTA2Mjc3NTh9.Ii2ldqrMBktk2eil-q8xB8V6IUxieoSqKdcGz4quGV0GhUuwV19ZlW9ywXZTUqJrLnOXHRtpSLpoq6VvQkOxXA"}, 
   {"key":"csp_YQKAPP","name":"一起看","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://api-aws.11ty.top"},
   
   {"key":"csp_MmYs","name":"蘑菇","type":3,"api":"csp_MmYs","searchable":1,"quickSearch":1,"changeable":1}, 
