@@ -1,12 +1,12 @@
 {
-  "spider":"./jar/Pandora.jar;md5;0b808ddea31654697cf64d4e237ce09f", 
+  "spider":"./jar/Pandora.jar;md5;18b8df1e0f7813098c1e70979a264aad", 
   "wallpaper":"", 
 
  "sites":[
   {"key":"豆瓣","name":"豆瓣","type":3,"api":"./JavaScript/libs/drpy2.min.js","changeable":1,"searchable":0,"ext":"./JavaScript/drpy.js"},
-  
+  {"key":"贱贱","name":"贱贱","type":4,"api":"https://test.dovx.tk/csp/jianpian","playerType":1,"searchable":1,"filterable":1,"quickSearch":0,"changeable":1},
 {"key":"csp_YGP","name":"新片场","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
-{"key":"csp_WoGG","name":"影视范","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://sharetoken.lm317379829.repl.co/token?iv=1&key=1+4k|fhd|auto$$$http://tvfan.xxooo.cf/"},
+{"key":"csp_WoGG","name":"影视范","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://alitoken.kvymin.repl.co/token?iv=1&key=1+4k|fhd|auto$$$http://tvfan.xxooo.cf/"},
 {"key":"陌陌","name":"蘑菇","type":3,"api":"csp_MmYs","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"迪迪","name":"迪迪","api":"csp_AppYsV2","type":3,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
 {"key":"csp_77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1},
@@ -42,13 +42,13 @@
   {"key":"csp_Anime1","name":"动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
   {"key":"csp_Yj1211","name":"短视频","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-  {"key":"csp_YiSo","name":"易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://sharetoken.lm317379829.repl.co/token?iv=1&key=1+4k|fhd|auto"},
-  {"key":"csp_Zhaozy","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://sharetoken.lm317379829.repl.co/token?iv=1&key=1+4k|fhd|auto$$$fanfan$$$qqq111"},
-  {"key":"csp_PanSou","name":"盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://sharetoken.lm317379829.repl.co/token?iv=1&key=1+4k|fhd|auto"},
-  {"key":"csp_UpYun","name":"Up搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://sharetoken.lm317379829.repl.co/token?iv=1&key=1+4k|fhd|auto"},
-  {"key":"csp_PanSearch","name":"盘Se","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://sharetoken.lm317379829.repl.co/token?iv=1&key=1+4k|fhd|auto"},
-  {"key":"csp_Dovx","name":"七夜","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://sharetoken.lm317379829.repl.co/token?iv=1&key=1+4k|fhd|auto"},
-  {"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://sharetoken.lm317379829.repl.co/token?iv=1&key=1+4k|fhd|auto"},
+  {"key":"csp_YiSo","name":"易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://alitoken.kvymin.repl.co/token?iv=1&key=1+4k|fhd|auto"},
+  {"key":"csp_Zhaozy","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://alitoken.kvymin.repl.co/token?iv=1&key=1+4k|fhd|auto$$$fanfan$$$qqq111"},
+  {"key":"csp_PanSou","name":"盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://alitoken.kvymin.repl.co/token?iv=1&key=1+4k|fhd|auto"},
+  {"key":"csp_UpYun","name":"Up搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://alitoken.kvymin.repl.co/token?iv=1&key=1+4k|fhd|auto"},
+  {"key":"csp_PanSearch","name":"盘Se","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://alitoken.kvymin.repl.co/token?iv=1&key=1+4k|fhd|auto"},
+  {"key":"csp_Dovx","name":"七夜","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://alitoken.kvymin.repl.co/token?iv=1&key=1+4k|fhd|auto"},
+  {"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://alitoken.kvymin.repl.co/token?iv=1&key=1+4k|fhd|auto"},
 
   {"key":"csp_Nbys","name":"泥巴","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"csp_trj","name": "唐人街","type": 3,"api": "csp_Tangrenjie","searchable": 1,"quickSearch": 1,"filterable": 1},
