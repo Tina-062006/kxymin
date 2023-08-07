@@ -57,8 +57,8 @@
   {"key":"AList","name": "AList","type": "3","api":"csp_AList","changeable":"0","searchable":"1","ext":"./json/alist.json"},
   {"key":"WebDAV","name":"WebDAV","type":3,"api":"csp_WebDAV","searchable":1,"changeable":0,"ext":"./json/webdav.json"},
 
-  {"key":"csp_Biliych","name":"演唱会","type": 3,"api": "csp_Bili","searchable":1,"quickSearch":1,"filterable":1,{"type":"rect","ratio":1.597},"changeable":0,"ext":"./json/biliych.json"},
-  {"key":"csp_Bili","name":"哔哩","type": 3,"api": "csp_Bili","searchable":1,"quickSearch":1,"filterable":1,{"type":"rect","ratio":1.597},"changeable":0,"ext":"./json/bili.json"},
+  {"key":"csp_Biliych","name":"演唱会","type": 3,"api": "csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"./json/biliych.json"},
+  {"key":"csp_Bili","name":"哔哩","type": 3,"api": "csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"./json/bili.json"},
   {"key":"MV_vod","name":"MTV","type":1,"api":"https://mv.wogg.link/mv/vod","style":{"type":"oval"},"searchable":1,"quickSearch":1,"filterable":1,"changeable":0}
 ],
 
