@@ -6,7 +6,7 @@
  
   {"key":"豆瓣","name":"豆瓣","type":3,"api":"./JavaScript/libs/drpy2.min.js","changeable":1,"searchable":0,"ext":"./JavaScript/drpy.js"},
   {"key":"贱贱","name":"🐬(荐片)","type":4,"api":"https://test.dovx.tk/csp/jianpian","playerType":1,"searchable":1,"filterable":1,"quickSearch":0,"changeable":1},
-  {"key":"csp_wogg_cli","name":"🐬玩偶","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清","searchable":1,"quickSearch":1,"filterable":1},
+  {"key":"csp_wogg_cli","name":"🐬玩偶","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"ali_cli","name":"阿里","type":4,"api":"http://home.jundie.top:9520/ali/cli_Ali","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_YGP","name":"新片场","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
 {"key":"csp_WoGG","name":"影视范","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://sharetoken.lm317379829.repl.co/token?iv=1&key=1+4k|fhd|auto$$$http://tvfan.xxooo.cf/"},
