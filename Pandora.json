@@ -17,6 +17,7 @@
 {"key":"csp_DiDuan","name":"低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"changeable":1},
 
 {"key": "csp_appys","name": "影探|4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://yt22106.lfytyl.com/api.php/app/"},
+{"key": "csp_AppYs","name": "如意┃4k","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"style":{ "type":"rect", "ratio":1.33 },"ext": "http://cms.maoyingshi.cc/api.php/app/"},
 
 {"key":"csp_Lib","name":"利播","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.libvio.fun/"},
 {"key":"荐片","name":"荐片","type":3,"playerType":"1","api":"./JavaScript/libs/drpy2.min.js","ext":"./JavaScript/荐片.js"},
