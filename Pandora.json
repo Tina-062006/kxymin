@@ -6,8 +6,12 @@
  
   {"key":"豆瓣","name":"豆瓣","type":3,"api":"./JavaScript/libs/drpy2.min.js","changeable":1,"searchable":0,"ext":"./JavaScript/drpy.js"},
   {"key":"贱贱","name":"荐片(T4)","type":4,"api":"https://test.dovx.tk/csp/jianpian","playerType":1,"searchable":1,"filterable":1,"quickSearch":0,"changeable":1},
-  //{"key":"csp_wogg","name":"玩偶(T4)","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?token=aaf58489c6744ca08e59b7be21907b1f","searchable":1,"quickSearch":1,"filterable":1},
- // {"key":"csp_ali","name":"阿里(T4)","type":4,"api":"http://home.jundie.top:9520/ali/cli_Ali?token=aaf58489c6744ca08e59b7be21907b1f","searchable":1,"quickSearch":1,"filterable":1},
+  
+  {"key":"廠長","name":"廠長","type":3,"api":"./JavaScript/cat/czzy_open.js","searchable":1,"changeable":1},
+    {"key":"愛看","name":"愛看","type":3,"api":"./JavaScript/cat/ikanbot_open.js","searchable":1,"changeable":1},
+    {"key":"快看","name":"快看","type":3,"api":"./JavaScript/cat/kkys_open.js","searchable":1,"changeable":1},
+    {"key":"鲲娱","name":"鲲娱","type":3,"api":"./JavaScript/cat/kunyu77_open.js","searchable":1,"changeable":1},
+    
   {"key":"csp_YGP","name":"新片场","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
   {"key":"csp_GG","name":"影视范","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":1,"ext":"./alitoken.txt+4k|fhd|auto$$$https://wogg.xyz"},
   {"key":"csp_MmYs","name":"蘑菇","type":3,"api":"csp_MmYs","searchable":1,"quickSearch":1,"changeable":1},
@@ -24,7 +28,7 @@
   {"key":"csp_Libvio","name":"Libvio","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.libvio.fun/"},
   
   {"key":"荐片","name":"荐片","type":3,"playerType":"1","api":"./JavaScript/libs/drpy2.min.js","playerType":1,"ext":"./JavaScript/荐片.js","searchable":1,"quickSearch":1,"changeable":1},
-  {"key":"4khdr","name":"4khdr","type":3,"playerType":"1","api":"./JavaScript/libs/drpy2.min.js","playerType":1,"ext":"./JavaScript/4khdr.js","searchable":1,"quickSearch":1,"changeable":1},
+ // {"key":"4khdr","name":"4khdr","type":3,"playerType":"1","api":"./JavaScript/libs/drpy2.min.js","playerType":1,"ext":"./JavaScript/4khdr.js","searchable":1,"quickSearch":1,"changeable":1},
   
   {"key":"csp_Kuying","name":"酷影","type":3,"api":"csp_Kuying","searchable":1,"quickSearch":1,"changeable":1},
   {"key":"csp_YT","name":"影探","type":3,"playerType":"1","api":"csp_YT","searchable":1,"quickSearch":1,"changeable":1},
