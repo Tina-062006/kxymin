@@ -6,8 +6,8 @@
  
   {"key":"豆瓣","name":"豆瓣","type":3,"api":"./JavaScript/libs/drpy2.min.js","changeable":1,"searchable":0,"ext":"./JavaScript/drpy.js"},
   {"key":"贱贱","name":"荐片(T4)","type":4,"api":"https://test.dovx.tk/csp/jianpian","playerType":1,"searchable":1,"filterable":1,"quickSearch":0,"changeable":1},
- // {"key":"csp_wogg","name":"玩偶(T4)","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?token=aaf58489c6744ca08e59b7be21907b1f","searchable":1,"quickSearch":1,"filterable":1},
-  //{"key":"csp_ali","name":"阿里(T4)","type":4,"api":"http://home.jundie.top:9520/ali/cli_Ali","searchable":1,"quickSearch":1,"filterable":1},
+  //{"key":"csp_wogg","name":"玩偶(T4)","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?token=aaf58489c6744ca08e59b7be21907b1f","searchable":1,"quickSearch":1,"filterable":1},
+ // {"key":"csp_ali","name":"阿里(T4)","type":4,"api":"http://home.jundie.top:9520/ali/cli_Ali?token=aaf58489c6744ca08e59b7be21907b1f","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"csp_YGP","name":"新片场","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
   {"key":"csp_GG","name":"影视范","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://sharetoken.lm317379829.repl.co/token?iv=1&key=1+4k|fhd|auto$$$http://tvfan.xxooo.cf/"},
   {"key":"csp_MmYs","name":"蘑菇","type":3,"api":"csp_MmYs","searchable":1,"quickSearch":1,"changeable":1},
