@@ -11,7 +11,8 @@ var rule = {
 	quickSearch:0,
 	filterable:0,
 	headers:{
-		'User-Agent': 'PC_UA'
+		'User-Agent': 'PC_UA',
+        'Cookie':'hvLw_2132_saltkey=D7vrZUuH; hvLw_2132_lastvisit=1691929536; hvLw_2132_visitedfid=2; hvLw_2132_seccodecS=5677.870ed2d7d2d2fb4d5b; _clck=lt4may|2|fe4|0|1320; hvLw_2132_ulastactivity=1691933224%7C0; hvLw_2132_auth=119fboaRVYrtqTya4c3Chmb2cGc2IZ3h4ELGDMagyTlJofiK47RHPXimw7ufupmZNTU4o9%2FchPpSo7kSkIhLrggLzg; hvLw_2132_creditnotice=0D0D10D0D0D0D0D0D0D99214; hvLw_2132_creditbase=0D0D0D0D0D0D0D0D0; hvLw_2132_creditrule=%E6%AF%8F%E5%A4%A9%E7%99%BB%E5%BD%95; hvLw_2132_sid=0; hvLw_2132_st_t=99214%7C1691933228%7C2f46d89bab46b2162f50a04fec9fc593; hvLw_2132_forum_lastvisit=D_2_1691933228; hvLw_2132_lastact=1691933228%09home.php%09spacecp; _clsk=14zpbdc|1691933231647|2|1|v.clarity.ms/collect',
 	},
 	timeout:5000,
 	class_name: "4K电影&4K美剧&4K华语&4K动画&4K纪录片&4K日韩印&蓝光电影&蓝光美剧&蓝光华语&蓝光动画&蓝光日韩印",

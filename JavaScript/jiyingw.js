@@ -1,6 +1,6 @@
 var rule = {
 	title:'极影网[磁]',
-	host:'http://jiyingw.net',
+	host:'https://www.jiyingw.net',
 	homeUrl:'/',
 	url: '/fyclass/page/fypage?',
 	filter_url:'{{fl.class}}',
@@ -12,7 +12,8 @@ var rule = {
 	quickSearch:1,
 	filterable:1,
 	headers:{
-		'User-Agent': 'PC_UA'
+		'User-Agent': 'PC_UA',
+		'Referer': 'https://www.jiyingw.net/'
 	},
 	timeout:5000,
 	class_name:'电影&电视剧&动漫&综艺&影评',
@@ -30,7 +31,7 @@ var rule = {
 		tabs:`js:
 			pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
 			TABS=[]
-			var d = pdfa(html, '#down&&a');
+			var d = pdfa(html, 'p.down-list3');
 			var index=0;
 			d.forEach(function(it) {
 				let burl = pdfh(it, 'a&&href');
@@ -47,7 +48,7 @@ var rule = {
 			log(TABS);
 			pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
 			LISTS = [];
-			var d = pdfa(html, '#down&&a');
+			var d = pdfa(html, 'p.down-list3');
 			TABS.forEach(function(tab) {
 				log('tab >>>>>>>>' + tab);
 				if (/^magnet/.test(tab)) {
@@ -72,4 +73,14 @@ var rule = {
 
 	},
 	搜索:'#post_container li.post;a.zoom&&title;a.zoom img&&src;.info&&Text;a&&href;.article&&Text',
+	预处理:`
+		let new_host=HOST;
+		let new_html=request(new_host, {withHeaders:true});
+		json=JSON.parse(new_html);
+		let setCk=Object.keys(json).find(it=>it.toLowerCase()==="set-cookie");
+		let cookie=setCk?json[setCk].split(";")[0]:"";
+		log("cookie:"+cookie);
+		rule_fetch_params.headers.Cookie=cookie;
+		setItem(RULE_CK,cookie);
+	`,
 }
