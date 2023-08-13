@@ -1,5 +1,5 @@
 {
-  "spider":"./jar/Pandora.jar;md5;7a1718e3ae8e20b2be8ddc8cc76b9c9a", 
+  "spider":"./jar/Pandora.jar;md5;c548a4b3ea3f603ca651b802c52816a8", 
   "wallpaper":"", 
 
  "sites":[
@@ -28,8 +28,8 @@
   {"key":"csp_Libvio","name":"Libvio","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.libvio.fun/"},
   
   {"key":"荐片","name":"荐片","type":3,"playerType":"1","api":"./JavaScript/libs/drpy2.min.js","playerType":1,"ext":"./JavaScript/荐片.js","searchable":1,"quickSearch":1,"changeable":1},
-  {"key":"4khdr","name":"世界","type":3,"playerType":"1","api":"./JavaScript/libs/drpy2.min.js","playerType":1,"ext":"./JavaScript/4khdr.js","searchable":1,"quickSearch":1,"changeable":1},
-  {"key":"jiyingw","name":"极影","type":3,"playerType":"1","api":"./JavaScript/libs/drpy2.min.js","playerType":1,"ext":"./JavaScript/jiyingw.js","searchable":1,"quickSearch":1,"changeable":1},
+  {"key":"4khdr","name":"🧲世界","type":3,"playerType":"1","api":"./JavaScript/libs/drpy2.min.js","ext":"./JavaScript/4khdr.js","searchable":1,"quickSearch":1,"changeable":1},
+  {"key":"jiyingw","name":"🧲极影","type":3,"playerType":"1","api":"./JavaScript/libs/drpy2.min.js","ext":"./JavaScript/jiyingw.js","searchable":1,"quickSearch":1,"changeable":1},
   
   {"key":"csp_Kuying","name":"酷影","type":3,"api":"csp_Kuying","searchable":1,"quickSearch":1,"changeable":1},
   {"key":"csp_YT","name":"影探","type":3,"playerType":"1","api":"csp_YT","searchable":1,"quickSearch":1,"changeable":1},
