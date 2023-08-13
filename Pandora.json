@@ -21,14 +21,15 @@
   {"key":"csp_DiDuan","name":"低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"changeable":1},
   
   {"key": "csp_appys","name": "影探|4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://yt22106.lfytyl.com/api.php/app/"},
-  {"key":"露露","name":"🏵露露","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://154.204.178.161:67/api.php/app/"},
   {"key": "csp_AppYs","name": "如意┃4k","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cms.maoyingshi.cc/api.php/app/"},
   {"key": "csp_AppYsV2","name":"迪迪","api":"csp_AppYsV2","type":3,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
+  {"key":"露露","name":"🏵露露","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://154.204.178.161:67/api.php/app/"},
   
   {"key":"csp_Libvio","name":"Libvio","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.libvio.fun/"},
   
   {"key":"荐片","name":"荐片","type":3,"playerType":"1","api":"./JavaScript/libs/drpy2.min.js","playerType":1,"ext":"./JavaScript/荐片.js","searchable":1,"quickSearch":1,"changeable":1},
- // {"key":"4khdr","name":"4khdr","type":3,"playerType":"1","api":"./JavaScript/libs/drpy2.min.js","playerType":1,"ext":"./JavaScript/4khdr.js","searchable":1,"quickSearch":1,"changeable":1},
+  {"key":"4khdr","name":"世界","type":3,"playerType":"1","api":"./JavaScript/libs/drpy2.min.js","playerType":1,"ext":"./JavaScript/4khdr.js","searchable":1,"quickSearch":1,"changeable":1},
+  {"key":"jiyingw","name":"极影","type":3,"playerType":"1","api":"./JavaScript/libs/drpy2.min.js","playerType":1,"ext":"./JavaScript/jiyingw.js","searchable":1,"quickSearch":1,"changeable":1},
   
   {"key":"csp_Kuying","name":"酷影","type":3,"api":"csp_Kuying","searchable":1,"quickSearch":1,"changeable":1},
   {"key":"csp_YT","name":"影探","type":3,"playerType":"1","api":"csp_YT","searchable":1,"quickSearch":1,"changeable":1},
