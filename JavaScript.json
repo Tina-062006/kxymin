@@ -3,7 +3,13 @@
   "wallpaper": "",
   "sites": [
 	{"key": "豆瓣","name": "豆瓣","type": 3,"api": "./JavaScript/libs/drpy2.min.js","changeable": 1,"searchable": 0,"ext": "./JavaScript/drpy.js"},
-		
+
+	{"key":"鲲娱","name":"鲲娱┃直连","type":3,"api":"./JavaScript/cat/kunyu77_open.js","searchable":1,"changeable":1},
+	{"key":"快看","name":"快看┃直连","type":3,"api":"./JavaScript/cat/kkys_open.js","searchable":1,"changeable":1},
+	{"key":"素白白","name":"素白┃直连","type":3,"api":"./JavaScript/cat/subaibai_open.js","searchable":1,"changeable":1},
+	{"key":"廠長","name":"廠長┃直连","type":3,"api":"./JavaScript/cat/czzy_open.js","searchable":1,"changeable":1},
+	{"key":"愛看","name":"愛看┃直连","type":3,"api":"./JavaScript/cat/ikanbot_open.js","searchable":1,"changeable":1},
+
 	{"key":"69美剧","name":"美剧","type": 3,"api":"./JavaScript/libs/drpy2.min.js","changeable": 1,"searchable": 1,"ext":"./JavaScript/v2/69美剧[V2].js"},
 	{"key":"好看","name":"好看","type":3,"api":"./JavaScript/libs/drpy2.min.js","searchable":1,"changeable":1,"ext":"./JavaScript/v2/F7好看剧[V2].js"},
 	{"key":"UM电影","name":"UM","type": 3,"api":"./JavaScript/libs/drpy2.min.js","changeable": 1,"searchable": 1,"ext":"./JavaScript/v2/UM电影[V2].js"},
