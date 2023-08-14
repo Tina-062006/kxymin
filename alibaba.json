@@ -1,0 +1,17 @@
+{
+  "spider": "./jar/alibaba.jar;md5;332d0e5a28640ee88589390ad4a23a39",
+	"wallpaper": "",
+  "sites": [
+    {"key":"豆瓣","name":"豆瓣","type":3,"api":"./JavaScript/libs/drpy2.min.js","changeable":1,"searchable":0,"ext":"./JavaScript/drpy.js"},
+    {"key":"csp_KungFu404","name":"聚合","type":3,"api":"csp_KungFu404","searchable":1,"filterable":1,"changeable":0,"ext":"./alitoken.txt"},
+    {"key":"csp_WoGG","name":"玩偶","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"./alitoken.txt"},
+    {"key":"UP云搜","name":"云搜","type":3,"api":"csp_UpYun","searchable":1,"filterable":0,"changeable":0,"ext":"./alitoken.txt"},
+    {"key":"纸条","name":"纸条","type":3,"api":"csp_Paper","searchable":1,"filterable":0,"changeable":0,"ext":"./alitoken.txt"},
+    {"key":"易搜","name":"易搜","type":3,"api":"csp_YiSo","searchable":1,"filterable":0,"changeable":0,"ext":"./alitoken.txt"},
+    {"key":"阿里云盘","name":"阿里","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,"ext":"./alitoken.txt"},
+    {"key":"盘搜","name":"盘搜","type":3,"api":"csp_PanSou","searchable":1,"filterable":0,"changeable":0,"ext":"./alitoken.txt"},
+    {"key":"网盘搜索","name":"网盘搜","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":0,"ext":"./alitoken.txt"},
+    {"key":"找资源","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":0,"changeable":0,"ext":"./alitoken.txt$$$yunshuche$$$11223344"},
+    {"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":0,"filterable":0,"changeable":0,"ext":"./alitoken.txt"}
+  ]
+}
