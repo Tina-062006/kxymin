@@ -27,6 +27,7 @@
   
   {"key":"鲲娱","name":"鲲娱┃直连","type":3,"api":"./JavaScript/cat/kunyu77_open.js","searchable":1,"changeable":1},    
   {"key":"快看","name":"快看┃直连","type":3,"api":"./JavaScript/cat/kkys_open.js","searchable":1,"changeable":1},
+  {"key":"素白白","name":"素白白┃直连","type":3,"api":"./JavaScript/cat/subaibai_open.js","searchable":1,"changeable":1},
   {"key":"廠長","name":"廠長┃直连","type":3,"api":"./JavaScript/cat/czzy_open.js","searchable":1,"changeable":1},
   {"key":"愛看","name":"愛看┃直连","type":3,"api":"./JavaScript/cat/ikanbot_open.js","searchable":1,"changeable":1},
   
