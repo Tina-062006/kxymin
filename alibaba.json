@@ -3,8 +3,12 @@
 	"wallpaper": "",
   "sites": [
     {"key":"豆瓣","name":"豆瓣","type":3,"api":"./JavaScript/libs/drpy2.min.js","changeable":1,"searchable":0,"ext":"./JavaScript/drpy.js"},
-    {"key":"csp_KungFu404","name":"聚合","type":3,"api":"csp_KungFu404","searchable":1,"filterable":1,"changeable":0,"ext":"./alitoken.txt"},
-    {"key":"csp_WoGG","name":"玩偶","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"./alitoken.txt"},
+    
+    {"key":"鲲娱","name":"七七","type":3,"api":"./JavaScript/cat/kunyu77_open.js","searchable":1,"changeable":1},
+    {"key":"快看","name":"快看","type":3,"api":"./JavaScript/cat/kkys_open.js","searchable":1,"changeable":1},
+
+    {"key":"聚合","name":"聚合","type":3,"api":"csp_KungFu404","searchable":1,"filterable":1,"changeable":0,"ext":"./alitoken.txt"},
+    {"key":"玩偶","name":"玩偶","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"./alitoken.txt"},
     {"key":"UP云搜","name":"云搜","type":3,"api":"csp_UpYun","searchable":1,"filterable":0,"changeable":0,"ext":"./alitoken.txt"},
     {"key":"纸条","name":"纸条","type":3,"api":"csp_Paper","searchable":1,"filterable":0,"changeable":0,"ext":"./alitoken.txt"},
     {"key":"易搜","name":"易搜","type":3,"api":"csp_YiSo","searchable":1,"filterable":0,"changeable":0,"ext":"./alitoken.txt"},
