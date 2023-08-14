@@ -26,7 +26,7 @@
 	{"key":"影视","name":"影视","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=ad2197f378d444e48cf67de00eaaa53f","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"贱贱","name":"荐片","type":4,"api":"https://test.dovx.tk/csp/jianpian","playerType":1,"searchable":1,"filterable":1,"quickSearch":0,"changeable":1},
 	{"key":"阿里","name":"盘搜","type":4,"api":"http://home.jundie.top:9520/ali/cli_Ali","searchable":1,"quickSearch":1,"filterable":1},
-	{"key":"推送","name":"推送","type":4,"api":"http://home.jundie.top:9520/spider/csp_Push","searchable":1,"quickSearch":1,"playerType":1,"filterable":1,"ext":"ad2197f378d444e48cf67de00eaaa53f"}
+	{"key":"push_agent","name":"推送","type":4,"api":"http://home.jundie.top:9520/spider/csp_Push","searchable":1,"quickSearch":1,"playerType":1,"filterable":1,"ext":"ad2197f378d444e48cf67de00eaaa53f"}
 ],
 
  "lives": [
