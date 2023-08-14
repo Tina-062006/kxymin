@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/alibaba.jar;md5;332d0e5a28640ee88589390ad4a23a39",
+  "spider": "./jar/aliDrive.jar;md5;332d0e5a28640ee88589390ad4a23a39",
 	"wallpaper": "",
   "sites": [
     {"key":"豆瓣","name":"豆瓣","type":3,"api":"./JavaScript/libs/drpy2.min.js","changeable":1,"searchable":0,"ext":"./JavaScript/drpy.js"},
