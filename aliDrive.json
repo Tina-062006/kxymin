@@ -2,7 +2,7 @@
   "spider": "./jar/aliDrive.jar;md5;73a4fcf8d38347da6f186d0708d32d55",
   "wallpaper": "",
   "sites": [
-    {"key":"豆瓣","name":"豆瓣","type":3,"api":"./JavaScript/libs/drpy2.min.js","changeable":1,"searchable":0,"ext":"./JavaScript/drpy.js"},
+    {"key":"豆瓣","name":"豆瓣推片","type":3,"api":"./JavaScript/libs/drpy2.min.js","changeable":1,"searchable":0,"ext":"./JavaScript/drpy.js"},
     
     {"key":"csp_Kunyu77","name":"77影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},    
     {"key":"360_spider","name":"360影视","type":3,"api":"csp_SP360","filterable":1,"quickSearch":1,"searchable":1},
