@@ -21,7 +21,8 @@
 	{"key":"異界","name":"異界","type":3,"api":"csp_Ysj","searchable":1,"changeable":1},
 	{"key":"玩偶","name":"玩偶","type":3,"api":"csp_Wogg","searchable":1,"changeable":0},
 	{"key":"七夜","name":"七夜","type":3,"api":"csp_Dovx","searchable":1,"changeable":0},
-	{"key": "push_agent","name": "推送","type": 3,"api": "csp_PushAgent","changeable": 0,"searchable": 0}
+	{"key":"push_agent","name":"推送","type": 3,"api": "csp_PushAgent","changeable": 0,"searchable": 0},
+	{"key":"推送","name":"推送(T4)","type":4,"api":"http://home.jundie.top:9520/spider/csp_Push","searchable":1,"quickSearch":1,"playerType":1,"filterable":1,"ext":"https://sharetoken.lm317379829.repl.co/token?iv=1&key=1"}
 ],
 
  "lives": [
