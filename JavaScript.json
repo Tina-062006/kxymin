@@ -25,7 +25,7 @@
 
 	{"key":"影视","name":"影视","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清","searchable":1,"quickSearch":1,"playerType":1,"filterable":1,"ext":"https://sharetoken.lm317379829.repl.co/token?iv=1&key=1"},
 	{"key":"贱贱","name":"荐片","type":4,"api":"https://test.dovx.tk/csp/jianpian","playerType":1,"searchable":1,"filterable":1,"quickSearch":0,"changeable":1},
-	{"key":"阿里","name":"阿里","type":4,"api":"http://home.jundie.top:9520/ali/cli_Ali","searchable":1,"quickSearch":1,"filterable":1},
+	{"key":"阿里","name":"盘搜","type":4,"api":"http://home.jundie.top:9520/ali/cli_Ali","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"推送","name":"推送","type":4,"api":"http://home.jundie.top:9520/spider/csp_Push","searchable":1,"quickSearch":1,"playerType":1,"filterable":1,"ext":"https://sharetoken.lm317379829.repl.co/token?iv=1&key=1"}
 ],
 
