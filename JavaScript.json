@@ -28,7 +28,7 @@
 
 	{"key":"影视","name":"阿里","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=ad2197f378d444e48cf67de00eaaa53f","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"贱贱","name":"荐片","type":4,"api":"https://test.dovx.tk/csp/jianpian","searchable":1,"filterable":1,"quickSearch":0,"changeable":1},
-	//{"key":"ali_cli","name":"聚搜","type":4,"api":"http://home.jundie.top:9520/ali/cli_Ali","searchable":1,"quickSearch":1,"filterable":1},
+	{"key":"cili","name":"磁力","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/cili.js","ext":""},
 	{"key":"push_agent","name":"推送","type":4,"api":"http://home.jundie.top:9520/spider/csp_Push","searchable":1,"quickSearch":1,"filterable":1,"ext":"ad2197f378d444e48cf67de00eaaa53f"}
 ],
 
@@ -52,6 +52,7 @@
   ],
 	
  "rules":[
+    {"name":"磁力廣告","hosts":["magnet"],"regex":["更多","社 區","x u u","最 新","最新","直 播","更 新","社 区","有趣","有 趣","英皇体育","全中文AV在线","澳门皇冠赌场"]},
 	{"name": "量子廣告","hosts":["vip.lz","hd.lz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
 	{"name": "非凡廣告","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
 	{"name": "火山嗅探","hosts":["huoshan.com"],"regex":["item_id="]},
