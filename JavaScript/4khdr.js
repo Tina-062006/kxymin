@@ -6,18 +6,25 @@ var rule = {
 	filter_url:'{{fl.class}}',
 	filter:{
 	},
-	searchUrl: '',
-	searchable:0,
-	quickSearch:0,
+	searchUrl: '/search.php#searchsubmit=yes&srchtxt=**;post',
+	searchable:2,
+	quickSearch:1,
 	filterable:0,
 	headers:{
 		'User-Agent': 'PC_UA',
-        'Cookie':'hvLw_2132_saltkey=D7vrZUuH; hvLw_2132_lastvisit=1691929536; hvLw_2132_visitedfid=2; hvLw_2132_seccodecS=5677.870ed2d7d2d2fb4d5b; _clck=lt4may|2|fe4|0|1320; hvLw_2132_ulastactivity=1691933224%7C0; hvLw_2132_auth=119fboaRVYrtqTya4c3Chmb2cGc2IZ3h4ELGDMagyTlJofiK47RHPXimw7ufupmZNTU4o9%2FchPpSo7kSkIhLrggLzg; hvLw_2132_creditnotice=0D0D10D0D0D0D0D0D0D99214; hvLw_2132_creditbase=0D0D0D0D0D0D0D0D0; hvLw_2132_creditrule=%E6%AF%8F%E5%A4%A9%E7%99%BB%E5%BD%95; hvLw_2132_sid=0; hvLw_2132_st_t=99214%7C1691933228%7C2f46d89bab46b2162f50a04fec9fc593; hvLw_2132_forum_lastvisit=D_2_1691933228; hvLw_2132_lastact=1691933228%09home.php%09spacecp; _clsk=14zpbdc|1691933231647|2|1|v.clarity.ms/collect',
+         	'Cookie':'http://127.0.0.1:9978/file:///tvbox/JS/lib/4khdr.txt',
 	},
 	timeout:5000,
 	class_name: "4K电影&4K美剧&4K华语&4K动画&4K纪录片&4K日韩印&蓝光电影&蓝光美剧&蓝光华语&蓝光动画&蓝光日韩印",
 	class_url:"3&8&15&6&11&4&29&31&33&32&34",
-	play_parse:false,
+	play_parse:true,
+	play_json:[{
+		re:'*',
+		json:{
+			parse:0,
+			jx:0
+		}
+	}],
 	lazy:'',
 	limit:6,
 	推荐:'ul#waterfall li;a&&title;img&&src;div.auth.cl&&Text;a&&href',
@@ -30,6 +37,7 @@ var rule = {
 		tabs:`js:
 			pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
 			TABS=[]
+			// log("4khdr 二级 html>>>>>>>>>>" + html);
 			var d = pdfa(html, 'table.t_table');
 			let magnetIndex=0;
 			let aliIndex=0;
@@ -51,7 +59,7 @@ var rule = {
 					TABS.push(result);
 				}
 			});
-			log('TABS >>>>>>>>>>>>>>>>>>' + TABS);
+			log('4khdr TABS >>>>>>>>>>>>>>>>>>' + TABS);
 		`,
 		lists:`js:
 			log(TABS);
@@ -102,5 +110,57 @@ var rule = {
 			`,
 
 	},
-	搜索:'',
+	一级:'ul#waterfall li;a&&title;img&&src;div.auth.cl&&Text;a&&href',
+	搜索:`js:
+		pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
+    		if (rule_fetch_params.headers.Cookie.startsWith("http")){
+			rule_fetch_params.headers.Cookie=fetch(rule_fetch_params.headers.Cookie);
+			let cookie = rule_fetch_params.headers.Cookie;
+			setItem(RULE_CK, cookie);
+		};
+		log('4khdr search cookie>>>>>>>>>>>>>>>' + rule_fetch_params.headers.Cookie);
+		let new_host= HOST + '/search.php';
+		let new_html=request(new_host);
+		let formhash = pdfh(new_html, 'input[name="formhash"]&&value');
+		log("4khdr formhash>>>>>>>>>>>>>>>" + formhash);
+		let params = 'formhash=' + formhash + '&searchsubmit=yes&srchtxt=' + KEY;
+                let _fetch_params = JSON.parse(JSON.stringify(rule_fetch_params));
+                let postData = {
+                    body: params
+                };
+                Object.assign(_fetch_params, postData);
+		log("4khdr search postData>>>>>>>>>>>>>>>" + JSON.stringify(_fetch_params));
+                let search_html = post( HOST + '/search.php', _fetch_params)
+		//log("4khdr search result>>>>>>>>>>>>>>>" + search_html);
+		let d=[];
+		let dlist = pdfa(search_html, 'div#threadlist ul li');
+		dlist.forEach(function(it){
+			let title = pdfh(it, 'h3&&Text');
+			if (searchObj.quick === true){
+				if (title.includes(KEY)){
+					title = KEY;
+				}
+			}
+			let img = "";
+			let content = pdfh(it, 'p:eq(3)&&Text');
+			let desc = pdfh(it, 'p:eq(2)&&Text');
+			let url = pd(it, 'a&&href', HOST);
+			d.push({
+				title:title,
+				img:img,
+				content:content,
+				desc:desc,
+				url:url
+				})
+		});
+		setResult(d);
+	`,
+	预处理:`
+    		if (rule_fetch_params.headers.Cookie.startsWith("http")){
+			rule_fetch_params.headers.Cookie=fetch(rule_fetch_params.headers.Cookie);
+			let cookie = rule_fetch_params.headers.Cookie;
+			setItem(RULE_CK, cookie);
+		};
+		log('4khdr init cookie>>>>>>>>>>>>>>>' + rule_fetch_params.headers.Cookie);
+	`,
 }
