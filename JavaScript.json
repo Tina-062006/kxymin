@@ -28,7 +28,7 @@
 	{"key":"wogg","name":"阿里","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://alitoken.kvymin.repl.co/token?iv=1&key=1"},
 	{"key":"荐片","name":"荐片","type":4,"api":"http://home.jundie.top:9520/spider/csp_JP","searchable":1,"quickSearch":1,"filterable":1},
 
-	{"key":"cili","name":"磁力","type":3,"api":"./JavaScript/cili.js","ext":""},
+	{"key":"cili","name":"🧲磁力","type":3,"api":"./JavaScript/cili.js","ext":""},
 	{"key":"push_agent","name":"推送","type":4,"api":"http://home.jundie.top:9520/spider/csp_Push","searchable":1,"quickSearch":1,"filterable":1,"ext":"ad2197f378d444e48cf67de00eaaa53f"}
 ],
 
