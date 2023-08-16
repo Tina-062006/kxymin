@@ -2,17 +2,15 @@
   "spider": "./jar/aliDrive.jar;md5;20936878f8684a66af715e4aba19501e",
   "wallpaper": "",
   "sites": [
-    {"key":"豆瓣","name":"豆瓣推片","type":3,"api":"./JavaScript/libs/drpy2.min.js","changeable":1,"searchable":0,"ext":"./JavaScript/drpy.js"},
-    
-    {"key":"csp_WoGG","name":"影视范","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://alitoken.kvymin.repl.co/token?iv=1&key=1"},
-    {"key":"UP云搜","name":"UP云搜","type":3,"api":"csp_UpYun","searchable":1,"filterable":0,"changeable":0,"ext":"https://alitoken.kvymin.repl.co/token?iv=1&key=1"},
-    {"key":"纸条","name":"小纸条","type":3,"api":"csp_Paper","searchable":1,"filterable":0,"changeable":0,"ext":"https://alitoken.kvymin.repl.co/token?iv=1&key=1"},
-    {"key":"易搜","name":"易搜","type":3,"api":"csp_YiSo","searchable":1,"filterable":0,"changeable":0,"ext":"https://alitoken.kvymin.repl.co/token?iv=1&key=1"},
-    {"key":"阿里云盘","name":"阿里云","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,"ext":"https://alitoken.kvymin.repl.co/token?iv=1&key=1"},
-    {"key":"盘搜","name":"盘搜","type":3,"api":"csp_PanSou","searchable":1,"filterable":0,"changeable":0,"ext":"https://alitoken.kvymin.repl.co/token?iv=1&key=1"},
-    {"key":"网盘搜索","name":"网盘搜","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":0,"ext":"https://alitoken.kvymin.repl.co/token?iv=1&key=1"},
-    {"key":"找资源","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":0,"changeable":0,"ext":"https://alitoken.kvymin.repl.co/token?iv=1&key=1$$$yunshuche$$$11223344"}
-
+    {"key":"豆瓣","name":"豆瓣推片","type":3,"api":"./JavaScript/libs/drpy2.min.js","searchable":0,"changeable":1,"playerType":2,"ext":"./JavaScript/drpy.js"},
+    {"key":"csp_WoGG","name":"影视范","type":3,"api":"csp_WoGG","searchable":1,"changeable":1,"playerType":2,"ext":"https://alitoken.kvymin.repl.co/token?iv=1&key=1"},
+    {"key":"UP云搜","name":"UP云搜","type":3,"api":"csp_UpYun","searchable":1,"changeable":0,"playerType":2,"ext":"https://alitoken.kvymin.repl.co/token?iv=1&key=1"},
+    {"key":"纸条","name":"小纸条","type":3,"api":"csp_Paper","searchable":1,"changeable":0,"playerType":2,"ext":"https://alitoken.kvymin.repl.co/token?iv=1&key=1"},
+    {"key":"易搜","name":"易搜","type":3,"api":"csp_YiSo","searchable":1,"changeable":0,"playerType":2,"ext":"https://alitoken.kvymin.repl.co/token?iv=1&key=1"},
+    {"key":"阿里云盘","name":"阿里云","type":3,"api":"csp_Dovx","searchable":1,"changeable":0,"playerType":2,"ext":"https://alitoken.kvymin.repl.co/token?iv=1&key=1"},
+    {"key":"盘搜","name":"盘搜","type":3,"api":"csp_PanSou","searchable":1,"changeable":0,"playerType":2,"ext":"https://alitoken.kvymin.repl.co/token?iv=1&key=1"},
+    {"key":"网盘搜索","name":"网盘搜","type":3,"api":"csp_PanSearch","searchable":1,"changeable":0,"playerType":2,"ext":"https://alitoken.kvymin.repl.co/token?iv=1&key=1"},
+    {"key":"找资源","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"changeable":0,"playerType":2,"ext":"https://alitoken.kvymin.repl.co/token?iv=1&key=1$$$yunshuche$$$11223344"}
   ],
 
 "parses":[
