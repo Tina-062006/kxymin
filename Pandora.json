@@ -48,7 +48,7 @@
 {"key":"csp_Anime1","name":"🐾日本┃动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_Yj1211","name":"📽️网红┃直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"changeable":1},
 
-  {"key":"YiSo","name":"😹易搜┃搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://sharetoken.lm317379829.repl.co/token?iv=1&key=1+4k|auto|fhd"},
+{"key":"YiSo","name":"😹易搜┃搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://sharetoken.lm317379829.repl.co/token?iv=1&key=1+4k|auto|fhd"},
 {"key":"Zhaozy","name":"🐺找资源┃搜索","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://sharetoken.lm317379829.repl.co/token?iv=1&key=1+4k|auto|fhd$$$fanfan$$$qqq111"},
 {"key":"PanSou","name":"🦊盘搜┃搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://sharetoken.lm317379829.repl.co/token?iv=1&key=1+4k|auto|fhd"},
 {"key":"UpYun","name":"😻Up搜┃搜索","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://sharetoken.lm317379829.repl.co/token?iv=1&key=1+4k|auto|fhd"},
@@ -56,15 +56,15 @@
 {"key":"七夜","name":"😾七夜┃搜索","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://sharetoken.lm317379829.repl.co/token?iv=1&key=1+4k|auto|fhd"},
 {"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":"https://sharetoken.lm317379829.repl.co/token?iv=1&key=1+4k|auto|fhd"},
 
-  {"key":"csp_Nbys","name":"🛫泥巴┃飞","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
-  {"key":"csp_trj","name": "🛫唐人街┃飞","type": 3,"api": "csp_Tangrenjie","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"csp_Nbys","name":"🛫泥巴┃飞","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_trj","name": "🛫唐人街┃飞","type": 3,"api": "csp_Tangrenjie","searchable": 1,"quickSearch": 1,"filterable": 1},
   
-  {"key":"AList","name": "🐯AList┃网盘","type": "3","api":"csp_AList","changeable":"0","searchable":"1","ext":"./json/alist.json"},
-  {"key":"WebDAV","name":"🐟WebDAV┃网盘","type":3,"api":"csp_WebDAV","searchable":1,"changeable":0,"ext":"./json/webdav.json"},
+{"key":"AList","name": "🐯AList┃网盘","type": "3","api":"csp_AList","changeable":"0","searchable":"1","ext":"./json/alist.json"},
+{"key":"WebDAV","name":"🐟WebDAV┃网盘","type":3,"api":"csp_WebDAV","searchable":1,"changeable":0,"ext":"./json/webdav.json"},
 
-  {"key":"csp_Biliych","name":"🅱哔哔┃演唱会","type": 3,"api": "csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"./json/biliych.json"},
-  {"key":"csp_Bili","name":"🅱哔哔┃合集","type": 3,"api": "csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"./json/bili.json"},
-  {"key":"MV_vod","name":"🎸明星┃MV","type":1,"api":"https://mv.wogg.link/mv/vod","style":{"type":"oval"},"searchable":1,"quickSearch":1,"filterable":1,"changeable":0}
+{"key":"csp_Biliych","name":"🅱哔哔┃演唱会","type": 3,"api": "csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"./json/biliych.json"},
+{"key":"csp_Bili","name":"🅱哔哔┃合集","type": 3,"api": "csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"./json/bili.json"},
+{"key":"MV_vod","name":"🎸明星┃MV","type":1,"api":"https://mv.wogg.link/mv/vod","style":{"type":"oval"},"searchable":1,"quickSearch":1,"filterable":1,"changeable":0}
 ],
 
 "parses":[
