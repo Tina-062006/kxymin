@@ -1,32 +1,18 @@
 {
-  "spider": "./jar/aliDrive.jar;md5;73a4fcf8d38347da6f186d0708d32d55",
+  "spider": "./jar/aliDrive.jar;md5;20936878f8684a66af715e4aba19501e",
   "wallpaper": "",
   "sites": [
     {"key":"豆瓣","name":"豆瓣推片","type":3,"api":"./JavaScript/libs/drpy2.min.js","changeable":1,"searchable":0,"ext":"./JavaScript/drpy.js"},
     
-    {"key":"csp_Kunyu77","name":"77影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},    
-    {"key":"360_spider","name":"360影视","type":3,"api":"csp_SP360","filterable":1,"quickSearch":1,"searchable":1},
-    {"key":"csp_Kuaikan","name":"快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_Czsapp","name":"厂长资源","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cz01.fun"},
-    {"key":"csp_Bdys","name":"哔嘀影视","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_Ddys","name":"低端影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
-    
-    {"key":"csp_JianPian","name":"🔨荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_Ikanbot","name": "Ikanbot","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1},
-    {"key": "csp_Mp4Mov","name": "Mp4电影","type": 3,"api": "csp_Mp4Mov","searchable": 1,"quickSearch": 1,"filterable": 1},
-    {"key":"csp_SeedHub","name":"SeedHub","type":3,"api":"csp_SeedHub","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_KubaCL","name":"酷吧电影","type":3,"api":"csp_KubaCL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_MeijuTT","name":"美剧天堂","type":3,"api":"csp_MeijuTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_MeijuMi","name":"美剧迷","type":3,"api":"csp_MeijuMi","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_WoGG","name":"影视范","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://alitoken.kvymin.repl.co/token?iv=1&key=1"},
+    {"key":"UP云搜","name":"UP云搜","type":3,"api":"csp_UpYun","searchable":1,"filterable":0,"changeable":0,"ext":"https://alitoken.kvymin.repl.co/token?iv=1&key=1"},
+    {"key":"纸条","name":"小纸条","type":3,"api":"csp_Paper","searchable":1,"filterable":0,"changeable":0,"ext":"https://alitoken.kvymin.repl.co/token?iv=1&key=1"},
+    {"key":"易搜","name":"易搜","type":3,"api":"csp_YiSo","searchable":1,"filterable":0,"changeable":0,"ext":"https://alitoken.kvymin.repl.co/token?iv=1&key=1"},
+    {"key":"阿里云盘","name":"阿里云","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,"ext":"https://alitoken.kvymin.repl.co/token?iv=1&key=1"},
+    {"key":"盘搜","name":"盘搜","type":3,"api":"csp_PanSou","searchable":1,"filterable":0,"changeable":0,"ext":"https://alitoken.kvymin.repl.co/token?iv=1&key=1"},
+    {"key":"网盘搜索","name":"网盘搜","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":0,"ext":"https://alitoken.kvymin.repl.co/token?iv=1&key=1"},
+    {"key":"找资源","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":0,"changeable":0,"ext":"https://alitoken.kvymin.repl.co/token?iv=1&key=1$$$yunshuche$$$11223344"}
 
-    {"key":"csp_LocalFile","name":"💻本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":0},
-
-    {"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./alitoken.txt"},
-    {"key":"csp_Zhaozy","name":"找资源","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt"},
-    {"key":"csp_AliPS","name":"喵狸盘搜","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt"},
-    {"key":"csp_Yisou","name":"易搜","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt"},
-    {"key":"csp_Upyunso","name":"UP云搜","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt"},
-    {"key":"push_agent","name":"📽推送","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt"}
   ],
 
 "parses":[
@@ -41,6 +27,7 @@
 ],
 
 "rules":[
+  {"name":"磁力廣告","hosts":["magnet"],"regex":["更多","社 區","x u u","最 新","最新","直 播","更 新","社 区","有趣","有 趣","英皇体育","全中文AV在线","澳门皇冠赌场","哥哥快来","美女荷官","裸聊","新片首发","UUE29"]},
   {"name":"星星","hosts":["aws.ulivetv.net"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
   {"name":"量子廣告","hosts":["vip.lz","hd.lz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
   {"name":"非凡廣告","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
