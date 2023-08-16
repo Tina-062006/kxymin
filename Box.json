@@ -1,4 +1,6 @@
-{"spider":"./jar/Box.jar;md5;f71431362b88ce020d9854eb9166841b","wallpaper":"http://www.kf666888.cn/api/tvbox/img",
+{
+"spider":"./jar/Box.jar;md5;f71431362b88ce020d9854eb9166841b",
+"wallpaper":"",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3BhbmRvd24ucHJvL3R2Ym94L3poaWJvLnR4dA=="]}]}],
 "sites":[
 {"key":"豆瓣","name":"豆瓣推片","type":3,"api":"./JavaScript/libs/drpy2.min.js","changeable":1,"searchable":0,"ext":"./JavaScript/drpy.js"},
