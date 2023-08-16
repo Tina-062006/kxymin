@@ -4,7 +4,7 @@
   "sites": [
     {"key":"豆瓣","name":"豆瓣","type":3,"api":"./JavaScript/libs/drpy2.min.js","searchable":0,"changeable":1,"playerType":2,"ext":"./JavaScript/drpy.js"},
     {"key":"廠長","name":"廠長","type":3,"api":"./JavaScript/cat/kunyu77_open.js","searchable":1,"changeable":1},
-    {"key":"廠長","name":"廠長","type":3,"api":"./JavaScript/cat/czzy_open.js","searchable":1,"changeable":1},
+    {"key":"七七","name":"七七","type":3,"api":"./JavaScript/cat/czzy_open.js","searchable":1,"changeable":1},
     {"key":"愛看","name":"愛看","type":3,"api":"./JavaScript/cat/ikanbot_open.js","searchable":1,"changeable":1},
     {"key":"快看","name":"快看","type":3,"api":"./JavaScript/cat/kkys_open.js","searchable":1,"changeable":1},
     {"key":"白白","name":"白白","type":3,"api":"./JavaScript/cat/subaibai_open.js","searchable":1,"changeable":1},
