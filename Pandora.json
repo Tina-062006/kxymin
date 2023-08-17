@@ -76,6 +76,7 @@
 {"name":"YT","type":1,"url":"http://lflong.lyyytv.cn/json.php?url=","ext":{"flag":["YT_4k","腾讯"],"header":{"User-Agent":"okhttp/3.12.0"}}},
 {"name":"奇奇","type":1,"url":"http://lgg.llwwwll.com:5477/home/api?type=ys&uid=387611&key=ahnrvxyzCDGJKPY137&url=","ext":{"flag":["qiqi","kuying-qq"]}},
 {"name":"哥哥","type":1,"url":"http://jiexi.wogg.link/jx.php?config=http://api.xn--sss604efuw.top/jx&url="},
+{"name":"小新","type":1,"url":"http://xiaoxin.1080p.fun/home/api?type=ys&uid=13270&key=cghkopqtuBFHKQSW38&url="},
 {"name":"01","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url="},
 {"name":"02","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2255&my=eknpqvADFHOPR02458&format=json&url="},
 {"name":"03","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2100&my=ehilmnqyCDGHILNUXZ&mgtv=app&url="},
