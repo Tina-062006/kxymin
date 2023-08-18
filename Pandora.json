@@ -7,7 +7,7 @@
   {"key":"豆瓣","name":"豆瓣","type":3,"api":"./JavaScript/libs/drpy2.min.js","changeable":1,"searchable":0,"ext":"./JavaScript/drpy.js"},
   
   {"key":"YGP","name":"荐影","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
-  {"key":"WoGG","name":"影视饭","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://sharetoken.lm317379829.repl.co/token?iv=1&key=1+4k|auto|fhd$$$http://tvfan.xxooo.cf/"},
+  {"key":"WoGG","name":"影视饭","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://sharetoken.kvymin.repl.co/token?iv=1&key=1+4k|auto|fhd$$$http://tvfan.xxooo.cf/"},
   
   {"key":"Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1},
   {"key":"Czsapp","name":"厂长","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
@@ -49,13 +49,13 @@
   {"key":"Anime","name":"动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"changeable":1},
   {"key":"Yj1211","name":"️短视频","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"changeable":1},
   
-  {"key":"YiSo","name":"易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://sharetoken.lm317379829.repl.co/token?iv=1&key=1+4k|auto|fhd"},
-  {"key":"Zhaozy","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://sharetoken.lm317379829.repl.co/token?iv=1&key=1+4k|auto|fhd$$$fanfan$$$qqq111"},
-  {"key":"PanSou","name":"盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://sharetoken.lm317379829.repl.co/token?iv=1&key=1+4k|auto|fhd"},
-  {"key":"UpYun","name":"Up搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://sharetoken.lm317379829.repl.co/token?iv=1&key=1+4k|auto|fhd"},
-  {"key":"PanSearch","name":"盘Se","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://sharetoken.lm317379829.repl.co/token?iv=1&key=1+4k|auto|fhd"},
-  {"key":"七夜","name":"七夜","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://sharetoken.lm317379829.repl.co/token?iv=1&key=1+4k|auto|fhd"},
-  {"key":"push_agent","name":"手机","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":"https://sharetoken.lm317379829.repl.co/token?iv=1&key=1+4k|auto|fhd"},
+  {"key":"YiSo","name":"易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://sharetoken.kvymin.repl.co/token?iv=1&key=1+4k|auto|fhd"},
+  {"key":"Zhaozy","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://sharetoken.kvymin.repl.co/token?iv=1&key=1+4k|auto|fhd$$$fanfan$$$qqq111"},
+  {"key":"PanSou","name":"盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://sharetoken.kvymin.repl.co/token?iv=1&key=1+4k|auto|fhd"},
+  {"key":"UpYun","name":"Up搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://sharetoken.kvymin.repl.co/token?iv=1&key=1+4k|auto|fhd"},
+  {"key":"PanSearch","name":"盘Se","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://sharetoken.kvymin.repl.co/token?iv=1&key=1+4k|auto|fhd"},
+  {"key":"七夜","name":"七夜","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://sharetoken.kvymin.repl.co/token?iv=1&key=1+4k|auto|fhd"},
+  {"key":"push_agent","name":"手机","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":"https://sharetoken.kvymin.repl.co/token?iv=1&key=1+4k|auto|fhd"},
   
   {"key":"cili","name":"磁力","type":3,"api":"./JavaScript/cili.js","ext":""},
   
