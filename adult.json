@@ -533,6 +533,37 @@
       "changeable": 0
     }
   ],
+
+  
+
+"lives":[  
+  {
+    "name": "直播",
+    "type": 0,
+    "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+    "ua": "okhttp/3.12.13",
+    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+    "logo": "https://epg.112114.xyz/logo/{name}.png"
+  },
+  {
+      "name": "范明明",
+      "type": 0,
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "ua": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36"
+    },
+    {
+      "name": "爱尚",
+      "type": 0,
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/yt.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "ua": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36"
+    }
+ ],
+
+
   "rules": [
     {
       "name": "量子廣告",
