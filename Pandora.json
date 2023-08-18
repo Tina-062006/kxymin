@@ -60,7 +60,7 @@
   {"key":"cili","name":"磁力","type":3,"api":"./JavaScript/cili.js","ext":""},
   
   {"key":"Nbys","name":"泥巴","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
-  1,"filterable": 1},
+  {"key":"trj","name": "唐人街","type": 3,"api": "csp_Tangrenjie","searchable": 1,"quickSearch": 1,"filterable": 1},
   
   {"key":"AList","name": "AList","type": "3","api":"csp_AList","changeable":"0","searchable":"1","ext":"./json/alist.json"},
   {"key":"WebDAV","name":"WebDAV","type":3,"api":"csp_WebDAV","searchable":1,"changeable":0,"ext":"./json/webdav.json"},
