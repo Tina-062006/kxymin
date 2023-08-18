@@ -57,7 +57,7 @@
   {"key":"七夜","name":"七夜","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://sharetoken.kvymin.repl.co/token?iv=1&key=1+4k|auto|fhd"},
   {"key":"push_agent","name":"手机","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":"https://sharetoken.kvymin.repl.co/token?iv=1&key=1+4k|auto|fhd"},
   
-  {"key":"cili","name":"磁力","type":3,"api":"./JavaScript/cili.js","ext":""},
+  {"key":"cili","name":"磁力","type":3,"api":"./JavaScript/lf/lf_p2p2_min.js","ext":""},
   
   {"key":"Nbys","name":"泥巴","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"trj","name": "唐人街","type": 3,"api": "csp_Tangrenjie","searchable": 1,"quickSearch": 1,"filterable": 1},
