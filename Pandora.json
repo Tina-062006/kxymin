@@ -2,9 +2,9 @@
 "spider":"./jar/Pandora.jar;md5;de0d7d8b7ef5c0d56aa0051e63aec89f",
 "wallpaper":"",
 "sites":[
-  {"key":"豆瓣","name":"豆瓣┃评分","type":3,"api":"./JavaScript/libs/drpy2.min.js","changeable":1,"searchable":0,"ext":"./JavaScript/drpy.js"},
-
-{"key":"YGP","name":"观荐┃速递","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
+  //{"key":"豆瓣","name":"🛫豆瓣┃评分","type":3,"api":"./JavaScript/libs/drpy2.min.js","changeable":1,"searchable":0,"ext":"./JavaScript/drpy.js"},
+{"key":"豆瓣","name":"🛫豆瓣┃评分","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"YGP","name":"🚀观荐┃速递","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
 {"key":"csp_WoGG","name":"🏵影视范┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://sharetoken.kvymin.repl.co/token?iv=1&key=1+4k|auto|fhd$$$http://tvfan.xxooo.cf/"},
 
 {"key":"新6V","name":"🧲新6V┃磁力","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://www.xb6v.com/"},
