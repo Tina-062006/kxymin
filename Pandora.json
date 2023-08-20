@@ -5,7 +5,7 @@
   
 {"key":"豆瓣","name":"🎧豆瓣┃评分","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"YGP","name":"🚀观荐┃速递","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
-{"key":"csp_WoGG","name":"🏵玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://sharetoken.kvymin.repl.co/token?iv=1&key=1+4k|auto|fhd$$$http://tvfan.xxooo.cf/"},
+{"key":"csp_WoGG","name":"🏵玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":1,"ext":"./alitoken.txt+4k|auto|fhd$$$http://tvfan.xxooo.cf/"},
 
 {"key":"77","name":"👒七七┃App","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"新6V","name":"🧲新6V┃磁力","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://www.xb6v.com/"},
@@ -49,14 +49,15 @@
 {"key":"Biliych","name":"🅱哔哔┃演唱会","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},
 "searchable":1,"quickSearch":0,"changeable":0,"ext":"./json/biliych.json"},
 {"key":"MV_vod","name":"🎸明星┃MV","type":1,"api":"https://mv.wogg.link/mv/vod","style":{"type":"oval"},"searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-{"key":"YiSo","name":"😹易搜┃搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://sharetoken.kvymin.repl.co/token?iv=1&key=1+4k|auto|fhd"},
-{"key":"Zhaozy","name":"🐺资源┃搜索","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://sharetoken.kvymin.repl.co/token?iv=1&key=1+4k|auto|fhd$$$fanfan$$$qqq111"},
-{"key":"PanSou","name":"🦊盘搜┃搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://sharetoken.kvymin.repl.co/token?iv=1&key=1+4k|auto|fhd"},
-{"key":"UpYun","name":"😻Up搜┃搜索","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://sharetoken.kvymin.repl.co/token?iv=1&key=1+4k|auto|fhd"},
-{"key":"PanSearch","name":"🙀盘Se┃搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://sharetoken.kvymin.repl.co/token?iv=1&key=1+4k|auto|fhd"},
-{"key":"七夜","name":"😾七夜┃搜索","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://sharetoken.kvymin.repl.co/token?iv=1&key=1+4k|auto|fhd"},
-{"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":"https://sharetoken.kvymin.repl.co/token?iv=1&key=1+4k|auto|fhd"}
+{"key":"YiSo","name":"😹易搜┃搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":"./alitoken.txt+4k|auto|fhd"},
+{"key":"Zhaozy","name":"🐺资源┃搜索","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"changeable":0,"ext":"./alitoken.txt+4k|auto|fhd$$$fanfan$$$qqq111"},
+{"key":"PanSou","name":"🦊盘搜┃搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext":"./alitoken.txt+4k|auto|fhd"},
+{"key":"UpYun","name":"😻Up搜┃搜索","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"changeable":0,"ext":"./alitoken.txt+4k|auto|fhd"},
+{"key":"PanSearch","name":"🙀盘Se┃搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":"./alitoken.txt+4k|auto|fhd"},
+{"key":"七夜","name":"😾七夜┃搜索","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"changeable":0,"ext":"./alitoken.txt+4k|auto|fhd"},
+{"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":"./alitoken.txt+4k|auto|fhd"}
 ],
+
 "parses":[
 {"name":"聚合1","type":3,"url":"Demo"},
 {"name":"聚合0","type":3,"url":"Web"},
@@ -75,16 +76,41 @@
 {"name":"05","type":1,"url":"http://139.159.239.156:88/api/?key=vmft4BZienphzLd0LU&url="},
 {"name":"55","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","imgo","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}}
 ],
+
 "rules":[{"name":"量子","hosts":["vip.lz","hd.lz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
 {"name":"非凡","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
 {"name":"暴风","hosts":["bfzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
 {"name":"火山","hosts":["huoshan.com"],"regex":["item_id="]},
 {"name":"抖音","hosts":["douyin.com"],"regex":["is_play_url="]},
 {"name":"磁力","hosts":["magnet"],"regex":["最 新","直 播","更 新"]}
-],
-"lives":[
-{"name":"live","type":0,"url":"./tvlives/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
-],
+],    
+
+  "lives": [
+    {
+      "name": "范明明",
+      "type": 0,
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "ua": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36"
+    },
+    {
+      "name": "爱尚",
+      "type": 0,
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/aishang.m3u",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "ua": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36"
+    },
+    {
+      "name": "百事通",
+      "type": 0,
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u",
+      "playerType": 1
+    }
+  ],
+  
 "flags":["youku","优酷","优 酷","优酷视频","qq","腾讯","腾 讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱 奇 艺","m1905","xigua","letv","leshi","乐视","乐 视","sohu","搜狐","搜 狐","搜狐视频","tudou","pptv","mgtv","芒果","imgo","芒果TV","芒 果 T V","qiqi","kuying-qq","bilibili","哔 哩","哔 哩 哔 哩"],
+
 "ads":["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com","https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"]
 }
