@@ -64,7 +64,7 @@
 {"name":"聚合0","type":3,"url":"Web"},
 
 {"name":"神秘","type":1,"url":"http://xiaoxin.1080p.fun/home/api?type=ys&uid=91198&key=bhntuwyAJLMTUY1478&url="},
-{"name":"哥哥们","type":1,"url":"https://jiexi.wogg.link/api/饭特析.php?url="},
+{"name":"哥们","type":1,"url":"https://jiexi.wogg.link/api/饭特析.php?url="},
 
 {"name":"YT","type":1,"url":"http://lflong.lyyytv.cn/json.php?url=","ext":{"flag":["YT_4k","腾讯"],"header":{"User-Agent":"okhttp/3.12.0"}}},
 {"name":"奇奇","type":1,"url":"http://lgg.llwwwll.com:5477/home/api?type=ys&uid=387611&key=ahnrvxyzCDGJKPY137&url=","ext":{"flag":["qiqi","kuying-qq"]}},
