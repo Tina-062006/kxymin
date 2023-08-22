@@ -15,11 +15,8 @@
 	{"key":"酷奇","name":"酷奇","type":3,"api":"./JavaScript/cat/kuqimv_open.js","searchable":1,"changeable":1},
 	{"key":"短视频","name":"短视频","type":3,"api":"./JavaScript/cat/sharenice_open.js","searchable":1,"changeable":1},
 	{"key":"玩偶","name":"玩偶","type":3,"api":"./JavaScript/cat/wogg_open.js","searchable":1,"changeable":1,"ext": "https://alitoken.kvymin.repl.co/token?iv=1&key=1"},
-	
-	{"key":"荐片","name":"荐片(T4)","type":4,"api":"http://home.jundie.top:9520/spider/csp_JP","searchable":1,"quickSearch":1,"filterable":1},	
-	{"key":"wogg","name":"影视范(T4)","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://alitoken.kvymin.repl.co/token?iv=1&key=1+4k|fhd|auto$$$http://tvfan.xxooo.cf/"},
-	{"key":"cili","name":"磁力","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/cili.js","ext":""},
-	{"key":"bbcli","name":"b站(T4)","type":4,"api":"http://home.jundie.top:9520/spider/cli_Bili?sort=dash,mp4","searchable":1,"quickSearch":0,"filterable":1,"playerType":2,"viewType":1,"ext":"帕梅拉#太极拳#广场舞#演唱会"},
+
+	{"key":"cili","name":"磁力","type":3,"api":"https://agit.ai/kvymin/TV/raw/branch/master/JavaScript/lf/lf_p2p2_min.js","ext":""},
 
 	{"key":"69美剧","name":"美剧","type": 3,"api":"./JavaScript/libs/drpy2.min.js","changeable": 1,"searchable": 1,"ext":"./JavaScript/v2/69美剧[V2].js"},
 	{"key":"好看","name":"好看","type":3,"api":"./JavaScript/libs/drpy2.min.js","searchable":1,"changeable":1,"ext":"./JavaScript/v2/F7好看剧[V2].js"},
