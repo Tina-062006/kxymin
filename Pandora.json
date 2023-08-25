@@ -21,6 +21,7 @@
 {"key":"探探","name":"🏵影探┃App","type":3,"playerType":"1","api":"csp_YTVIP","searchable":1,"quickSearch":1,"changeable":1,"ext":"vvvwvwvvwwvwvvvwvvwwvvvwwwwvvvvwvvvwwvvvwwwvvwvwvvwvvvvw.lyyytv.cn"},
 
 {"key":"白白","name":"🐯白白┃直连","type":3,"api":"./JavaScript/cat/subaibai_open.js","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"蓝光","name":"蓝光┃XBiu","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"花猫","name":"🐱花猫┃XYQ","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQBiu/花猫TV.json"},
 {"key":"南瓜","name":"🎃南瓜┃XBPQ","type":3,"api":"csp_XBPQ","ext":{"分类url":"http://www.mgjszp.com/ng_show/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"电影$1#电视剧$2"}},
 {"key":"迪迪","name":"😎迪迪┃App","api":"csp_AppYsV2","type":3,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
@@ -112,7 +113,7 @@
     {
       "name": "百事通",
       "type": 0,
-      "url": "http://home.jundie.top:81/ray/tvlive.txt",
+      "url": "http://home.jundie.top:81/Cat/tv/live.txt",
       "playerType": 1
     }
   ],
