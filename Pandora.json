@@ -8,6 +8,8 @@
 {"key":"csp_WoGG","name":"🏵玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":1,"ext":"44851af5524345c3a5081d48659c5662+4k|auto|fhd$$$http://tvfan.xxooo.cf/"},
 {"key":"csp_woggcli","name":"🎧玩偶┃T4","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":"44851af5524345c3a5081d48659c5662"},
 {"key":"py_cntv","name":"📺CNTV┃直播","type":4,"api":"https://pythont4.kvymin.repl.co/T4/cntv","searchable":0,"quickSearch":0,"filterable":1,"changeable":0},
+{"key":"py_bili","name":"🅱哔哩┃影视","type":4,"api":"https://pythont4.kvymin.repl.co/T4/bilibilivd","searchable":0,"quickSearch":0,"filterable":1,"changeable":0},
+
 {"key":"77","name":"👒七七┃App","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"专线","name":"🚅专线┃App","type":3,"api":"csp_ZhuanX","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
 {"key":"新6V","name":"🧲新6V┃磁力","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://www.xb6v.com/"},
@@ -53,7 +55,7 @@
 {"key":"csp_Yj1211","name":"📽️网红┃直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"AList","name": "🐯AList┃网盘","type": "3","api":"csp_AList","changeable":"0","searchable":"1","ext":"https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/alist.json"},
 {"key":"WebDAV","name":"🐟WebDAV┃网盘","type":3,"api":"csp_WebDAV","searchable":1,"changeable":0,"ext":"https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/webdav.json"},
-{"key":"Bili","name":"🅱哔哔┃合集","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":"./json/bilibili.json"},
+{"key":"Bili","name":"🅱哔哔┃合集","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":"./json/bili.json"},
 {"key":"Biliych","name":"🅱哔哔┃演唱会","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":"./json/biliych.json"},
 {"key":"MV_vod","name":"🎸明星┃MV","type":1,"api":"https://mv.wogg.link/mv/vod","style":{"type":"oval"},"searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"YiSo","name":"😹易搜┃搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":"44851af5524345c3a5081d48659c5662+4k|auto|fhd"},
