@@ -1,5 +1,5 @@
 {
-"spider":"./jar/Pandora.jar;md5;bf1f28d65240042a470d4f80035e529f",
+"spider":"./jar/Pandora.jar;md5;95dc35454e3c17420a05987596dad54d",
 "wallpaper":"",
 "sites":[
   
@@ -39,14 +39,13 @@
 {"key":"csp_Nmys","name":"农民┃直连","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"./json/nmys.json"},
 {"key":"csp_Ysgc","name":"工场┃直连","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.ysgc1.cc/"},
 
-{"key":"csp_WoGG","name":"玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":1,"ext":"0845dcf71f644aeb98d94bc5181f3871+4k|auto|fhd$$$http://tvfan.xxooo.cf/"},
+{"key":"csp_WoGG","name":"玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://tvfan.xxooo.cf/"},
 {"key":"移动云","name":"移动云┃T4","type":1,"playerType":1,"api":"http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
 
 {"key":"csp_SP33","name":"360┃解析","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"Qtv","name":"腾讯┃解析","type":3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"Itv","name":"奇艺┃解析","type":3,"api":"csp_Itv","quickSearch":1,"searchable":1,"filterable":1,"changeable":0},
 {"key":"Mtv","name":"芒果┃解析","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-{"key":"4KHDR","name":"世界┃磁力","type":3,"searchable":1,"quickSearch":1,"changeable":0,"api":"./JavaScript/libs/drpy2.min.js","ext":"./JavaScript/cili/4khdr.js"},
 
 {"key":"csp_Dm84","name":"动漫┃巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_Ying","name":"樱花┃动漫","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"changeable":1},
@@ -58,13 +57,13 @@
 {"key":"Bili","name":"哔哔┃合集","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":"./json/bili.json"},
 {"key":"Biliych","name":"哔哔┃演唱会","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":"./json/biliych.json"},
 {"key":"MV_vod","name":"明星┃MV","type":1,"api":"https://mv.wogg.link/mv/vod","style":{"type":"oval"},"searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-{"key":"YiSo","name":"易搜┃搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":"0845dcf71f644aeb98d94bc5181f3871+4k|auto|fhd"},
-{"key":"Zhaozy","name":"资源┃搜索","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"changeable":0,"ext":"0845dcf71f644aeb98d94bc5181f3871+4k|auto|fhd$$$fanfan$$$qqq111"},
-{"key":"PanSou","name":"盘搜┃搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext":"0845dcf71f644aeb98d94bc5181f3871+4k|auto|fhd"},
-{"key":"UpYun","name":"Up搜┃搜索","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"changeable":0,"ext":"0845dcf71f644aeb98d94bc5181f3871+4k|auto|fhd"},
-{"key":"PanSearch","name":"盘Se┃搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":"0845dcf71f644aeb98d94bc5181f3871+4k|auto|fhd"},
-{"key":"七夜","name":"七夜┃搜索","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"changeable":0,"ext":"0845dcf71f644aeb98d94bc5181f3871+4k|auto|fhd"},
-{"key":"push_agent","name":"手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":"0845dcf71f644aeb98d94bc5181f3871+4k|auto|fhd"}
+{"key":"YiSo","name":"易搜┃搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
+{"key":"Zhaozy","name":"资源┃搜索","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$fanfan$$$qqq111"},
+{"key":"PanSou","name":"盘搜┃搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
+{"key":"UpYun","name":"Up搜┃搜索","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
+{"key":"PanSearch","name":"盘Se┃搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
+{"key":"七夜","name":"七夜┃搜索","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
+{"key":"push_agent","name":"手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"}
 ],
 
 "parses":[
