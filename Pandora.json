@@ -1,14 +1,11 @@
 {
-"spider":"./jar/Pandora.jar;md5;c80207edebbe5019a688fd2eb653e005",
+"spider":"./jar/Pandora.jar;md5;bf1f28d65240042a470d4f80035e529f",
 "wallpaper":"",
 "sites":[
   
 {"key":"豆瓣","name":"豆瓣┃评分","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"YGP","name":"观荐┃速递","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
 {"key":"csp_WoGG","name":"玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":1,"ext":"7fbdd0b1b3ed4f43b406d9807c68dd8d+4k|auto|fhd$$$http://tvfan.xxooo.cf/"},
-{"key":"csp_woggcli","name":"玩偶┃T4","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":"44851af5524345c3a5081d48659c5662"},
-{"key":"py_cntv","name":"CNTV┃直播","type":4,"api":"https://pythont4.kvymin.repl.co/T4/cntv","searchable":1,"quickSearch":0,"filterable":1,"changeable":0},
-//{"key":"py_bili","name":"🅱哔哩┃影视","type":4,"api":"https://pythont4.kvymin.repl.co/T4/bilibilivd","searchable":1,"quickSearch":0,"filterable":1,"changeable":0},
 
 {"key":"77","name":"七七┃App","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"专线","name":"专线┃App","type":3,"api":"csp_ZhuanX","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
