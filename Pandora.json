@@ -4,11 +4,8 @@
 "sites":[
   
 {"key":"豆瓣","name":"豆瓣┃评分","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
-
-//{"key":"YGP","name":"荐影┃速递","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
-
+{"key":"YGP","name":"荐影┃速递","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
 {"key":"77","name":"七七┃App","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1},
-
 {"key":"白白","name":"白白┃open","type":3,"api":"./JavaScript/cat/subaibai_open.js","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"南瓜","name":"南瓜┃open","type":3,"api":"./JavaScript/cat/ng_open.js","searchable":1,"quickSearch":1,"changeable":1},
 //{"key":"专线","name":"专线┃App","type":3,"api":"csp_ZhuanX","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
