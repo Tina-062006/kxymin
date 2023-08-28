@@ -3,6 +3,15 @@
   "wallpaper": "",
   "sites": [
     {
+      "key": "豆瓣",
+      "name": "豆瓣",
+      "type": 3,
+      "api": "./JavaScript/libs/drpy2.min.js",
+      "changeable": 1,
+      "searchable": 0,
+      "ext": "./JavaScript/drpy.js"
+    },
+    {
       "key": "七七",
       "name": "七七",
       "type": 3,
