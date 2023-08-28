@@ -1,5 +1,1 @@
 https://sharetoken--kvymin.repl.co/token?iv=1&key=1
-
-94fd5ab297e24a769bb762375118ec47
-4fd8fc2b9a1d4ebb94f2ba8f6cfebbea
-6a48eeb65c444a7cb532e554848402dd
