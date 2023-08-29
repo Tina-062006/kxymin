@@ -35,6 +35,7 @@
 {"key":"乐猪","name":"乐猪┃xBPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"./XBPQ/乐猪TV.json"},
 {"key":"黑狐","name":"黑狐┃xBPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"./XBPQ/黑狐.json"},
 {"key":"星辰","name":"星辰┃xBPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"./XBPQ/星辰影视.json"},
+{"key":"飞云","name":"飞云┃xBPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"./XBPQ/飞云.json"},
 
 {"key":"新6V","name":"新6V┃磁力","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://www.xb6v.com/"},
 {"key":"贱贱","name":"荐片┃p2p","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"./JavaScript/libs/drpy2.min.js","ext":"./JavaScript/荐片.js"},
