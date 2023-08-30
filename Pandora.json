@@ -50,6 +50,9 @@
 
 {"key":"csp_WoGG","name":"玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://tvfan.xxooo.cf/"},
 
+{"key":"csp_wogg_cli","name":"玩偶┃T4","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt","timeout":30},
+{"key":"荐片","name":"荐片┃T4","type":4,"api":"http://home.jundie.top:9520/spider/csp_JP","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
+
 {"key":"移动云","name":"移动云┃T1","type":1,"playerType":1,"api":"http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
 {"key":"暴風","name":"暴風┃T1","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"changeable":1},
 {"key":"量子","name":"量子┃T0","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1},
@@ -108,7 +111,7 @@
 {"name":"极速","hosts":["vip.js","hd.js"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:15,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
 {"name":"火山","hosts":["huoshan.com"],"regex":["item_id="]},
 {"name":"抖音","hosts":["douyin.com"],"regex":["is_play_url="]},
-{"name":"磁力","hosts":["magnet"],"regex":["最 新","直 播","更 新"]}
+{"name":"磁力","hosts":["magnet"],"regex":["更多","社區","xuu","最新","最新","直播","更新","社区","有趣","有趣","英皇体育","全中文AV在线","澳门皇冠赌场","哥哥快来","美女荷官","裸聊","新片首发","UUE29"]}
 ], 
 
  "lives": [
