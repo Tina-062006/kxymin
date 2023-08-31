@@ -100,6 +100,14 @@
       "changeable": 0
     },
     {
+      "key": "易搜",
+      "name": "易搜",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
       "key": "雲搜",
       "name": "雲搜",
       "type": 3,
@@ -112,6 +120,14 @@
       "name": "盤搜",
       "type": 3,
       "api": "csp_PanSou",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "小紙條",
+      "name": "小紙條",
+      "type": 3,
+      "api": "csp_XiaoZhiTiao",
       "searchable": 1,
       "changeable": 0
     },
@@ -133,11 +149,11 @@
       "ext": "影視天下第一$$$test2$$$test2"
     },
     {
-      "key": "本地",
-      "name": "本地",
+      "key": "push_agent",
+      "name": "推送",
       "type": 3,
-      "api": "csp_Local",
-      "searchable": 0,
+      "api": "csp_Push",
+      "searchable": 1,
       "changeable": 0
     },
     {
