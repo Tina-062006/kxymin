@@ -90,6 +90,27 @@
       "api": "csp_Ysj",
       "searchable": 1,
       "changeable": 1
+    },,
+    {
+      "key": "玩偶",
+      "name": "玩偶",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "token": "影視天下第一",
+        "filter": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/wogg.json"
+      }
+    },
+    {
+      "key": "紙條",
+      "name": "紙條",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/cli_gitCafe",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "44160c32d4ca40c6b7cebf66ce40e7e1"
     },
     {
       "key": "七夜",
@@ -124,8 +145,8 @@
       "changeable": 0
     },
     {
-      "key": "小紙條",
-      "name": "小紙條",
+      "key": "紙條搜",
+      "name": "紙條搜",
       "type": 3,
       "api": "csp_XiaoZhiTiao",
       "searchable": 1,
@@ -149,14 +170,6 @@
       "ext": "影視天下第一$$$test2$$$test2"
     },
     {
-      "key": "push_agent",
-      "name": "推送",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
       "key": "AList",
       "name": "AList",
       "type": 3,
@@ -178,7 +191,7 @@
       "key": "bili_open",
       "name": "哔哩(open)",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/bili_open.js",
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/bili_open.js",
       "searchable": 1,
       "changeable": 0,
       "ext": {
@@ -210,18 +223,6 @@
       "api": "csp_NiNi",
       "searchable": 1,
       "changeable": 1
-    },
-    {
-      "key": "玩偶",
-      "name": "玩偶",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "token": "影視天下第一",
-        "filter": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/wogg.json"
-      }
     },
     {
       "key": "星星",
