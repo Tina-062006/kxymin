@@ -14,7 +14,7 @@
 {"key":"DiDuan","name":"低端┃直连","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"Auete","name":"奥特┃直连","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"zxzj","name":"在线┃直连","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzj.pro/"},
-{"key":"探探","name":"影探┃App","type":3,"playerType":"1","api":"csp_YTVIP","searchable":1,"quickSearch":1,"changeable":1,"ext":"vip.lyyytv.cn"}, 
+{"key":"YTVIP","name":"影探┃App","type":3,"playerType":"1","api":"csp_YTVIP","searchable":1,"quickSearch":1,"changeable":1,"ext":"vip.lyyytv.cn"}, 
 {"key":"Voflx","name":"Vofix┃直连","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"Libvio","name":"利播┃直连","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.libvio.fun/"},
 {"key":"Xinsj","name":"视觉┃直连","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.6080yy3.com/"},
@@ -24,6 +24,9 @@
 {"key":"Cokemv","name":"可乐┃直连","type":3,"api":"csp_Cokemv","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"Nmys","name":"农民┃直连","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"./json/nmys.json"},
 {"key":"Ysgc","name":"工场┃直连","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.ysgc1.cc/"},
+
+{"key":"csp_WoGG","name":"玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://tvfan.xxooo.cf/"},
+{"key":"csp_SixV","name":"新6V┃磁力","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://www.xb6v.com/"},
 
 {"key":"drpy_js_花猫","name":"花猫┃drpy","type":3,"api":"./JavaScript/libs/drpy2.min.js","ext":"./JavaScript/花猫TV.js","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"drpy_js_花猪","name":"花猪┃drpy","type":3,"api":"./JavaScript/libs/drpy2.min.js","ext":"./JavaScript/花猪TV.js","searchable":1,"quickSearch":1,"changeable":1},
@@ -35,17 +38,14 @@
 {"key":"csp_XBPQ_星辰","name":"星辰┃xBPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"./XBPQ/星辰影视.json"},
 {"key":"csp_XBPQ_飞云","name":"飞云┃xBPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"./XBPQ/飞云.json"},
 
-{"key":"csp_SixV","name":"新6V┃磁力","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://www.xb6v.com/"},
 {"key":"drpy_js_校长","name":"校长┃夸克","type":3,"api":"./JavaScript/libs/drpy2.min.js","ext":"./JavaScript/校长影视.js","searchable":1,"quickSearch":1,"changeable":1,"timeout":30},
 {"key":"drpy_js_贱贱","name":"荐片┃p2p","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"./JavaScript/libs/drpy2.min.js","ext":"./JavaScript/荐片.js"},
 
-{"key":"迪迪","name":"迪迪┃App","api":"csp_AppYsV2","type":3,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},   
+{"key":"迪迪","name":"迪迪┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},   
 {"key":"哈喽","name":"哈喽┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
 {"key":"陌陌","name":"陌陌┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://guan.yy365.vip/api.php/app/"},
 {"key":"奇奇","name":"奇奇┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://ttsp.live/api.php/app/"},
 {"key":"酷酷","name":"酷酷┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://cms.realdou.cn:35264/api.php/app/"},
-
-{"key":"csp_WoGG","name":"玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://tvfan.xxooo.cf/"},
 
 {"key":"紙條","name":"紙條┃T4","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe","searchable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt","timeout":30},
 {"key":"csp_wogg_cli","name":"玩偶┃T4","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt","timeout":30},
