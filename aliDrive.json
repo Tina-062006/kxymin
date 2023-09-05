@@ -99,7 +99,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "token": "44160c32d4ca40c6b7cebf66ce40e7e1",
+        "token": "ab6f3a35e2d040149f0dfbcf0015237d",
         "filter": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/wogg.json"
       }
     },
@@ -167,7 +167,7 @@
       "api": "csp_Zhaozy",
       "searchable": 1,
       "changeable": 0,
-      "ext": "44160c32d4ca40c6b7cebf66ce40e7e1$$$test2$$$test2"
+      "ext": "ab6f3a35e2d040149f0dfbcf0015237d$$$test2$$$test2"
     },
     {
       "key": "AList",
