@@ -99,7 +99,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "token": "ab6f3a35e2d040149f0dfbcf0015237d",
+        "token": "http://127.0.0.1:9978/file/tvfan/token.txt",
         "filter": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/wogg.json"
       }
     },
@@ -110,7 +110,7 @@
       "api": "http://home.jundie.top:9520/spider/cli_gitCafe",
       "searchable": 1,
       "changeable": 0,
-      "ext": "44160c32d4ca40c6b7cebf66ce40e7e1"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
     },
     {
       "key": "七夜",
@@ -167,7 +167,7 @@
       "api": "csp_Zhaozy",
       "searchable": 1,
       "changeable": 0,
-      "ext": "ab6f3a35e2d040149f0dfbcf0015237d$$$test2$$$test2"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt$$$test2$$$test2"
     },
     {
       "key": "AList",
@@ -247,7 +247,8 @@
       "type": 3,
       "api": "csp_Push",
       "searchable": 1,
-      "changeable": 0
+      "changeable": 0,
+      "ext": "ab6f3a35e2d040149f0dfbcf0015237d"
     }
   ],
   "doh": [
