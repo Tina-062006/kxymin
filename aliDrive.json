@@ -45,15 +45,6 @@
       "ext":"./JavaScript/花猪TV.js"
     },
     {
-      "key":"农民",
-      "name":"农民",
-      "type": 3,
-      "api":"./JavaScript/libs/drpy2.min.js",
-      "changeable": 1,
-      "searchable": 1,
-      "ext":"./JavaScript/农民影视.js"
-    },
-    {
       "key":"花猫",
       "name":"花猫",
       "type": 3,
