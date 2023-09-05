@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/aliDrive.jar;md5;b79c6259bff1b9d4fb5e03f485a236c9",
+  "spider": "./jar/aliDrive.jar;md5;b7edbdfee65700db639603bf47f3937f",
   "wallpaper": "",
   "sites": [
     {
@@ -36,10 +36,10 @@
       "changeable": 1
     },
     {
-      "key": "愛看",
-      "name": "愛看",
+      "key": "南瓜",
+      "name": "南瓜",
       "type": 3,
-      "api": "./JavaScript/cat/ikanbot_open.js",
+      "api": "./JavaScript/cat/ng_open.js",
       "searchable": 1,
       "changeable": 1
     },
