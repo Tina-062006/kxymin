@@ -12,22 +12,6 @@
       "ext": "./JavaScript/drpy.js"
     },
     {
-      "key": "七七",
-      "name": "七七",
-      "type": 3,
-      "api": "./JavaScript/cat/kunyu77_open.js",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "南瓜",
-      "name": "南瓜",
-      "type": 3,
-      "api": "./JavaScript/cat/ng_open.js",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
       "key": "廠長",
       "name": "廠長",
       "type": 3,
@@ -50,6 +34,33 @@
       "api": "./JavaScript/cat/kkys_open.js",
       "searchable": 1,
       "changeable": 1
+    },
+    {
+      "key":"花猪",
+      "name":"花猪",
+      "type": 3,
+      "api":"./JavaScript/libs/drpy2.min.js",
+      "changeable": 1,
+      "searchable": 1,
+      "ext":"./JavaScript/花猪TV.js"
+    },
+    {
+      "key":"农民",
+      "name":"农民",
+      "type": 3,
+      "api":"./JavaScript/libs/drpy2.min.js",
+      "changeable": 1,
+      "searchable": 1,
+      "ext":"./JavaScript/农民影视.js"
+    },
+    {
+      "key":"花猫",
+      "name":"花猫",
+      "type": 3,
+      "api":"./JavaScript/libs/drpy2.min.js",
+      "changeable": 1,
+      "searchable": 1,
+      "ext":"./JavaScript/花猫TV.js"
     },
     {
       "key": "暴風",
@@ -102,15 +113,6 @@
         "token": "http://127.0.0.1:9978/file/tvfan/token.txt",
         "filter": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/wogg.json"
       }
-    },
-    {
-      "key": "紙條",
-      "name": "紙條",
-      "type": 4,
-      "api": "http://home.jundie.top:9520/spider/cli_gitCafe",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
     },
     {
       "key": "七夜",
@@ -188,18 +190,6 @@
       "ext": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/webdav.json"
     },
     {
-      "key": "bili_open",
-      "name": "哔哩(open)",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/bili_open.js",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "categories": "沙雕动画#沙雕穿越#沙雕",
-        "cookie": "SESSDATA=7624af93%2C1696008331%2C862c8%2A42; bili_jct=141a474ef3ce8cf2fedf384e68f6625d; DedeUserID=3493271303096985; DedeUserID__ckMd5=212a836c164605b7"
-      }
-    },
-    {
       "key": "哔哩",
       "name": "哔哩",
       "type": 3,
@@ -232,15 +222,6 @@
       "searchable": 1,
       "changeable": 1
     },
-    {
-      "key": "獨播",
-      "name": "獨播",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/duboku.json"
-    },    
     {
       "key": "push_agent",
       "name": "推送",
