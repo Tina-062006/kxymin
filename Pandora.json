@@ -98,9 +98,9 @@
 
  "lives": [
     {
-     "name":"百事通",
+     "name":"直播",
      "type": 0,
-     "url":"http://home.jundie.top:81/Cat/tv/live.txt",
+     "url":"https://live.fanmingming.com/tv/m3u/global.m3u",
      "playerType": 1,
      "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
      "logo": "http://diyp.112114.xyz/logo/{name}.png",
