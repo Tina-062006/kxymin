@@ -9,6 +9,7 @@
 {"key":"Kunyu77","name":"七七┃App","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1},
 
 {"key":"南瓜","name":"南瓜┃open","type":3,"api":"./JavaScript/cat/ng_open.js","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"素白白","name":"素白白┃open","type":3,"api":"./JavaScript/cat/subaibai_open.js","searchable":1,"quickSearch":1,"changeable":1},
 
 {"key":"率率","name":"率率┃App","type":3,"api":"csp_AppYsV2","playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"ext":"http://s.ether-mine.com/api.php/app/"},
 {"key":"迪迪","name":"安迪┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
