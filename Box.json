@@ -1,7 +1,8 @@
 {
 	"spider": "./jar/Box.jar;md5;d25d1188f676ee4b64fd1b4a878013d4",
 	"wallpaper": "",
-	"lives": [{
+	"lives": [
+	{
 		"group": "redirect",
 		"channels": [{
 			"name": "live",
@@ -9,6 +10,15 @@
 		}]
 	}],
 	"sites": [
+	{
+       "key": "豆瓣",
+       "name": "豆瓣",
+       "type": 3,
+       "api": "./JavaScript/libs/drpy2.min.js",
+       "changeable": 1,
+       "searchable": 0,
+       "ext": "./JavaScript/drpy.js"
+    },
 	{
 		"key": "影咖视频",
 		"name": "影咖视频",
