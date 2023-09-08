@@ -141,7 +141,7 @@
 		},
 		{
 			"key": "时常影视",
-			"name": "时常影视",
+			"name": "时常",
 			"type": 3,
 			"api": "csp_SC1080",
 			"searchable": 1,
@@ -161,7 +161,7 @@
 		},
 		{
 			"key": "HDMOLI",
-			"name": "HDMOLI",
+			"name": "魔力",
 			"api": "csp_HDMOLI",
 			"type": 3,
 			"filterable": 1,
@@ -242,7 +242,7 @@
 		},
 		{
 			"key": "csp_Auete",
-			"name": "Auete",
+			"name": "奥特",
 			"type": 3,
 			"api": "csp_Auete",
 			"searchable": 1,
