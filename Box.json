@@ -1,19 +1,7 @@
 {
 	"spider": "./jar/Box.jar;md5;d25d1188f676ee4b64fd1b4a878013d4",
 	"wallpaper": "",
-	"lives": [
-		{
-			"group": "redirect",
-			"channels": [
-				{
-					"name": "live",
-					"urls": [
-						"proxy://do=live&type=txt&ext=aHR0cDovL3BhbmRvd24ucHJvL3R2Ym94L3poaWJvLnR4dA=="
-					]
-				}
-			]
-		}
-	],
+	"lives": [{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3BhbmRvd24ucHJvL3R2Ym94L3poaWJvLnR4dA=="]}]}],
 	"sites": [
 		{
 			"key": "豆瓣",
@@ -25,7 +13,7 @@
 			"ext": "./JavaScript/drpy.js"
 		},
 		{
-			"key": "南瓜影视",
+			"key": "csp_NanGua",
 			"name": "南瓜",
 			"type": 3,
 			"api": "csp_NanGua",
@@ -35,7 +23,7 @@
 			"ext": ""
 		},
 		{
-			"key": "快看影视",
+			"key": "csp_Kuaikan",
 			"name": "快看",
 			"type": 3,
 			"api": "csp_Kuaikan",
@@ -400,6 +388,20 @@
 			],
 			"regex": [
 				"is_play_url="
+			]
+		},
+		{
+			"name": "海外看",
+			"hosts": [
+				"haiwaikan"
+			],
+			"regex": [
+				"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+				"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9.175832,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+				"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9.175833,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+				"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.716667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+				"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+				"#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
 			]
 		},
 		{
