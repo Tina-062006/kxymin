@@ -36,31 +36,31 @@
       "changeable": 1
     },
     {
-      "key":"乐猪",
-      "name":"乐猪",
+      "key": "乐猪",
+      "name": "乐猪",
       "type": 3,
-      "api":"./JavaScript/libs/drpy2.min.js",
+      "api": "./JavaScript/libs/drpy2.min.js",
       "changeable": 1,
       "searchable": 1,
-      "ext":"./JavaScript/乐猪TV.js"
+      "ext": "./JavaScript/乐猪TV.js"
     },
     {
-      "key":"花猪",
-      "name":"花猪",
+      "key": "花猪",
+      "name": "花猪",
       "type": 3,
-      "api":"./JavaScript/libs/drpy2.min.js",
+      "api": "./JavaScript/libs/drpy2.min.js",
       "changeable": 1,
       "searchable": 1,
-      "ext":"./JavaScript/花猪TV.js"
+      "ext": "./JavaScript/花猪TV.js"
     },
     {
-      "key":"花猫",
-      "name":"花猫",
+      "key": "花猫",
+      "name": "花猫",
       "type": 3,
-      "api":"./JavaScript/libs/drpy2.min.js",
+      "api": "./JavaScript/libs/drpy2.min.js",
       "changeable": 1,
       "searchable": 1,
-      "ext":"./JavaScript/花猫TV.js"
+      "ext": "./JavaScript/花猫TV.js"
     },
     {
       "key": "暴風",
@@ -170,7 +170,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt$$$test2$$$test2"
-    },    
+    },
     {
       "key": "本地",
       "name": "本地",
