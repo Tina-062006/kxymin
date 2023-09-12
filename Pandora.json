@@ -99,7 +99,7 @@
 {"name":"极速","hosts":["vip.js","hd.js"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:15,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
 {"name":"火山","hosts":["huoshan.com"],"regex":["item_id="]},
 {"name":"抖音","hosts":["douyin.com"],"regex":["is_play_url="]},
-{"name":"海外看","hosts":["m3u.haiwaikan"],"regex":["#EXTINF:[0-3]\\W(?!000000)\\d{6}[\\s\\S]+?.ts\\r*\\n*","#EXTINF:8\\W(?!000000)\\d{6}[\\s\\S]+?.ts\\r*\\n*"]},
+{"name":"海外看","hosts":["haiwaikan"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:2.93[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
 {"name":"磁力","hosts":["magnet"],"regex":["最 新","直 播","更 新"]}
 ], 
 
