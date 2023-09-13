@@ -117,7 +117,7 @@
     {
      "name":"直播",
      "type":0,
-     "url":"https://agit.ai/fantaiying/0/raw/branch/main/tvlive.txt",
+     "url":"http://home.jundie.top:81/ray/tvlive.txt",
      "playerType":1,
      "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
      "logo":"https://epg.112114.xyz/logo/{name}.png"
