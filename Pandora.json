@@ -63,7 +63,7 @@
 {"key":"Biliych","name":"哔哔┃演唱会","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":"./json/biliych.json"},
 {"key":"MV_vod","name":"明星┃MV","type":1,"api":"https://mv.wogg.link/mv/vod","style":{"type":"oval"},"searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 
-{"key":"bili_open","name":"哔哩┃教育","type":3,"api":"./JavaScript/cat/bili_open.js","searchable":1,"changeable":0,"ext":{"categories":"少儿#小学#初中#高中","cookie":"DedeUserID=690781341;DedeUserID__ckMd5=cabc96906269c5b6;SESSDATA=2245ba24%2C1684212125%2C466fd%2Ab2;bili_jct=de6fdb60c10f8a83910aa55d79407b4e;"}},
+{"key":"bili_open","name":"哔哩┃教育","type":3,"api":"./JavaScript/cat/bili_open.js","searchable":1,"changeable":0,"ext":{"categories":"音乐#动画#电影#电视剧#番剧#综艺#影视#国创#纪录片#娱乐#游戏#搞笑#健身#动物世界#美食#体育#演讲#解说#知名UP主#荒野求生#少儿#小学#初中#高中","cookie":"DedeUserID=690781341;DedeUserID__ckMd5=cabc96906269c5b6;SESSDATA=2245ba24%2C1684212125%2C466fd%2Ab2;bili_jct=de6fdb60c10f8a83910aa55d79407b4e;"}},
 
 {"key":"YiSo","name":"易搜┃搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
 {"key":"Zhaozy","name":"资源┃搜索","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$fanfan$$$qqq111"},
