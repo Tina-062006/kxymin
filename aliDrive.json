@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/aliDrive.jar;md5;d5a5fbed39e0451e8f201f8bf53f276c",
+  "spider": "./jar/aliDrive.jar;md5;e99f254a76be4612aaf4f8e6eef5dae1",
   "wallpaper": "",
   "sites": [
     {
@@ -12,10 +12,10 @@
       "ext": "./JavaScript/drpy.js"
     },
     {
-      "key": "廠長",
-      "name": "廠長",
+      "key": "七七",
+      "name": "七七",
       "type": 3,
-      "api": "./JavaScript/cat/czzy_open.js",
+      "api": "./JavaScript/cat/kunyu77_open.js",
       "searchable": 1,
       "changeable": 1
     },
@@ -28,63 +28,28 @@
       "changeable": 1
     },
     {
+      "key": "廠長",
+      "name": "廠長",
+      "type": 3,
+      "api": "./JavaScript/cat/czzy_open.js",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "愛看",
+      "name": "愛看",
+      "type": 3,
+      "api": "./JavaScript/cat/ikanbot_open.js",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
       "key": "快看",
       "name": "快看",
       "type": 3,
       "api": "./JavaScript/cat/kkys_open.js",
       "searchable": 1,
       "changeable": 1
-    },
-    {
-      "key": "七七",
-      "name": "七七",
-      "type": 3,
-      "api": "./JavaScript/cat/kunyu77_open.js",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "在线",
-      "name": "在线",
-      "type": 3,
-      "api": "./JavaScript/cat/zxzj_open.js",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "白白",
-      "name": "白白",
-      "type": 3,
-      "api": "./JavaScript/cat/subaibai_open.js",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "乐猪",
-      "name": "乐猪",
-      "type": 3,
-      "api": "./JavaScript/libs/drpy2.min.js",
-      "changeable": 1,
-      "searchable": 1,
-      "ext": "./JavaScript/乐猪TV.js"
-    },
-    {
-      "key": "花猪",
-      "name": "花猪",
-      "type": 3,
-      "api": "./JavaScript/libs/drpy2.min.js",
-      "changeable": 1,
-      "searchable": 1,
-      "ext": "./JavaScript/花猪TV.js"
-    },
-    {
-      "key": "花猫",
-      "name": "花猫",
-      "type": 3,
-      "api": "./JavaScript/libs/drpy2.min.js",
-      "changeable": 1,
-      "searchable": 1,
-      "ext": "./JavaScript/花猫TV.js"
     },
     {
       "key": "暴風",
@@ -127,30 +92,10 @@
       "changeable": 1
     },
     {
-      "key": "玩偶",
-      "name": "玩偶",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/tvfan/token.txt",
-        "filter": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/wogg.json"
-      }
-    },
-    {
       "key": "七夜",
       "name": "七夜",
       "type": 3,
       "api": "csp_Dovx",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "易搜",
-      "name": "易搜",
-      "type": 3,
-      "api": "csp_YiSo",
       "searchable": 1,
       "changeable": 0
     },
@@ -171,14 +116,6 @@
       "changeable": 0
     },
     {
-      "key": "紙條搜",
-      "name": "紙條搜",
-      "type": 3,
-      "api": "csp_XiaoZhiTiao",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
       "key": "盤搜索",
       "name": "盤搜索",
       "type": 3,
@@ -193,7 +130,7 @@
       "api": "csp_Zhaozy",
       "searchable": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt$$$test2$$$test2"
+      "ext": "影視天下第一$$$test2$$$test2"
     },
     {
       "key": "本地",
@@ -222,6 +159,18 @@
       "ext": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/webdav.json"
     },
     {
+      "key": "bili_open",
+      "name": "哔哩(open)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/bili_open.js",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "categories": "沙雕动画#沙雕穿越#沙雕",
+        "cookie": "./json/cookie.txt"
+      }
+    },
+    {
       "key": "哔哩",
       "name": "哔哩",
       "type": 3,
@@ -235,7 +184,7 @@
       "ext": {
         "json": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/bili.json",
         "type": "帕梅拉#太极拳#广场舞#演唱会",
-        "cookie": "DedeUserID=690781341;DedeUserID__ckMd5=cabc96906269c5b6;SESSDATA=2245ba24%2C1684212125%2C466fd%2Ab2;bili_jct=de6fdb60c10f8a83910aa55d79407b4e;"
+        "cookie": "./json/cookie.txt"
       }
     },
     {
@@ -243,6 +192,26 @@
       "name": "泥巴",
       "type": 3,
       "api": "csp_NiNi",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "玩偶",
+      "name": "玩偶",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "token": "影視天下第一",
+        "filter": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/wogg.json"
+      }
+    },
+    {
+      "key": "影視",
+      "name": "影視",
+      "type": 3,
+      "api": "csp_YingShi",
       "searchable": 1,
       "changeable": 1
     },
@@ -255,13 +224,21 @@
       "changeable": 1
     },
     {
+      "key": "獨播",
+      "name": "獨播",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/duboku.json"
+    },    
+    {
       "key": "push_agent",
       "name": "推送",
       "type": 3,
       "api": "csp_Push",
       "searchable": 1,
-      "changeable": 0,
-      "ext": "ab6f3a35e2d040149f0dfbcf0015237d"
+      "changeable": 0
     }
   ],
   "doh": [
