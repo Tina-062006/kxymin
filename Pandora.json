@@ -40,7 +40,7 @@
 
 {"key":"黑狐","name":"黑狐┃xBPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"./XBPQ/黑狐.json"},
 {"key":"星辰","name":"星辰┃xBPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"./XBPQ/星辰影视.json"},
-{"key":"飞云","name":"飞云┃xBPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"./XBPQ/飞云.json"},
+{"key":"云播","name":"云播┃xBPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"./XBPQ/TVB云播.json"},
 
 {"key":"白白","name":"白白┃open","type":3,"api":"./JavaScript/cat/subaibai_open.js","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"聚播","name":"聚播┃open","type":3,"api":"./JavaScript/cat/cntv_open.js","searchable":1,"quickSearch":1,"changeable":1},
