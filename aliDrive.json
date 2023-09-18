@@ -194,6 +194,14 @@
         "type": "帕梅拉#太极拳#广场舞#演唱会",
         "cookie": "./json/cookie.txt"
       }
+    },    
+    {
+      "key": "影視",
+      "name": "影視",
+      "type": 3,
+      "api": "csp_YingShi",
+      "searchable": 1,
+      "changeable": 1
     },
     {
       "key": "泥巴",
