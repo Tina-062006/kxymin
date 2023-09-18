@@ -12,6 +12,38 @@
       "ext": "./JavaScript/drpy.js"
     },
     {
+      "key": "csp_wogg_cli",
+      "name": "玩偶",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt",
+      "timeout": 30
+    },
+    {
+      "key": "小纸条_cli",
+      "name": "纸条",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/cli_gitCafe",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt",
+      "timeout": 30
+    },
+    {
+      "key": "荐片",
+      "name": "荐片",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/csp_JP",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 30
+    },
+    {
       "key": "EMO",
       "name": "蓝光",
       "type": 3,
@@ -75,6 +107,14 @@
       "changeable": 0
     },
     {
+      "key": "易搜",
+      "name": "易搜",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
       "key": "雲搜",
       "name": "雲搜",
       "type": 3,
@@ -87,6 +127,14 @@
       "name": "盤搜",
       "type": 3,
       "api": "csp_PanSou",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "紙條搜",
+      "name": "紙條搜",
+      "type": 3,
+      "api": "csp_XiaoZhiTiao",
       "searchable": 1,
       "changeable": 0
     },
@@ -106,14 +154,6 @@
       "searchable": 1,
       "changeable": 0,
       "ext": "影視天下第一$$$test2$$$test2"
-    },
-    {
-      "key": "本地",
-      "name": "本地",
-      "type": 3,
-      "api": "csp_Local",
-      "searchable": 0,
-      "changeable": 0
     },
     {
       "key": "AList",
