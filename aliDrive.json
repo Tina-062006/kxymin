@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/aliDrive.jar;md5;e99f254a76be4612aaf4f8e6eef5dae1",
+  "spider": "./jar/aliDrive.jar;md5;805e97263746889cf1405e74ec9d0824",
   "wallpaper": "",
   "sites": [
     {
@@ -50,6 +50,14 @@
       "api": "./JavaScript/cat/kkys_open.js",
       "searchable": 1,
       "changeable": 1
+    },
+    {
+      "key": "速看100", 
+      "name": "速看", 
+      "type": 3, 
+      "api": "csp_AppYsV2", 
+      "searchable": 1, 
+      "ext": "https://sk100.tv/api.php/app/"
     },
     {
       "key": "暴風",
