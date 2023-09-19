@@ -12,13 +12,22 @@
       "ext": "./JavaScript/drpy.js"
     },
     {
-      "key": "西瓜",
-      "name": "西瓜",
+      "key": "农民",
+      "name": "农民",
       "type": 3,
       "api": "./JavaScript/lib/drpy2.min.js",
       "changeable": 1,
-      "searchable": 0,
-      "ext": "./JavaScript/西瓜影视.js"
+      "searchable": 1,
+      "ext": "./JavaScript/农民影视.js"
+    },
+    {
+      "key": "乐猪",
+      "name": "乐猪",
+      "type": 3,
+      "api": "./JavaScript/lib/drpy2.min.js",
+      "changeable": 1,
+      "searchable": 1,
+      "ext": "./JavaScript/乐猪TV.js"
     },
     {
       "key": "csp_wogg_cli",
