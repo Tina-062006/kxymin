@@ -1,14 +1,14 @@
 {
         "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
         "homeUrl": "https://www.yinfans.me",
-    "dcPlayUrl": "true",
+        "dcPlayUrl": "true",
         "cateNode": "//a[contains(@href,'/s/')]",
         "cateName": "concat(//span[contains(@class,'nav-link-title')]/text(),//a[contains(@class,'dropdown-item')]/text())",
         "cateId": "/@href",
         "cateIdR": "/s/(\\w+)",
         "cateManual": {
                 "首页推荐": "page",
-            "蓝光原盘电影": "topic/bluray-movie/movie/page",
+                "蓝光原盘电影": "topic/bluray-movie/movie/page",
                 "蓝光原盘纪录片": "topic/bluray-movie/documentry/page",
                 "4K": "topic/4k/page"
         },
@@ -39,8 +39,8 @@
         "dtCate": "/div[1]//div[@class='context']/div[1]/p[2]/text()[5]",
         "dtArea": "/div[1]//div[@class='context']/div[1]/p[2]/text()[4]",
         "dtAreaR": "",
-    "dtYear": "/div[1]//div[@class='context']/div[1]/p[2]/text()[7]",
-    "dtYearR": "",
+        "dtYear": "/div[1]//div[@class='context']/div[1]/p[2]/text()[7]",
+        "dtYearR": "",
         "dtActor": "/div[1]//div[@class='context']/div[1]/p[2]/text()[14]",
         "dtDirector": "/div[1]//div[@class='context']/div[1]/p[2]/text()[13]",
         "dtDesc": "/div[1]//div[@class='context']/div[1]/p[4]/text()",
