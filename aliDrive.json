@@ -12,26 +12,6 @@
       "ext": "./JavaScript/drpy.js"
     },
     {
-      "key": "蚂蚁",
-      "name": "蚂蚁",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "api": "./JavaScript/libs/drpy2.min.js",
-      "ext": "./JavaScript/蚂蚁.js"
-    },
-    {
-      "key": "音范丝",
-      "name": "音范丝",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "api": "./JavaScript/libs/drpy2.min.js",
-      "ext": "./JavaScript/音范丝.js"
-    },
-    {
       "key": "csp_wogg_cli",
       "name": "玩偶",
       "type": 4,
