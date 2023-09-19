@@ -6,10 +6,19 @@
       "key": "豆瓣",
       "name": "豆瓣",
       "type": 3,
-      "api": "./JavaScript/libs/drpy2.min.js",
+      "api": "./JavaScript/lib/drpy2.min.js",
       "changeable": 1,
       "searchable": 0,
       "ext": "./JavaScript/drpy.js"
+    },
+    {
+      "key": "蚂蚁",
+      "name": "蚂蚁",
+      "type": 3,
+      "api": "./JavaScript/lib/drpy2.min.js",
+      "changeable": 1,
+      "searchable": 0,
+      "ext": "./JavaScript/蚂蚁影视.js"
     },
     {
       "key": "csp_wogg_cli",
