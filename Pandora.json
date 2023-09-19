@@ -42,8 +42,8 @@
   {"key":"星辰","name":"星辰┃xBPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"./XBPQ/星辰影视.json"},
   {"key":"云播","name":"云播┃xBPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"./XBPQ/TVB云播.json"},
   
-  {"key":"白白","name":"白白┃open","type":3,"api":"./JavaScript/cat/subaibai_open.js","searchable":1,"quickSearch":1,"changeable":1},
-  {"key":"聚播","name":"央视┃open","type":3,"api":"./JavaScript/cat/cntv_open.js","searchable":1,"quickSearch":1,"changeable":1},
+  {"key":"白白","name":"白白┃open","type":3,"api":"./catvod/subaibai_open.js","searchable":1,"quickSearch":1,"changeable":1},
+  {"key":"聚播","name":"央视┃open","type":3,"api":"./catvod/cntv_open.js","searchable":1,"quickSearch":1,"changeable":1},
   
   {"key":"暴风","name":"暴风┃采集","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
   {"key":"量子","name":"量子┃采集","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1},
