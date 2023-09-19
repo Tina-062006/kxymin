@@ -44,6 +44,69 @@
       "timeout": 30
     },
     {
+      "key": "MX",
+      "name": "采集",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://154.12.90.7:86/api.php/app/"
+    },
+    {
+      "key": "大师兄",
+      "name": "大师兄",
+      "api": "csp_AppYsV2",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://sdk.alibaba.com.ailbaba.me/dsx.php/v6/",
+      "header": {
+        "User-Agent": "Dart/2.14 (dart:io)"
+      }
+    },
+    {
+      "key": "少泽",
+      "name": "少泽",
+      "api": "csp_AppYsV2",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://yszj.cm/xgapp.php/v2/"
+    },
+    {
+      "key": "看剧吧",
+      "name": "看剧吧",
+      "api": "csp_AppYsV2",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://app.ishen520.com/api.php/v1.vod"
+    },
+    {
+      "key": "555电影",
+      "name": "555",
+      "api": "csp_AppYsV2",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://555dy3.com/api.php/app/"
+    },
+    {
+      "key": "HOHO",
+      "name": "HOHO",
+      "api": "csp_AppYsV2",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://hoho.tv/api.php/app/"
+    },
+    {
       "key": "EMO",
       "name": "蓝光",
       "type": 3,
@@ -51,11 +114,11 @@
       "ext": "http://one3.emofun.top/mogai_api.php/v1.vod"
     },
     {
-      "key": "速看100", 
-      "name": "速看", 
-      "type": 3, 
-      "api": "csp_AppYsV2", 
-      "searchable": 1, 
+      "key": "速看100",
+      "name": "速看",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
       "ext": "https://sk100.tv/api.php/app/"
     },
     {
@@ -201,7 +264,7 @@
         "type": "帕梅拉#太极拳#广场舞#演唱会",
         "cookie": "./json/cookie.txt"
       }
-    },    
+    },
     {
       "key": "影視",
       "name": "影視",
@@ -254,7 +317,7 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/duboku.json"
-    },    
+    },
     {
       "key": "push_agent",
       "name": "推送",
