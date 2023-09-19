@@ -61,10 +61,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "http://sdk.alibaba.com.ailbaba.me/dsx.php/v6/",
-      "header": {
-        "User-Agent": "Dart/2.14 (dart:io)"
-      }
+      "ext": "http://sdk.alibaba.com.ailbaba.me/dsx.php/v6/"
     },
     {
       "key": "少泽",
