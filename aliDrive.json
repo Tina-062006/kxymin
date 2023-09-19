@@ -12,13 +12,13 @@
       "ext": "./JavaScript/drpy.js"
     },
     {
-      "key": "酷云77",
-      "name": "七七",
+      "key": "鸭鸭",
+      "name": "鸭鸭",
       "type": 3,
       "api": "./JavaScript/lib/drpy2.min.js",
       "changeable": 1,
       "searchable": 1,
-      "ext": "./JavaScript/酷云77.js"
+      "ext": "./quickjs/鸭鸭[V2].js"
     },
     {
       "key": "乐猪",
