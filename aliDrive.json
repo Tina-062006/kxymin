@@ -21,8 +21,17 @@
   "wallpaper": "",
   "sites": [
     {
+      "key": "豆瓣",
+      "name": "豆瓣",
+      "type": 3,
+      "api": "./JavaScript/libs/drpy2.min.js",
+      "changeable": 1,
+      "searchable": 0,
+      "ext": "./JavaScript/drpy.js"
+    },
+    {
       "key": "csp_YGP",
-      "name": "新片",
+      "name": "荐片",
       "type": 3,
       "api": "csp_YGP",
       "searchable": 1,
@@ -82,16 +91,6 @@
       "changeable": 1
     },
     {
-      "key": "csp_陌陌",
-      "name": "陌陌",
-      "type": 3,
-      "api": "csp_MmYs",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "$$$socks5://192.168.1.9:4592"
-    },
-    {
       "key": "csp_Kuaikan",
       "name": "快看",
       "type": 3,
@@ -99,33 +98,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "泥巴",
-      "name": "泥巴",
-      "type": 3,
-      "api": "csp_NiNi",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "0;socks5://192.168.1.9:4592"
-    },
-    {
-      "key": "星星",
-      "name": "星星",
-      "type": 3,
-      "api": "csp_Star",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "socks5://192.168.1.9:4592"
-    },
-    {
-      "key": "影视",
-      "name": "影视",
-      "type": 3,
-      "api": "csp_YingShi",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "socks5://192.168.1.9:4592"
     },
     {
       "key": "櫻花",
@@ -193,6 +165,43 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "http://mp4.ghlyys.com/api.php/app/"
+    },
+    {
+      "key": "泥巴",
+      "name": "泥巴",
+      "type": 3,
+      "api": "csp_NiNi",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "0;socks5://192.168.1.9:4592"
+    },
+    {
+      "key": "星星",
+      "name": "星星",
+      "type": 3,
+      "api": "csp_Star",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "socks5://192.168.1.9:4592"
+    },
+    {
+      "key": "影视",
+      "name": "影视",
+      "type": 3,
+      "api": "csp_YingShi",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "socks5://192.168.1.9:4592"
+    },
+    {
+      "key": "csp_陌陌",
+      "name": "陌陌",
+      "type": 3,
+      "api": "csp_MmYs",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "$$$socks5://192.168.1.9:4592"
     },
     {
       "key": "Gitcafe",
@@ -294,7 +303,7 @@
     },
     {
       "key": "csp_BLSGod",
-      "name": "80S影视",
+      "name": "80S",
       "type": 3,
       "api": "csp_BLSGod",
       "playerType": 1,
@@ -304,7 +313,7 @@
     },
     {
       "key": "csp_Xunlei8",
-      "name": "迅雷吧",
+      "name": "迅吧",
       "type": 3,
       "api": "csp_Xunlei8",
       "playerType": 1,
@@ -314,7 +323,7 @@
     },
     {
       "key": "MeijuTT",
-      "name": "美剧天天",
+      "name": "天天",
       "type": 3,
       "api": "csp_MeijuTT",
       "playerType": "1",
@@ -343,18 +352,18 @@
       "filterable": 1,
       "changeable": 0,
       "ext": {
-        "json": "./Json/chuqiuyu.json",
-        "cookie": "http://127.0.0.1:9978/file/tvfan/cookie.txt"
+        "json": "./json/bili.json",
+        "cookie": "./json/cookie.txt"
       }
     },
     {
       "key": "量子",
       "name": "量子",
       "type": 0,
-      "api": "http://127.0.0.1:10079/?thread=0&proxy=socks5://192.168.1.9:4592&url=https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "changeable": 1,
-      "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=socks5://192.168.1.9:4592&url=",
+      //"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=socks5://192.168.1.9:4592&url=",
       "categories": [
         "国产动漫",
         "日韩动漫",
@@ -396,10 +405,10 @@
       "key": "非凡",
       "name": "非凡",
       "type": 0,
-      "api": "http://127.0.0.1:10079/?thread=0&proxy=socks5://192.168.1.9:4592&url=http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "changeable": 1,
-      "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=socks5://192.168.1.9:4592&url=",
+      //"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=socks5://192.168.1.9:4592&url=",
       "categories": [
         "国产动漫",
         "日韩动漫",
