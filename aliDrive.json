@@ -173,7 +173,7 @@
       "api": "csp_NiNi",
       "searchable": 1,
       "changeable": 1,
-      "ext": "0;socks5://192.168.1.9:4592"
+      "proxy": true
     },
     {
       "key": "星星",
@@ -182,7 +182,7 @@
       "api": "csp_Star",
       "searchable": 1,
       "changeable": 1,
-      "ext": "socks5://192.168.1.9:4592"
+      "proxy": true
     },
     {
       "key": "影视",
@@ -191,17 +191,18 @@
       "api": "csp_YingShi",
       "searchable": 1,
       "changeable": 1,
-      "ext": "socks5://192.168.1.9:4592"
+      "proxy": true
     },
     {
       "key": "csp_陌陌",
-      "name": "陌陌",
+      "name": "蘑菇",
       "type": 3,
       "api": "csp_MmYs",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "$$$socks5://192.168.1.9:4592"
+      "proxy": true
+      //"ext": "$$$socks5://192.168.1.9:4592"
     },
     {
       "key": "Gitcafe",
