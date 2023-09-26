@@ -196,6 +196,31 @@
       "ext": "./XBPQ/TVB云播.json"
     },
     {
+      "key": "libviotop",
+      "name": "蚂蚁|XBPQ",
+      "api": "csp_XBPQ",
+      "type": 3,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "站名": "libvio_top",
+        "主页url": "https://libvio.top/",
+        "数组": "class=\"stui-vodlist__box\">&&</a",
+        "链接": "href=\"&&\"",
+        "图片": "data-original=\"&&\"",
+        "标题": "title=\"&&\"",
+        "副标题": "<span class=\"pic-text text-right\">&&</span>",
+        "分类url": "https://libvio.top/show/{cateId}-{area}-------{catePg}---{year}.html",
+        "分类": "电影$1#电视剧$2#动漫$3#综艺$4#纪录片$30"
+      }
+    },
+    {
       "key": "速搜",
       "name": "速搜┃xBPQ",
       "type": 3,
@@ -211,18 +236,6 @@
       "changeable": 1,
       "api": "csp_XBPQ",
       "ext": "./XBPQ/剧看.json"
-    },
-    {
-      "key": "libvio",
-      "name": "蚂蚁┃xBiu",
-      "type": 3,
-      "api": "csp_XBiu",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "https://libvio.top/type/{cateId}.html"
     },
     {
       "key": "ikan6",
