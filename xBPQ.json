@@ -197,17 +197,12 @@
     },
     {
       "key": "libviotop",
-      "name": "蚂蚁|XBPQ",
-      "api": "csp_XBPQ",
+      "name": "蚂蚁|xBPQ",
       "type": 3,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
+      "changeable": 1,
       "ext": {
         "站名": "libvio_top",
         "主页url": "https://libvio.top/",
