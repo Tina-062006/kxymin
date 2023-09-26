@@ -1,6 +1,6 @@
 {
   "wallpaper": "",
-  "spider": "./jar/XBPQ.jar;md5;c570b052645834a1109b54421c1552f9",
+  "spider": "./jar/xBPQ.jar;md5;c570b052645834a1109b54421c1552f9",
   "sites": [
     {
       "key": "豆瓣",
