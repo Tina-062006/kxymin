@@ -185,6 +185,35 @@
       "ext": "http://www.l0l.tv/index.php/vod/show/id/{cateId}/page/{catePg}.html"
     },
     {
+      "key": "cj ",
+      "name": "快车┃采集 ",
+      "type": 1,
+      "api": "https://caiji.kczyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "国产剧",
+        "伦理片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "战争片",
+        "剧情片",
+        "动画片",
+        "香港剧",
+        "台湾剧",
+        "欧美剧",
+        "韩国剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧"
+      ]
+    },
+    {
       "key": "SP33",
       "name": "360┃解析",
       "type": 3,
