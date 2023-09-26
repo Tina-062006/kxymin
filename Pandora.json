@@ -25,23 +25,11 @@
   {"key":"Cokemv","name":"可乐┃直连","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"changeable":1},
   {"key":"Nmys","name":"🌾农民┃直连","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"./json/nmys.json"},
   {"key":"Ysgc","name":"工场┃直连","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.ysgc1.cc/"},
-  
-  {"key":"南瓜","name":"南瓜┃drpy","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"./JavaScript/libs/drpy2.min.js","ext":"./JavaScript/南瓜影视.js"},
-  {"key":"花猪","name":"花猪┃drpy","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"./JavaScript/libs/drpy2.min.js","ext":"./JavaScript/花猪TV.js"},
-  {"key":"花猫","name":"花猫┃drpy","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"./JavaScript/libs/drpy2.min.js","ext":"./JavaScript/花猫TV.js"},
-  
+   
   {"key":"新6V","name":"SixV┃磁力","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://www.xb6v.com/"},
   {"key":"贱贱","name":"荐片┃p2p","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":1,"api":"./JavaScript/libs/drpy2.min.js","ext":"./JavaScript/荐片.js"},
   {"key":"88js","name":"看球┃体育","type":3,"searchable":0,"quickSearch":0,"changeable":0,"api":"./JavaScript/libs/drpy2.min.js","ext":"./JavaScript/88看球.js","style":{"type":"rect","ratio":1}},
-  
-  {"key":"腐剧","name":"腐剧┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://121.127.249.200:233/ruifenglb_api.php/v1.vod"},
-  {"key":"哈喽","name":"迷你┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},  
-  {"key":"鸭鸭","name":"鸭鸭┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
-   
-  {"key":"黑狐","name":"黑狐┃xBPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"./XBPQ/黑狐.json"},
-  {"key":"星辰","name":"星辰┃xBPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"./XBPQ/星辰影视.json"},
-  {"key":"云播","name":"云播┃xBPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"./XBPQ/TVB云播.json"},
-  
+    
   {"key":"白白","name":"白白┃open","type":3,"api":"./JavaScript/cat/subaibai_open.js","searchable":1,"quickSearch":1,"changeable":1},
   {"key":"聚播","name":"央视┃open","type":3,"api":"./JavaScript/cat/cntv_open.js","searchable":1,"quickSearch":1,"changeable":1},
   
