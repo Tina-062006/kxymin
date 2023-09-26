@@ -47,6 +47,16 @@
       "ext": "./JavaScript/南瓜影视.js"
     },
     {
+      "key": "乐猪",
+      "name": "乐猪┃drpy",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "api": "./JavaScript/lib/drpy2.min.js",
+      "ext": "./JavaScript/乐猪TV.js"
+    },
+    {
       "key": "花猪",
       "name": "花猪┃drpy",
       "type": 3,
