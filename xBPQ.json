@@ -37,6 +37,17 @@
       "changeable": 1
     },
     {
+      "key": "zxzj",
+      "name": "在线┃open",
+      "type": 3,
+      "api": "./catvod/zxzj_open.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+      //"api": "csp_XBiu",
+      //"ext": "https://www.zxzj.pro/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html"
+    },
+    {
       "key": "南瓜",
       "name": "南瓜┃drpy",
       "type": 3,
@@ -223,15 +234,6 @@
       "filterable": 1,
       "changeable": 1,
       "ext": "https://libvio.top/type/{cateId}.html"
-    },
-    {
-      "key": "zxzj",
-      "name": "在线┃xBiu",
-      "type": 3,
-      "playerType": "1",
-      "changeable": 1,
-      "api": "csp_XBiu",
-      "ext": "https://www.zxzj.pro/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html"
     },
     {
       "key": "ikan6",
