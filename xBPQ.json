@@ -12,6 +12,31 @@
       "ext": "./JavaScript/drpy.js"
     },
     {
+      "key": "廠長",
+      "name": "廠長┃open",
+      "type": 3,
+      "api": "./catvod/czzy_open.js",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "快看",
+      "name": "快看┃open",
+      "type": 3,
+      "api": "./catvod/kkys_open.js",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "白白",
+      "name": "白白┃open",
+      "type": 3,
+      "api": "./catvod/subaibai_open.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "南瓜",
       "name": "南瓜┃drpy",
       "type": 3,
