@@ -68,7 +68,7 @@
     },
     {
       "key": "腐剧",
-      "name": "腐剧┃App",
+      "name": "腐剧┃YsV2",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -78,7 +78,7 @@
     },
     {
       "key": "哈喽",
-      "name": "迷你┃App",
+      "name": "迷你┃YsV2",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -88,13 +88,43 @@
     },
     {
       "key": "鸭鸭",
-      "name": "鸭鸭┃App",
+      "name": "鸭鸭┃YsV2",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
+    },
+    {
+      "key": "csp_AppYsV2_YuMi",
+      "name": "玉米┃YsV2",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "playerType": 2,
+      "playUrl": "parse:玉米",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://ym.dytt996.com:3/api.php/app/",
+      "categories": [
+        "电影",
+        "电视剧",
+        "综艺",
+        "动漫",
+        "国产剧"
+      ]
+    },
+    {
+      "key": "嘉靓",
+      "name": "嘉良┃YsV2",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cms.jialiangos.com/api.php/app/"
     },
     {
       "key": "黑狐",
