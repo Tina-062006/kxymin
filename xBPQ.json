@@ -147,6 +147,16 @@
       "ext": "http://cms.jialiangos.com/api.php/app/"
     },
     {
+      "key": "君离",
+      "name": "君离┃YsV2",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://jlys6.top/api.php/v1.vod"
+    },
+    {
       "key": "黑狐",
       "name": "黑狐┃xBPQ",
       "type": 3,
