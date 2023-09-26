@@ -7,7 +7,7 @@
       "name": "豆瓣┃评分",
       "type": 3,
       "api": "./JavaScript/lib/drpy2.min.js",
-      "changeable": 1,
+      "changeable": 0,
       "searchable": 0,
       "ext": "./JavaScript/drpy.js"
     },
@@ -33,7 +33,14 @@
       "type": 3,
       "api": "./catvod/subaibai_open.js",
       "searchable": 1,
-      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "爱看",
+      "name": "爱看┃open",
+      "type": 3,
+      "api": "./catvod/ikanbot_open.js",
+      "searchable": 1,
       "changeable": 1
     },
     {
@@ -41,7 +48,6 @@
       "name": "荐片┃p2p",
       "type": 3,
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1,
       "playerType": 1,
       "api": "./JavaScript/lib/drpy2.min.js",
@@ -52,7 +58,6 @@
       "name": "追忆┃drpy",
       "type": 3,
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1,
       "api": "./JavaScript/lib/drpy2.min.js",
       "ext": "./JavaScript/追忆.js"
@@ -62,7 +67,6 @@
       "name": "南瓜┃drpy",
       "type": 3,
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1,
       "api": "./JavaScript/lib/drpy2.min.js",
       "ext": "./JavaScript/南瓜影视.js"
@@ -72,7 +76,6 @@
       "name": "乐猪┃drpy",
       "type": 3,
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1,
       "api": "./JavaScript/lib/drpy2.min.js",
       "ext": "./JavaScript/乐猪TV.js"
@@ -82,7 +85,6 @@
       "name": "花猪┃drpy",
       "type": 3,
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1,
       "api": "./JavaScript/lib/drpy2.min.js",
       "ext": "./JavaScript/花猪TV.js"
@@ -92,7 +94,6 @@
       "name": "花猫┃drpy",
       "type": 3,
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1,
       "api": "./JavaScript/lib/drpy2.min.js",
       "ext": "./JavaScript/花猫TV.js"
@@ -102,7 +103,6 @@
       "name": "农民┃drpy",
       "type": 3,
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1,
       "api": "./JavaScript/lib/drpy2.min.js",
       "ext": "./JavaScript/农民影视.js"
@@ -112,7 +112,6 @@
       "name": "VoFl┃drpy",
       "type": 3,
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1,
       "api": "./JavaScript/lib/drpy2.min.js",
       "ext": "./JavaScript/voflix.js"
@@ -123,7 +122,6 @@
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1,
       "ext": "http://121.127.249.200:233/ruifenglb_api.php/v1.vod"
     },
@@ -133,7 +131,6 @@
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1,
       "ext": "http://www.miniku.cc/xgapp.php/v1/"
     },
@@ -143,8 +140,7 @@
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
+      "changeable": 1,
       "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
     },
     {
@@ -154,8 +150,7 @@
       "api": "csp_AppYsV2",
       "playUrl": "parse:玉米",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
+      "changeable": 1,
       "ext": "http://ym.dytt996.com:3/api.php/app/",
       "categories": [
         "电影",
@@ -172,8 +167,7 @@
       "api": "csp_AppYsV2",
       "playerType": 2,
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
+      "changeable": 1,
       "ext": "http://cms.jialiangos.com/api.php/app/"
     },
     {
@@ -182,8 +176,7 @@
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
+      "changeable": 1,
       "ext": "https://sk100.tv/api.php/app/"
     },
     {
@@ -192,7 +185,6 @@
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1,
       "ext": "./XBPQ/黑狐.json"
     },
@@ -202,7 +194,6 @@
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1,
       "ext": "./XBPQ/星辰影视.json"
     },
@@ -212,7 +203,6 @@
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1,
       "ext": "./XBPQ/TVB云播.json"
     },
@@ -222,7 +212,6 @@
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1,
       "ext": {
         "站名": "libvio_top",
@@ -242,6 +231,8 @@
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": "1",
+      "searchable": 1,
+      "changeable": 1,
       "ext": "./XBPQ/速搜.json"
     },
     {
@@ -249,6 +240,7 @@
       "name": "剧看┃xBPQ",
       "type": 3,
       "playerType": "1",
+      "searchable": 1,
       "changeable": 1,
       "api": "csp_XBPQ",
       "ext": "./XBPQ/剧看.json"
@@ -259,8 +251,7 @@
       "type": 3,
       "api": "csp_XBiu",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
+      "changeable": 1,
       "ext": "https://ikan6.vip/vodshow/{cateId}--------{catePg}---/"
     },
     {
@@ -269,8 +260,7 @@
       "type": 3,
       "api": "csp_XBiu",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
+      "changeable": 1,
       "ext": "http://www.l0l.tv/index.php/vod/show/id/{cateId}/page/{catePg}.html"
     },
     {
@@ -280,7 +270,6 @@
       //"api": "./catvod/zxzj_open.js",
       "api": "csp_XBiu",
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.zxzj.pro/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html"
     },
@@ -291,8 +280,6 @@
       "api": "https://caiji.kczyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
       "categories": [
         "动作片",
         "国产剧",
@@ -319,19 +306,15 @@
       "type": 3,
       "api": "csp_SP360",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
+      "changeable": 1
     },
     {
       "key": "Itv",
       "name": "奇艺┃解析",
       "type": 3,
       "api": "csp_IQIYI",
-      "quickSearch": 1,
       "searchable": 1,
-      "filterable": 1,
-      "changeable": 0
+      "changeable": 1
     },
     {
       "key": "Mtv",
@@ -339,9 +322,7 @@
       "type": 3,
       "api": "csp_MGTV",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
+      "changeable": 1
     },
     {
       "key": "暴风",
@@ -350,7 +331,7 @@
       "playerType": 1,
       "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
-      "quickSearch": 1
+      "changeable": 1
     },
     {
       "key": "量子",
@@ -359,7 +340,7 @@
       "playerType": 1,
       "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
-      "quickSearch": 1
+      "changeable": 1
     },
     {
       "key": "率率",
@@ -367,7 +348,6 @@
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1,
       "categories": [
         "国产剧",
@@ -395,8 +375,7 @@
       "type": 3,
       "api": "csp_PushAgent",
       "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
+      "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
     }
   ],
