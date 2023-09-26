@@ -144,6 +144,15 @@
       "ext": "./XBPQ/剧看.json"
     },
     {
+      "key": "七七",
+      "name": "七七┃Biu",
+      "type": 3,
+      "playerType": "1",
+      "changeable": 1,
+      "api": "csp_XBiu",
+      "ext": "./XBiu/七七影视.json"
+    },
+    {
       "key": "SP33",
       "name": "360┃解析",
       "type": 3,
