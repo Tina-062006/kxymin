@@ -175,6 +175,16 @@
       "ext": "https://ikan6.vip/vodshow/{cateId}--------{catePg}---/"
     },
     {
+      "key": "csp_xb_101影视",
+      "name": "101┃xBiu",
+      "type": 3,
+      "api": "csp_XBiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://www.l0l.tv/index.php/vod/show/id/{cateId}/page/{catePg}.html"
+    },
+    {
       "key": "SP33",
       "name": "360┃解析",
       "type": 3,
