@@ -77,6 +77,16 @@
       "ext": "./JavaScript/农民影视.js"
     },
     {
+      "key": "voflix",
+      "name": "VoFl┃drpy",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "api": "./JavaScript/lib/drpy2.min.js",
+      "ext": "./JavaScript/voflix.js"
+    },
+    {
       "key": "腐剧",
       "name": "腐剧┃YsV2",
       "type": 3,
