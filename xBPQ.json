@@ -144,7 +144,7 @@
       "ext": "./XBPQ/剧看.json"
     },
     {
-      "key": "蚂蚁",
+      "key": "libvio",
       "name": "蚂蚁┃xBiu",
       "type": 3,
       "api": "csp_XBiu",
@@ -156,13 +156,23 @@
       "ext": "https://libvio.top/type/{cateId}.html"
     },
     {
-      "key": "七七",
+      "key": "zxzj",
       "name": "在线┃xBiu",
       "type": 3,
       "playerType": "1",
       "changeable": 1,
       "api": "csp_XBiu",
       "ext": "https://www.zxzj.pro/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html"
+    },
+    {
+      "key": "ikan6",
+      "name": "爱看┃xBiu",
+      "type": 3,
+      "api": "csp_XBiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ikan6.vip/vodshow/{cateId}--------{catePg}---/"
     },
     {
       "key": "SP33",
