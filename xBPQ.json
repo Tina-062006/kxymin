@@ -12,6 +12,36 @@
       "ext": "./JavaScript/drpy.js"
     },
     {
+      "key": "南瓜",
+      "name": "南瓜┃drpy",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "api": "./JavaScript/lib/drpy2.min.js",
+      "ext": "./JavaScript/南瓜影视.js"
+    },
+    {
+      "key": "花猪",
+      "name": "花猪┃drpy",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "api": "./JavaScript/lib/drpy2.min.js",
+      "ext": "./JavaScript/花猪TV.js"
+    },
+    {
+      "key": "花猫",
+      "name": "花猫┃drpy",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "api": "./JavaScript/lib/drpy2.min.js",
+      "ext": "./JavaScript/花猫TV.js"
+    },
+    {
       "key": "腐剧",
       "name": "腐剧┃App",
       "type": 3,
@@ -77,7 +107,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": "1",
-      "ext":"./XBPQ/速搜.json"
+      "ext": "./XBPQ/速搜.json"
     },
     {
       "key": "看看",
@@ -86,7 +116,7 @@
       "playerType": "1",
       "changeable": 1,
       "api": "csp_XBPQ",
-      "ext":"./XBPQ/剧看.json"
+      "ext": "./XBPQ/剧看.json"
     },
     {
       "key": "SP33",
