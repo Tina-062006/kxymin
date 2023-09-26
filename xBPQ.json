@@ -145,12 +145,12 @@
     },
     {
       "key": "七七",
-      "name": "七七┃Biu",
+      "name": "auete┃Biu",
       "type": 3,
       "playerType": "1",
       "changeable": 1,
       "api": "csp_XBiu",
-      "ext": "./XBiu/七七影视.json"
+      "ext": "./XBiu/auete.json"
     },
     {
       "key": "SP33",
