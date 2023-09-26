@@ -1,0 +1,90 @@
+{
+  "wallpaper": "",
+  "spider": "./XBPQ.jar;md5;c570b052645834a1109b54421c1552f9",
+  
+  "sites": [
+
+      {
+      "key": "速搜",
+      "name": "速搜┃BPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "playerType": "1", 
+      "ext": {
+        "数组": "class=\"top&&</li",
+        "嗅探词": ".m3u8#.mp4#download-cdn.123pan.cn",
+        "图片": "data-original=\" &&\"",
+        "链接": "/v_+/project-&&.html+_1_1.html",
+        "线路数组": "class='swiper-slide&&</a>[不包含:lzm3u8#ffm3u8]",
+        "线路标题": "data-from=\"&&\"",
+        "影片类型": "备注：&&</li>",
+        "影片年代": "年份：</b>&&</li>",
+        "影片地区": "地区：&&</li>",
+        "导演": "<h2>&&</h2>",
+        "主演": "演员：&&</li>",
+        "简介": "简介：&&</li>",
+        "播放数组": "<ul class='content-playlist&&</ul",
+        "播放列表": "<a&&/a>",
+        "跳转播放链接": "https://jx.2kj.org/jx.php?url=+link_pre*url\":\"&&\"",
+        "二次跳转播放链接": "Base64(\"url\"*\"&&\"[替换:\\*>>9#->>1#\\&>>5])",
+        "搜索url": "https://www.cupfox.app/s/{wd}",
+        "搜索模式": "1",
+        "搜索二次截取": "type=\"application/json\">&&</script>",
+        "搜索数组": "{\"te&&}[包含:速搜TV]",
+        "搜索图片": "./xm/Free.jpg",
+        "搜索标题": "xt\":\"&&\"",
+        "搜索副标题": "\"website\":\"&&\"",
+        "搜索链接": "https://www.sstv.fun/v_+\"url\":\"https://www.sstv.fun/project-&&.html\"+_1_1.html",
+        "分类url": "https://www.sstv.fun/vodshow-{cateId}/area/{area}/by/{by}/page/{catePg}/year/{year}.html;;a",
+        "分类": "电影$1#剧集$2#综艺$3#动漫$4#纪录$21"
+      }
+    },{
+      "key": "看看",
+      "name": "剧看┃BPQ",
+      "type": 3,
+      "playerType": "1",
+      "changeable": 1,
+      "api": "csp_XBPQ",
+      "ext": {
+        "主页url": "https://kankanju.cc",
+        "请求头": "Referer$https://kankanju.cc/#Cookie$filter_robot_cs=301#User-Agent$Mozilla/5.0 (iPad; CPU OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1",
+        "副标题": "pic-text text-right\">&&</b>",
+        "嗅探词": ".m3u8#.mp4#tos#video_mp4#v3-dy-o.zjcdn.com",
+        "搜索模式": "1",
+        "搜索url": "https://kankanju.cc/type/id-.html?wd={wd}",
+        "影片类型": "<div class=\"module-info-tag\">&&立即播放",
+        "导演": "导演：&&</div>",
+        "主演": "主演：&&</div>",
+        "简介": "introduction-content\">&&</span>",
+        "线路数组": "data-toggle=&&</li>",
+        "线路标题": "\"tab\">&&</a>[不包含:线路1#线路2#线路3#][替换:FY线路>>无广告有4K#KKJ线路>>无告1080P#LZ线路>>广告1#FF线路>>广告2#YZ线路>>广告3]",
+        "分类": "电影$dianying#连续剧$dianshiju#综艺$zongyi#动漫$dongman#纪录片$jilupian",
+        "分类url": "https://kankanju.cc/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html"}
+      },
+    {"key":"SP33","name":"360┃解析","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+      {"key":"Itv","name":"奇艺┃解析","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1,"changeable":0},
+  {"key":"Mtv","name":"芒果┃解析","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+  	{"key":"push_agent","name":"手机┃推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://ali.饭太硬.ml/alitoken"}
+  ],
+  "parses": [
+     {"name":"00","type":1,"url":"http://jx.wogg.link:63/jiexi/饭特析.php?url="},
+  {"name":"66","type":1,"url":"https://vip.mosangkeji.com/api/?key=afcQ0C7vUiNOy4tnvG&url="},
+  {"name":"22","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="},
+  {"name":"11","type":1,"url":"http://119.91.31.224:82/txqq.php?url=","ext":{"flag": ["qq","腾讯"]}}
+  ],
+  
+   "lives": [
+    {
+      "name": "TXT",
+      "type": 0,
+      "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ],
+
+  "flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","csm3u8"],
+
+  "ads": ["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]
+}
+  	
