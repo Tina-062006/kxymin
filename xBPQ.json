@@ -144,6 +144,18 @@
       "ext": "./XBPQ/剧看.json"
     },
     {
+      "key": "蚂蚁",
+      "name": "蚂蚁┃Biu",
+      "type": 3,
+      "api": "csp_XBiu",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "https://libvio.top/type/{cateId}.html"
+    },
+    {
       "key": "七七",
       "name": "在线┃Biu",
       "type": 3,
