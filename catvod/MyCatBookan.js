@@ -1,4 +1,4 @@
-import { _ } from './lib/cat.js';
+import { _ } from 'assets://js/lib/cat.js';
 
 let key = 'bookan';
 let url = 'https://api.bookan.com.cn';
@@ -37,9 +37,9 @@ async function home(filter) {
 }
 
 async function homeVod() {
-  return JSON.stringify({
-      list: [],
-  });
+    return JSON.stringify({
+        list: [],
+    });
 }
 
 async function category(tid, pg, filter, extend) {
@@ -99,7 +99,7 @@ function formatPlayUrl(name) {
         .trim();
 }
 
-async function proxy(segments, headers) {}
+async function proxy(segments, headers) { }
 
 async function play(flag, id, flags) {
     return JSON.stringify({
