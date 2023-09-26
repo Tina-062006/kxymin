@@ -37,17 +37,6 @@
       "changeable": 1
     },
     {
-      "key": "zxzj",
-      "name": "在线┃open",
-      "type": 3,
-      "api": "./catvod/zxzj_open.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-      //"api": "csp_XBiu",
-      //"ext": "https://www.zxzj.pro/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html"
-    },
-    {
       "key": "南瓜",
       "name": "南瓜┃drpy",
       "type": 3,
@@ -252,8 +241,19 @@
       "api": "csp_XBiu",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "http://www.l0l.tv/index.php/vod/show/id/{cateId}/page/{catePg}.html"
+    },
+    {
+      "key": "zxzj",
+      "name": "在线┃xBiu",
+      "type": 3,
+      //"api": "./catvod/zxzj_open.js",
+      "api": "csp_XBiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.zxzj.pro/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html"
     },
     {
       "key": "cj ",
