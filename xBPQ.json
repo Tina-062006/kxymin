@@ -36,6 +36,14 @@
       "changeable": 1
     },
     {
+      "key": "博看",
+      "name": "博看┃open",
+      "type": 3,
+      "api": "./catvod/bookan_open.js",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
       "key": "爱看",
       "name": "爱看┃open",
       "type": 3,
