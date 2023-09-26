@@ -121,7 +121,6 @@
       "name": "玉米┃YsV2",
       "type": 3,
       "api": "csp_AppYsV2",
-      "playerType": 2,
       "playUrl": "parse:玉米",
       "searchable": 1,
       "quickSearch": 1,
