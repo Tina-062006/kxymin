@@ -128,7 +128,7 @@
     },
     {
       "key": "速搜",
-      "name": "速搜┃BPQ",
+      "name": "速搜┃xBPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": "1",
@@ -136,7 +136,7 @@
     },
     {
       "key": "看看",
-      "name": "剧看┃BPQ",
+      "name": "剧看┃xBPQ",
       "type": 3,
       "playerType": "1",
       "changeable": 1,
@@ -145,7 +145,7 @@
     },
     {
       "key": "蚂蚁",
-      "name": "蚂蚁┃Biu",
+      "name": "蚂蚁┃xBiu",
       "type": 3,
       "api": "csp_XBiu",
       "playerType": 1,
@@ -157,12 +157,12 @@
     },
     {
       "key": "七七",
-      "name": "在线┃Biu",
+      "name": "在线┃xBiu",
       "type": 3,
       "playerType": "1",
       "changeable": 1,
       "api": "csp_XBiu",
-      "ext": "./XBiu/zxzj.json"
+      "ext": "https://www.zxzj.pro/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html"
     },
     {
       "key": "SP33",
