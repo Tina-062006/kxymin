@@ -31,7 +31,7 @@
    
   {"key":"新6V","name":"SixV┃磁力","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://www.xb6v.com/"},
   {"key":"贱贱","name":"荐片┃p2p","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":1,"api":"./JavaScript/lib/drpy2.min.js","ext":"./JavaScript/荐片.js"},
-  {"key":"追忆","name":"追忆┃APP","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"./JavaScript/lib/drpy2.min.js","ext":"./quickjs/追忆.js"},
+  {"key":"追忆","name":"追忆┃drpy","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"./JavaScript/lib/drpy2.min.js","ext":"./quickjs/追忆.js"},
       
   {"key":"SP33","name":"360┃解析","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
   {"key":"Qtv","name":"腾讯┃解析","type":3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
