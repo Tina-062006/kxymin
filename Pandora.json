@@ -46,8 +46,8 @@
   {"key":"Bili","name":"🅱B站┃合集","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":"./json/bili.json"},
   {"key":"MV_vod","name":"明星┃MV","type":1,"api":"https://mv.wogg.link/mv/vod","style":{"type":"oval"},"searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
   
-  {"key":"csp_Nbys","name":"泥巴┃梯子","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"changeable":1,"proxy": true},
-  {"key":"csp_trj","name":"唐人街┃梯子","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"changeable":1,"proxy": true},
+  {"key":"csp_Nbys","name":"泥巴┃梯子","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"changeable":1},
+  {"key":"csp_trj","name":"唐人街┃梯子","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"changeable":1},
 
   {"key":"YiSo","name":"易搜┃搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
   {"key":"Zhaozy","name":"资源┃搜索","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$fanfan$$$qqq111"},
@@ -73,6 +73,7 @@
   ],
 
 "rules":[
+  {"name":"proxy","hosts":["raw.githubusercontent.com","googlevideo.com","api.nivodz.com","static.nivod.tv","c.biggggg.com","c.olddddd.com","www.histar.tv","yc.cdn.media.ulivetv.net","vip.kuaikan-cdn3.com","aws.ulivetv.net","cdn.v82u1l.com","cdn.iz8qkg.com"]},
   {"name":"暴風","hosts":["bfzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
   {"name":"星星","hosts":["aws.ulivetv.net"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
   {"name":"量子","hosts":["vip.lz","hd.lz","v.cdnlz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
