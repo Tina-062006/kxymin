@@ -259,6 +259,15 @@
       "ext": "./quickjs/UM电影[V2].js"
     },
     {
+      "key": "drpy_js_B站影视",
+      "name": "B站",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "./JavaScript/lib/drpy2.min.js",
+      "ext": "./quickjs/B站影视.js"
+    },
+    {
       "key": "七夜",
       "name": "七夜",
       "type": 3,
