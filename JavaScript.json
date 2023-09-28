@@ -12,7 +12,7 @@
     },
     {
       "key": "贱贱",
-      "name": "荐片┃p2p",
+      "name": "荐片",
       "type": 3,
       "searchable": 1,
       "changeable": 1,
@@ -31,7 +31,7 @@
     },
     {
       "key": "农民",
-      "name": "农民┃drpy",
+      "name": "农民",
       "type": 3,
       "searchable": 1,
       "changeable": 1,
@@ -40,7 +40,7 @@
     },
     {
       "key": "乐猪",
-      "name": "乐猪┃drpy",
+      "name": "乐猪",
       "type": 3,
       "searchable": 1,
       "changeable": 1,
@@ -49,7 +49,7 @@
     },
     {
       "key": "voflix",
-      "name": "VoFl┃drpy",
+      "name": "VoFl",
       "type": 3,
       "searchable": 1,
       "changeable": 1,
