@@ -5,8 +5,8 @@ muban.mxpro.二级.tabs = '#y-playList&&.module-tab-item'
 var rule = {
     title: 'cokemv',
     模板: 'mxpro',
-    // host:'https://cokemv.co',
-    host: 'http://cokemv.net',
+    host:'https://cokemv.co',
+    //host: 'http://cokemv.net',
     hostJs: 'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,"a:eq(0)&&href");print(src);HOST=src',
     homeUrl: '/label/week.html',
     url: '/vodshow/fyfilter.html',
