@@ -1,8 +1,7 @@
 {
-"spider":"./jar/Box.jar;md5;d2dc99c413e74bb24c862c1021d1f7eb",
-"wallpaper":"",
-
-"sites": [
+  "spider": "./jar/Box.jar;md5;d2dc99c413e74bb24c862c1021d1f7eb",
+  "wallpaper": "",
+  "sites": [
     {
       "key": "豆瓣",
       "name": "豆瓣评分",
@@ -308,7 +307,7 @@
       }
     }
   ],
-"rules": [
+  "rules": [
     {
       "name": "proxy",
       "hosts": [
