@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;af5a163bf0ba899be92c5f44f3dde1d8",
+  "spider": "./jar/custom_spider.jar;md5;f5c681312ac1e3ccac064a72d92544e2",
   "sites": [
     {
       "key": "豆瓣",
@@ -9,6 +9,18 @@
       "changeable": 1,
       "searchable": 0,
       "ext": "./JavaScript/drpy.js"
+    },
+    {
+      "key": "玩偶",
+      "name": "玩偶",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "token": "影視天下第一",
+        "filter": "./json/wogg.json"
+      }
     },
     {
       "key": "厂长",
