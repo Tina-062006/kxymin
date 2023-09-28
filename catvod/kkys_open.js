@@ -1,4 +1,4 @@
-import { Crypto, dayjs, jinja2, _ } from 'assets://js/lib/cat.js';
+import { Crypto, dayjs, jinja2, _ } from './lib/cat.js';
 
 let key = 'kkys';
 let url = 'https://api1.baibaipei.com:8899';
@@ -51,7 +51,7 @@ async function init(cfg) {
     if (_.isEmpty(device)) {
         device = randDevice();
         device.id = randStr(33).toLowerCase();
-        device.ua = 'okhttp/4.1.0';
+        device.ua = 'okhttp/3.12.0';
         await local.set(key, deviceKey, JSON.stringify(device));
     }
 }
