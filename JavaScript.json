@@ -18,7 +18,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "token": "影視天下第一",
+        "token": "http://127.0.0.1:9978/file/tvfan/token.txt",
         "filter": "./json/wogg.json"
       }
     },
