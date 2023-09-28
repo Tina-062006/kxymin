@@ -63,6 +63,15 @@
       "ext": "./quickjs/热剧猫.js"
     },
     {
+      "key": "drpy_js_南瓜影视",
+      "name": "南瓜",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "./JavaScript/lib/drpy2.min.js",
+      "ext": "./quickjs/南瓜影视.js"
+    },
+    {
       "key": "drpy_js_农民",
       "name": "农民",
       "type": 3,
@@ -167,15 +176,6 @@
       "type": 3,
       "api": "./JavaScript/lib/drpy2.min.js",
       "ext": "./quickjs/两个BT.js"
-    },
-    {
-      "key": "drpy_js_南瓜影视",
-      "name": "南瓜",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "./JavaScript/lib/drpy2.min.js",
-      "ext": "./quickjs/南瓜影视.js"
     },
     {
       "key": "drpy_js_素白白",
