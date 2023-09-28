@@ -1,13 +1,22 @@
-{  
+{
   "spider": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;af5a163bf0ba899be92c5f44f3dde1d8",
   "sites": [
+    {
+      "key": "豆瓣",
+      "name": "豆瓣",
+      "type": 3,
+      "api": "./JavaScript/lib/drpy2.min.js",
+      "changeable": 1,
+      "searchable": 0,
+      "ext": "./JavaScript/drpy.js"
+    },
     {
       "key": "drpy_js_HDmoli",
       "name": "魔力",
       "type": 3,
       "api": "./JavaScript/lib/drpy2.min.js",
       "ext": "./quickjs/HDmoli.js"
-    },    
+    },
     {
       "key": "drpy_js_LIBVIO",
       "name": "利播",
