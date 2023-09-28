@@ -180,6 +180,13 @@
       "ext": "./quickjs/酷客影院.js"
     },
     {
+      "key": "drpy_js_剧迷",
+      "name": "剧迷",
+      "type": 3,
+      "api": "./JavaScript/lib/drpy2.min.js",
+      "ext": "./quickjs/剧迷.js"
+    },
+    {
       "key": "drpy_js_两个BT",
       "name": "Bttoo",
       "type": 3,
