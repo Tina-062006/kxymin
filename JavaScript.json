@@ -11,16 +11,57 @@
       "ext": "./JavaScript/drpy.js"
     },
     {
+      "key": "贱贱",
+      "name": "荐片┃p2p",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "playerType": 1,
+      "api": "./JavaScript/lib/drpy2.min.js",
+      "ext": "./quickjs/荐片.js"
+    },
+    {
       "key": "drpy_js_追忆",
       "name": "追忆",
       "type": 3,
+      "searchable": 1,
+      "changeable": 1,
       "api": "./JavaScript/lib/drpy2.min.js",
       "ext": "./quickjs/追忆.js"
+    },
+    {
+      "key": "农民",
+      "name": "农民┃drpy",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "./JavaScript/lib/drpy2.min.js",
+      "ext": "./quickjs/农民影视.js"
+    },
+    {
+      "key": "乐猪",
+      "name": "乐猪┃drpy",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "./JavaScript/lib/drpy2.min.js",
+      "ext": "./quickjs/乐猪TV.js"
+    },
+    {
+      "key": "voflix",
+      "name": "VoFl┃drpy",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "./JavaScript/lib/drpy2.min.js",
+      "ext": "./quickjs/voflix.js"
     },
     {
       "key": "drpy_js_HDmoli",
       "name": "魔力",
       "type": 3,
+      "searchable": 1,
+      "changeable": 1,
       "api": "./JavaScript/lib/drpy2.min.js",
       "ext": "./quickjs/HDmoli.js"
     },
@@ -28,6 +69,8 @@
       "key": "drpy_js_LIBVIO",
       "name": "利播",
       "type": 3,
+      "searchable": 1,
+      "changeable": 1,
       "api": "./JavaScript/lib/drpy2.min.js",
       "ext": "./quickjs/LIBVIO.js"
     },
@@ -35,6 +78,8 @@
       "key": "drpy_js_爱迪[V2]",
       "name": "爱迪",
       "type": 3,
+      "searchable": 1,
+      "changeable": 1,
       "api": "./JavaScript/lib/drpy2.min.js",
       "ext": "./quickjs/爱迪[V2].js"
     },
@@ -42,6 +87,8 @@
       "key": "drpy_js_花猫TV",
       "name": "花猫",
       "type": 3,
+      "searchable": 1,
+      "changeable": 1,
       "api": "./JavaScript/lib/drpy2.min.js",
       "ext": "./quickjs/花猫TV.js"
     },
@@ -49,6 +96,8 @@
       "key": "drpy_js_花猪影视[V2]",
       "name": "花猪",
       "type": 3,
+      "searchable": 1,
+      "changeable": 1,
       "api": "./JavaScript/lib/drpy2.min.js",
       "ext": "./quickjs/花猪影视[V2].js"
     },
@@ -56,6 +105,8 @@
       "key": "drpy_js_酷客影院",
       "name": "酷客",
       "type": 3,
+      "searchable": 1,
+      "changeable": 1,
       "api": "./JavaScript/lib/drpy2.min.js",
       "ext": "./quickjs/酷客影院.js"
     },
@@ -70,6 +121,8 @@
       "key": "drpy_js_南瓜影视",
       "name": "南瓜",
       "type": 3,
+      "searchable": 1,
+      "changeable": 1,
       "api": "./JavaScript/lib/drpy2.min.js",
       "ext": "./quickjs/南瓜影视.js"
     },
@@ -77,6 +130,8 @@
       "key": "drpy_js_素白白",
       "name": "素白",
       "type": 3,
+      "searchable": 1,
+      "changeable": 1,
       "api": "./JavaScript/lib/drpy2.min.js",
       "ext": "./quickjs/素白白.js"
     },
@@ -84,6 +139,8 @@
       "key": "drpy_js_宅腐影视",
       "name": "宅腐",
       "type": 3,
+      "searchable": 1,
+      "changeable": 1,
       "api": "./JavaScript/lib/drpy2.min.js",
       "ext": "./quickjs/宅腐影视.js"
     },
@@ -91,6 +148,8 @@
       "key": "drpy_js_子子影视",
       "name": "子子",
       "type": 3,
+      "searchable": 1,
+      "changeable": 1,
       "api": "./JavaScript/lib/drpy2.min.js",
       "ext": "./quickjs/子子影视.js"
     },
@@ -98,6 +157,8 @@
       "key": "drpy_js_鸭鸭",
       "name": "鸭鸭",
       "type": 3,
+      "searchable": 1,
+      "changeable": 1,
       "api": "./JavaScript/lib/drpy2.min.js",
       "ext": "./quickjs/鸭鸭[V2].js"
     },
@@ -105,6 +166,8 @@
       "key": "drpy_js_蛋蛋",
       "name": "蛋蛋",
       "type": 3,
+      "searchable": 1,
+      "changeable": 1,
       "api": "./JavaScript/lib/drpy2.min.js",
       "ext": "./quickjs/萌蛋蛋[V2].js"
     },
@@ -112,6 +175,8 @@
       "key": "drpy_js_创艺",
       "name": "创艺",
       "type": 3,
+      "searchable": 1,
+      "changeable": 1,
       "api": "./JavaScript/lib/drpy2.min.js",
       "ext": "./quickjs/创艺影视[V2].js"
     },
@@ -119,6 +184,8 @@
       "key": "drpy_js_UM电影",
       "name": "看剧",
       "type": 3,
+      "searchable": 1,
+      "changeable": 1,
       "api": "./JavaScript/lib/drpy2.min.js",
       "ext": "./quickjs/UM电影[V2].js"
     },
