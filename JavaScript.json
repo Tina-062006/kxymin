@@ -81,6 +81,15 @@
       "ext": "./quickjs/农民影视.js"
     },
     {
+      "key": "drpy_js_l0l影视",
+      "name": "l0l",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "./JavaScript/lib/drpy2.min.js",
+      "ext": "./quickjs/l0l影视.js"
+    },
+    {
       "key": "drpy_js_乐猪",
       "name": "乐猪",
       "type": 3,
