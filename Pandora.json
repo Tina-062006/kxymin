@@ -7,7 +7,7 @@
       "name": "豆瓣┃评分",
       "type": 3,
       "api": "csp_DouDou",
-      "searchable": 1,
+      "searchable": 0,
       "changeable": 1
     },
     {
@@ -639,5 +639,15 @@
         "is_play_url="
       ]
     }
-  ]
+  ],
+  "lives":[
+{
+"name":"综合",
+"type":0,
+"url":"http://home.jundie.top:81/Cat/tv/live.txt",
+"playerType":1,
+"epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+"logo": "https://epg.112114.xyz/logo/{name}.png"
+}
+]
 }
