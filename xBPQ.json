@@ -28,6 +28,28 @@
       "changeable": 1
     },
     {
+      "key": "csp_wogg_cli",
+      "name": "玩偶┃T4",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt",
+      "timeout": 30
+    },
+    {
+      "key": "小纸条_cli",
+      "name": "纸条┃T4",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/cli_gitCafe",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt",
+      "timeout": 30
+    },
+    {
       "key": "白白",
       "name": "白白┃open",
       "type": 3,
@@ -77,6 +99,15 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
+    },    
+    {
+      "key": "益达影视",
+      "name": "益达┃YsV2",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://myd666.tv/lvdou_api.php/v1.vod"
     },
     {
       "key": "csp_AppYsV2_YuMi",
