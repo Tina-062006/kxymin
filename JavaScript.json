@@ -123,6 +123,41 @@
       "ext": "./quickjs/子子影视.js"
     },
     {
+      "key": "drpy_js_鸭鸭",
+      "name": "鸭鸭",
+      "type": 3,
+      "api": "./JavaScript/lib/drpy2.min.js",
+      "ext": "./quickjs/鸭鸭[V2].js"
+    },
+    {
+      "key": "drpy_js_蛋蛋",
+      "name": "蛋蛋",
+      "type": 3,
+      "api": "./JavaScript/lib/drpy2.min.js",
+      "ext": "./quickjs/萌蛋蛋[V2].js"
+    },
+    {
+      "key": "drpy_js_创艺",
+      "name": "创艺",
+      "type": 3,
+      "api": "./JavaScript/lib/drpy2.min.js",
+      "ext": "./quickjs/创艺影视[V2].js"
+    },
+    {
+      "key": "drpy_js_UM电影",
+      "name": "影视",
+      "type": 3,
+      "api": "./JavaScript/lib/drpy2.min.js",
+      "ext": "./quickjs/UM电影[V2].js"
+    },
+    {
+      "key": "drpy_js_好看剧",
+      "name": "看剧",
+      "type": 3,
+      "api": "./JavaScript/lib/drpy2.min.js",
+      "ext": "./quickjs/F7好看剧[V2].js"
+    },
+    {
       "key": "七夜",
       "name": "七夜",
       "type": 3,
