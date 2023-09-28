@@ -1,7 +1,7 @@
 // 新视觉影院新发布页： https://www.5280.fun
 var rule = {
     title: '新视觉影视',
-    host:'https://www.6080dy3.com',
+    host:'https://www.6080yy3.com',
     //host: 'https://www.5280.fun',
     hostJs: 'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,".go:eq(0)&&a&&href");print(src);HOST=src',
     // url:'/vodshow/fyclass--------fypage---.html',
