@@ -180,11 +180,11 @@
       "ext": "./quickjs/酷客影院.js"
     },
     {
-      "key": "drpy_js_剧迷",
-      "name": "剧迷",
+      "key": "drpy_js_新视觉影院",
+      "name": "视觉",
       "type": 3,
       "api": "./JavaScript/lib/drpy2.min.js",
-      "ext": "./quickjs/剧迷.js"
+      "ext": "./quickjs/新视觉影院.js"
     },
     {
       "key": "drpy_js_两个BT",
