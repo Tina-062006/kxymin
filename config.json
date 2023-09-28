@@ -7,13 +7,23 @@
         },
         {
             "url": "./Box.json",
-            "name": "备用接口",
+            "name": "巧计接口",
             "time": "2023-08-04"
         },
         {
             "url": "./aliDrive.json",
             "name": "阿里云盘",
             "time": "2023-08-16"
+        },
+        {
+            "url": "./xBPQ.json",
+            "name": "xBPQ接口",
+            "time": "2023-09-28"
+        },
+        {
+            "url": "./JavaScript.json",
+            "name": "Java接口",
+            "time": "2023-09-28"
         }
     ]
 }
