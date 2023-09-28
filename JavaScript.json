@@ -11,6 +11,30 @@
       "ext": "./JavaScript/drpy.js"
     },
     {
+      "key": "厂长",
+      "name": "厂长",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "./catvod/czzy_open.js"
+    },
+    {
+      "key": "快看",
+      "name": "快看",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "./catvod/kkys_open.js"
+    },
+    {
+      "key": "kunyu77",
+      "name": "琨娱",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "./catvod/kunyu77_open.js"
+    },
+    {
       "key": "drpy_js_贱贱",
       "name": "荐片",
       "type": 3,
