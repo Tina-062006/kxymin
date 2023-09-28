@@ -4,6 +4,15 @@
 
 "sites": [
     {
+      "key": "豆瓣",
+      "name": "豆瓣",
+      "type": 3,
+      "api": "./JavaScript/lib/drpy2.min.js",
+      "changeable": 1,
+      "searchable": 0,
+      "ext": "./JavaScript/drpy.js"
+    },
+    {
       "key": "mino4K",
       "name": "mino4K",
       "type": 3,
