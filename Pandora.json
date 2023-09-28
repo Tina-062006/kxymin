@@ -219,6 +219,34 @@
       "ext": "http://www.miniku.cc/xgapp.php/v1/"
     },
     {
+      "key": "率率",
+      "name": "索尼┃采集",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "categories": [
+        "国产剧",
+        "韩剧",
+        "日剧",
+        "港剧",
+        "台剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "战争片",
+        "恐怖片",
+        "剧情片",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "大陆综艺",
+        "日韩综艺"
+      ]
+    },
+    {
       "key": "SP33",
       "name": "360┃解析",
       "type": 3,
