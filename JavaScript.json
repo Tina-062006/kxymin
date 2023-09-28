@@ -54,6 +54,15 @@
       "ext": "./quickjs/追忆.js"
     },
     {
+      "key": "drpy_js_热剧",
+      "name": "热剧",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "./JavaScript/lib/drpy2.min.js",
+      "ext": "./quickjs/热剧猫.js"
+    },
+    {
       "key": "drpy_js_农民",
       "name": "农民",
       "type": 3,
