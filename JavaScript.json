@@ -81,6 +81,24 @@
       "ext": "./quickjs/乐猪TV.js"
     },
     {
+      "key": "drpy_js_云播",
+      "name": "云播",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "./JavaScript/lib/drpy2.min.js",
+      "ext": "./quickjs/TVB云播.js"
+    },
+    {
+      "key": "drpy_js_酷云77",
+      "name": "七七",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "./JavaScript/lib/drpy2.min.js",
+      "ext": "./quickjs/酷云77.js"
+    },
+    {
       "key": "drpy_js_voflix",
       "name": "VoFl",
       "type": 3,
