@@ -12,72 +12,65 @@
       "ext": "./JavaScript/drpy.js"
     },
     {
-      "key": "mino4K",
+      "key": "csp_Appto",
       "name": "mino4K",
       "type": 3,
       "api": "csp_Appto",
       "searchable": 1,
       "changeable": 1,
-      "playerType": 2,
       "ext": "|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx"
     },
     {
-      "key": "追忆影视",
+      "key": "csp_Appto",
       "name": "追忆影视",
       "type": 3,
       "api": "csp_Appto",
       "searchable": 1,
       "changeable": 1,
-      "playerType": 2,
       "ext": "|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE"
     },
     {
-      "key": "橘子影视",
+      "key": "csp_Appto",
       "name": "橘子影视",
       "type": 3,
       "api": "csp_Appto",
       "searchable": 1,
       "changeable": 1,
-      "playerType": 2,
       "ext": "pB8fV1o5fODylO5AtO8tvf0F1lRBzZhIb0ydyOYoUZ69DpfdeG0oDdRtFLkWxpHU9kWB67yp98N%2FQRMqmBFfDAyox2BUH5%2BexjgENSd4e28Pxi%2B5t01guq9FdjMXODf8IiUY1tJcNlEWeTAdGho%2BjA%3D%3D|BTmtwQlNQQ05OQXdYMktjZWNtd1lNakdKYkNQYjVZcll8aHR0cDovLzExOS4xMDEuMTQ4LjM6MjUyNS9hcHB0by92MQ"
     },
     {
-      "key": "米酷视频",
+      "key": "csp_DDMJ",
       "name": "米酷视频",
       "type": 3,
       "api": "csp_DDMJ",
       "searchable": 1,
       "changeable": 1,
-      "playerType": 2,
       "ext": "http://43.248.129.116:6688"
     },
     {
-      "key": "蚂蚁视频",
+      "key": "csp_Mayiys",
       "name": "蚂蚁视频",
       "type": 3,
       "api": "csp_Mayiys",
       "searchable": 1,
       "changeable": 1,
-      "playerType": 2,
       "ext": "http://rzys.xyz"
     },
     {
-      "key": "看看视频",
+      "key": "csp_KanKan",
       "name": "看看视频",
       "type": 3,
       "api": "csp_KanKan",
       "searchable": 1,
-      "changeable": 1,
-      "playerType": 2
+      "changeable": 1
     },
     {
-      "key": "南瓜影视",
+      "key": "csp_NanGua",
       "name": "南瓜影视",
       "type": 3,
       "api": "csp_NanGua",
       "searchable": 1,
-      "changeable": 1,
-      "playerType": 2
+      "changeable": 1
     },
     {
       "key": "EMO",
@@ -85,18 +78,16 @@
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
-      "changeable": 1,
-      "playerType": 2,
+      "changeable": 1
       "ext": "http://one3.emofun.top/mogai_api.php/v1.vod"
     },
     {
-      "key": "油果视频",
+      "key": "csp_Youguo",
       "name": "油果视频",
       "type": 3,
       "api": "csp_Youguo",
       "searchable": 1,
-      "changeable": 1,
-      "playerType": 2
+      "changeable": 1
     },
     {
       "key": "时常影视",
@@ -104,80 +95,71 @@
       "type": 3,
       "api": "csp_SC1080",
       "searchable": 1,
-      "changeable": 1,
-      "playerType": 2
+      "changeable": 1
     },
     {
       "key": "HDMOLI",
-      "name": "HDMOLI",
+      "name": "魔力影视",
       "type": 3,
       "api": "csp_HDMOLI",
       "searchable": 1,
-      "changeable": 1,
-      "playerType": 2
+      "changeable": 1
     },
     {
-      "key": "Bdys_spider",
+      "key": "csp_Bdys",
       "name": "哔滴影视",
       "type": 3,
       "api": "csp_Bdys01",
       "searchable": 1,
-      "changeable": 1,
-      "playerType": 2
+      "changeable": 1
     },
     {
-      "key": "NoSearch_csp_DiDuan",
+      "key": "csp_DiDuan",
       "name": "低端影视",
       "type": 3,
       "api": "csp_Ddrk",
       "searchable": 1,
-      "changeable": 1,
-      "playerType": 2
+      "changeable": 1
     },
     {
-      "key": "Lezhu_spider",
+      "key": "csp_Lezhu",
       "name": "乐猪影视",
       "type": 3,
       "api": "csp_Lezhu",
       "searchable": 1,
-      "changeable": 1,
-      "playerType": 2
+      "changeable": 1
     },
     {
-      "key": "sliu_spider",
+      "key": "csp_ShiLiuDY",
       "name": "石榴电影",
       "type": 3,
       "api": "csp_ShiLiuDY",
       "searchable": 1,
-      "changeable": 1,
-      "playerType": 2
+      "changeable": 1
     },
     {
-      "key": "快看影视",
+      "key": "csp_Kuaikan",
       "name": "快看影视",
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
-      "changeable": 1,
-      "playerType": 2
+      "changeable": 1
     },
     {
-      "key": "360_spider",
+      "key": "csp_SP360",
       "name": "360影视",
       "type": 3,
       "api": "csp_SP360",
       "searchable": 1,
-      "changeable": 1,
-      "playerType": 2
+      "changeable": 1
     },
     {
-      "key": "ZXZJ",
+      "key": "csp_Zxzj",
       "name": "在线之家",
       "type": 3,
       "api": "csp_Zxzj",
       "searchable": 1,
-      "changeable": 1,
-      "playerType": 2
+      "changeable": 1
     },
     {
       "key": "csp_CZSPP",
@@ -185,8 +167,7 @@
       "type": 3,
       "api": "csp_Czsapp",
       "searchable": 1,
-      "changeable": 1,
-      "playerType": 2
+      "changeable": 1
     },
     {
       "key": "csp_Auete",
@@ -194,27 +175,24 @@
       "type": 3,
       "api": "csp_Auete",
       "searchable": 1,
-      "changeable": 1,
-      "playerType": 2
+      "changeable": 1
     },
     {
-      "key": "NoSearch_csp_BBB",
+      "key": "csp_Bili",
       "name": "哔哩哔哩",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
       "changeable": 1,
-      "playerType": 2,
       "ext": "https://www.qiaoji8.com/tvbox/bili.json"
     },
     {
-      "key": "NoSearch_Yj1211_spider",
+      "key": "csp_Yj1211",
       "name": "直播聚合",
       "type": 3,
       "api": "csp_Yj1211",
       "searchable": 1,
-      "changeable": 1,
-      "playerType": 2
+      "changeable": 1
     },
     {
       "key": "push_agent",
@@ -223,17 +201,15 @@
       "api": "csp_PushAgent",
       "searchable": 0,
       "changeable": 1,
-      "playerType": 2,
       "ext": "https://www.qiaoji8.com/jar1/token.txt"
     },
     {
-      "key": "Music_spider",
+      "key": "csp_Music",
       "name": "音乐欣赏",
       "type": 3,
       "api": "csp_Music",
       "searchable": 1,
-      "changeable": 1,
-      "playerType": 2
+      "changeable": 1
     }
   ],
   "parses": [
