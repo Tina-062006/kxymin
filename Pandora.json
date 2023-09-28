@@ -7,15 +7,15 @@
       "name": "豆瓣┃评分",
       "type": 3,
       "api": "csp_DouDou",
-      "searchable": 0,
-      "changeable": 0
+      "searchable": 1,
+      "changeable": 1
     },
     {
       "key": "YGP",
       "name": "荐影┃速递",
       "type": 3,
       "api": "csp_YGP",
-      "searchable": 0,
+      "searchable": 1,
       "changeable": 0
     },
     {
@@ -23,7 +23,7 @@
       "name": "急救┃教学",
       "type": 3,
       "api": "csp_FirstAid",
-      "searchable": 0,
+      "searchable": 1,
       "changeable": 0,
       "style": {
         "type": "rect",
