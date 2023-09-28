@@ -196,6 +196,24 @@
       "ext": "./quickjs/宅腐影视.js"
     },
     {
+      "key": "drpy_js_低端影视",
+      "name": "低端",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "./JavaScript/lib/drpy2.min.js",
+      "ext": "./quickjs/低端影视.js"
+    },
+    {
+      "key": "drpy_js_cokemv",
+      "name": "可乐",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "./JavaScript/lib/drpy2.min.js",
+      "ext": "./quickjs/cokemv.js"
+    },
+    {
       "key": "drpy_js_子子影视",
       "name": "子子",
       "type": 3,
