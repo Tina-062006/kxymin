@@ -219,6 +219,34 @@
       "ext": "http://www.miniku.cc/xgapp.php/v1/"
     },
     {
+      "key": "热剧猫",
+      "name": "热剧猫",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "http://v.aaaa0.top:2525/api.php/app/"
+    },
+    {
+      "key": "次元城",
+      "name": "次元城",
+      "type": 3,
+      "api": "csp_Cycdm",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "http://app.95189371.cn/ciyuancheng.php/v6/"
+    },
+    {
+      "key": "追忆",
+      "name": "追忆",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://app.alovo.cn/api.php/app/"
+    },
+    {
       "key": "率率",
       "name": "索尼┃采集",
       "type": 1,
