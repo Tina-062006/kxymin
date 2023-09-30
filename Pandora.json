@@ -201,6 +201,16 @@
       "ext": "http://www.xb6v.com/"
     },
     {
+      "key": "迪迪",
+      "name": "😎迪迪┃App",
+      "api": "csp_AppYsV2",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://22222.yiyingys.asia/api.php/app/"
+    },
+    {
       "key": "腐剧",
       "name": "腐剧┃App",
       "type": 3,
