@@ -201,6 +201,15 @@
       "ext": "./json/nmys.json"
     },
     {
+      "key": "迪迪",
+      "name": "爱迪┃App",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://api123.adys.app/xgapp.php/v3/"
+    },
+    {
       "key": "腐剧",
       "name": "腐剧┃YsV2",
       "type": 3,
