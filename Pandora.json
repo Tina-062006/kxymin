@@ -202,7 +202,7 @@
     },
     {
       "key": "腐剧",
-      "name": "腐剧┃App",
+      "name": "腐剧┃YsV2",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -211,7 +211,7 @@
     },
     {
       "key": "哈喽",
-      "name": "迷你┃App",
+      "name": "迷你┃YsV2",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -219,26 +219,8 @@
       "ext": "http://www.miniku.cc/xgapp.php/v1/"
     },
     {
-      "key": "热剧猫",
-      "name": "热剧猫",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "http://v.aaaa0.top:2525/api.php/app/"
-    },
-    {
-      "key": "次元城",
-      "name": "次元城",
-      "type": 3,
-      "api": "csp_Cycdm",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "http://app.95189371.cn/ciyuancheng.php/v6/"
-    },
-    {
       "key": "追忆",
-      "name": "追忆",
+      "name": "追忆┃YsV2",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
