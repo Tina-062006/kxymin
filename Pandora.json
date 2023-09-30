@@ -202,7 +202,7 @@
     },
     {
       "key": "迪迪",
-      "name": "爱迪┃App",
+      "name": "爱迪┃YsV2",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -262,6 +262,22 @@
         "大陆综艺",
         "日韩综艺"
       ]
+    },
+    {
+      "key": "暴风",
+      "name": "暴风┃采集",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "量子",
+      "name": "量子┃采集",
+      "type": 0,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1
     },
     {
       "key": "SP33",
