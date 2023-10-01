@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/Pandora.jar;md5;64fa98fbba7758f483e6e82dea311f77",
+  "spider": "./jar/Pandora.jar;md5;698c36a5c29368495f8f552b9fe650cf",
   "wallpaper": "",
   "sites": [
     {
@@ -54,7 +54,7 @@
       "api": "csp_Czsapp",
       "searchable": 1,
       "changeable": 1,
-      "ext":"https://www.cz0101.com/"
+      "ext":"https://www.cz01.fun/"
     },
     {
       "key": "Kunyu77",
