@@ -246,6 +246,43 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "http://www.miniku.cc/xgapp.php/v1/"
+    }, 
+    {
+      "key": "玉米",
+      "name": "玉米┃YsV2",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "playerType": 2,
+      "playUrl": "parse:玉米",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "http://ym.dytt996.com:3/api.php/app/",
+      "categories": [
+        "电影",
+        "电视剧",
+        "综艺",
+        "动漫",
+        "国产剧"
+      ]
+    },
+    {
+      "key": "彩虹",
+      "name": "彩虹┃YsV2",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "playerType": 1,
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"
+    },
+    {
+      "key": "视界",
+      "name": "视界┃YsV2",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable":1,
+      "changeable": 1,
+      "ext": "http://yycms.77ev.cn/api.php/app/"
     },
     {
       "key": "率率",
