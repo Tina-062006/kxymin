@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/Pandora.jar;md5;8960305db3cdfcb9842298cc39959c11",
+  "spider": "./jar/Pandora.jar;md5;c780fa00cbcc2f49f4e446f225a155e7",
   "wallpaper": "",
   "sites": [
     {
@@ -54,7 +54,7 @@
       "api": "csp_Czsapp",
       "searchable": 1,
       "changeable": 1,
-      "ext":"https://www.cz0101.com/"
+      "ext":"https://www.cz01.pro/"
     },
     {
       "key": "Kunyu77",
@@ -72,15 +72,6 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx"
-    },
-    {
-      "key": "追忆",
-      "name": "追忆┃App",
-      "type": 3,
-      "api": "csp_Appto",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE"
     },
     {
       "key": "毛驴",
@@ -143,6 +134,15 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "vip.lyyytv.cn"
+    },
+    {
+      "key": "Nmys",
+      "name": "农民┃直连",
+      "type": 3,
+      "api": "csp_Nmys",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "./json/nmys.json"
     },
     {
       "key": "DiDuan",
@@ -212,13 +212,14 @@
       "ext": "http://www.xb6v.com/"
     },
     {
-      "key": "Nmys",
-      "name": "农民┃直连",
+      "key": "drpy_js_贱贱",
+      "name": "荐片┃p2p",
       "type": 3,
-      "api": "csp_Nmys",
       "searchable": 1,
       "changeable": 1,
-      "ext": "./json/nmys.json"
+      "playerType": 1,
+      "api": "./JavaScript/lib/drpy2.min.js",
+      "ext": "./quickjs/荐片.js"
     },
     {
       "key": "迪迪",
@@ -522,8 +523,8 @@
     }
   ],
   "parses": [
-    //{"name":"聚合1","type":3,"url":"Demo"},
-    //{"name":"聚合0","type":3,"url":"Web"},
+    {"name":"聚合1","type":3,"url":"Demo"},
+    {"name":"聚合0","type":3,"url":"Web"},
     {
       "name": "00",
       "type": 1,
