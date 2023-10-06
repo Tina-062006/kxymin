@@ -57,14 +57,6 @@
       "ext":"https://www.cz0101.com/"
     },
     {
-      "key": "Kunyu77",
-      "name": "七七┃App",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
       "key": "Mino",
       "name": "Mino┃App",
       "type": 3,
@@ -89,7 +81,16 @@
       "api": "csp_Appto",
       "searchable": 1,
       "changeable": 1,
-      "ext": "pB8fV1o5fODylO5AtO8tvf0F1lRBzZhIb0ydyOYoUZ69DpfdeG0oDdRtFLkWxpHU9kWB67yp98N%2FQRMqmBFfDAyox2BUH5%2BexjgENSd4e28Pxi%2B5t01guq9FdjMXODf8IiUY1tJcNlEWeTAdGho%2BjA%3D%3D|BTmtwQlNQQ05OQXdYMktjZWNtd1lNakdKYkNQYjVZcll8aHR0cDovLzExOS4xMDEuMTQ4LjM6MjUyNS9hcHB0by92MQ"
+      "ext": "u9EeKUf0q%2BcHjaLXiEz6jDnDeRG2wkm0Kpfm%2BoYiwhK0cRB7pv67WkSSYftOH5B%2F34pZsGU9WMNDBMrAMJDuSguA6FMrMZlnKl2PyXRaU3Y6FAqwrx7nBXrbAECecty5qEjoGGs39zYgew2KdnNWeA%3D%3D|BNndaaFlRcDdFc1BSWHluU2pHbWE1RlhyUkQ3RlNkU1h8aHR0cDovLzE3Mi4yNDcuNDQuMTgyOjk5ODgvYXBwdG8vdjE="
+    },
+    {
+      "key":"布雷",
+      "name":"布雷┃App",
+      "type":3,
+      "api":"csp_Appto",
+      "ext":"|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE",
+      "searchable": 1,
+      "changeable": 1
     },
     {
       "key": "MYYS",
@@ -203,6 +204,14 @@
       "ext": "https://www.ysgc1.cc/"
     },
     {
+      "key": "Kunyu77",
+      "name": "七七┃App",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
       "key": "新6V",
       "name": "SixV┃磁力",
       "type": 3,
@@ -219,6 +228,13 @@
       "changeable": 1,
       "searchable": 0,
       "ext": "./JavaScript/ky.js"
+    },
+    {
+      "key": "drpy_js_moflix影视",
+      "name": "moflix┃drpy",
+      "type": 3,
+      "api": "./JavaScript/lib/drpy2.min.js",
+      "ext": "./JavaScript/MOFLIX.js"
     },
     {
       "key": "drpy_js_贱贱",
@@ -249,6 +265,13 @@
       "ext": "http://121.127.249.200:233/ruifenglb_api.php/v1.vod"
     },
     {
+      "key": "yp",
+      "name": "云盘┃YsV2",
+      "type": 1,
+      "playerType": 1,
+      "api": "http://zy.xzam.cn/api.php/provide/vod/"
+    },
+    {
       "key": "哈喽",
       "name": "迷你┃YsV2",
       "type": 3,
@@ -256,24 +279,6 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "http://www.miniku.cc/xgapp.php/v1/"
-    }, 
-    {
-      "key": "玉米",
-      "name": "玉米┃YsV2",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "playerType": 2,
-      "playUrl": "parse:玉米",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "http://ym.dytt996.com:3/api.php/app/",
-      "categories": [
-        "电影",
-        "电视剧",
-        "综艺",
-        "动漫",
-        "国产剧"
-      ]
     },
     {
       "key": "彩虹",
@@ -745,6 +750,14 @@
       "name": "央视",
       "type": 0,
       "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "live",
+      "type": 0,
+      "url": "./tvlives/live.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
