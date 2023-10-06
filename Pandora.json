@@ -19,18 +19,6 @@
       "changeable": 0
     },
     {
-      "key": "FirstAid",
-      "name": "急救┃教学",
-      "type": 3,
-      "api": "csp_FirstAid",
-      "searchable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 3.8
-      }
-    },
-    {
       "key": "聚播",
       "name": "央视┃open",
       "type": 3,
@@ -88,9 +76,9 @@
       "name":"布雷┃App",
       "type":3,
       "api":"csp_Appto",
-      "ext":"|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE",
       "searchable": 1,
-      "changeable": 1
+      "changeable": 1,
+      "ext":"|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE"
     },
     {
       "key": "MYYS",
@@ -435,6 +423,18 @@
       "searchable": 1,
       "changeable": 0,
       "ext": "./json/bili.json"
+    },
+    {
+      "key": "FirstAid",
+      "name": "急救┃教学",
+      "type": 3,
+      "api": "csp_FirstAid",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 3.8
+      }
     },
     {
       "key": "MV_vod",
