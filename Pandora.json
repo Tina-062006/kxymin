@@ -221,15 +221,6 @@
       "ext": "http://www.xb6v.com/"
     },
     {
-      "key": "热度",
-      "name": "热度┃drpy",
-      "type": 3,
-      "api": "./JavaScript/lib/drpy2.min.js",
-      "changeable": 1,
-      "searchable": 0,
-      "ext": "./JavaScript/ky.js"
-    },
-    {
       "key": "drpy_js_moflix影视",
       "name": "moflix┃drpy",
       "type": 3,
