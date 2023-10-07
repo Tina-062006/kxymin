@@ -3,7 +3,7 @@
   "wallpaper": "",
   "sites": [
     {
-      "key": "豆瓣",
+      "key": "DouDou",
       "name": "豆瓣┃评分",
       "type": 3,
       "api": "csp_DouDou",
@@ -210,7 +210,7 @@
       "ext": "https://www.ysgc1.cc/"
     },
     {
-      "key": "新6V",
+      "key": "SixV",
       "name": "SixV┃磁力",
       "type": 3,
       "api": "csp_SixV",
@@ -219,7 +219,7 @@
       "ext": "http://www.xb6v.com/"
     },
     {
-      "key": "drpy_js_moflix影视",
+      "key": "drpy_js_moflix",
       "name": "moflix┃drpy",
       "type": 3,
       "api": "./JavaScript/lib/drpy2.min.js",
@@ -310,30 +310,6 @@
       "name": "360┃解析",
       "type": 3,
       "api": "csp_SP33",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "Qtv",
-      "name": "腾讯┃解析",
-      "type": 3,
-      "api": "csp_Qtv",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "Itv",
-      "name": "奇艺┃解析",
-      "type": 3,
-      "api": "csp_Itv",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "Mtv",
-      "name": "芒果┃解析",
-      "type": 3,
-      "api": "csp_Mtv",
       "searchable": 1,
       "changeable": 0
     },
