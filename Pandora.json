@@ -42,7 +42,7 @@
       "api": "csp_Czsapp",
       "searchable": 1,
       "changeable": 1,
-      "ext":"https://www.cz0101.com/"
+      "ext": "https://www.cz0101.com/"
     },
     {
       "key": "Mino",
@@ -63,22 +63,32 @@
       "ext": "https://www.maolvys.com/"
     },
     {
-      "key": "橘子",
-      "name": "橘子┃直连",
+      "key": "追忆影视",
+      "name": "追忆",
       "type": 3,
       "api": "csp_Appto",
-      "searchable": 1,
-      "changeable": 1,
+      "ext": "|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE"
+    },
+    {
+      "key": "橘子影视",
+      "name": "橘子",
+      "type": 3,
+      "api": "csp_Appto",
+      "ext": "pB8fV1o5fODylO5AtO8tvf0F1lRBzZhIb0ydyOYoUZ69DpfdeG0oDdRtFLkWxpHU9kWB67yp98N%2FQRMqmBFfDAyox2BUH5%2BexjgENSd4e28Pxi%2B5t01guq9FdjMXODf8IiUY1tJcNlEWeTAdGho%2BjA%3D%3D|BTmtwQlNQQ05OQXdYMktjZWNtd1lNakdKYkNQYjVZcll8aHR0cDovLzE4MC4xODguMjIuMjE5OjI1MjUvYXBwdG8vdjE"
+    },
+    {
+      "key": "喵喵影视",
+      "name": "喵喵",
+      "type": 3,
+      "api": "csp_Appto",
       "ext": "u9EeKUf0q%2BcHjaLXiEz6jDnDeRG2wkm0Kpfm%2BoYiwhK0cRB7pv67WkSSYftOH5B%2F34pZsGU9WMNDBMrAMJDuSguA6FMrMZlnKl2PyXRaU3Y6FAqwrx7nBXrbAECecty5qEjoGGs39zYgew2KdnNWeA%3D%3D|BNndaaFlRcDdFc1BSWHluU2pHbWE1RlhyUkQ3RlNkU1h8aHR0cDovLzE3Mi4yNDcuNDQuMTgyOjk5ODgvYXBwdG8vdjE="
     },
     {
-      "key":"布雷",
-      "name":"布雷┃App",
-      "type":3,
-      "api":"csp_Appto",
-      "searchable": 1,
-      "changeable": 1,
-      "ext":"|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE"
+      "key": "布蕾影视",
+      "name": "布蕾",
+      "type": 3,
+      "api": "csp_Appto",
+      "ext": "VmFIZ%2BKCSW%2FfudthUQAhFThUBIjrjzM9FhQ9ltb5OkOZwS5t5apI%2Fl5aD1jfpTFMapmCeCVT1KbO2DB25TEQsNr7mxtNhIZHKijji10lqetyAK%2F4Ua5pO1zpAILY3VhMRNW0aH5OdWT24ufPDTR0fg%3D%3D|KMjRRRTJyY0JKald3RWFFOFB3RnlBZU1QUm1DaVRCcnR8aHR0cDovLzIyMi4xMzQuMC4xNzE6MTY4Ny9hcHB0by92MQ"
     },
     {
       "key": "MYYS",
@@ -274,7 +284,7 @@
       "name": "视界┃YsV2",
       "type": 3,
       "api": "csp_AppYsV2",
-      "searchable":1,
+      "searchable": 1,
       "changeable": 1,
       "ext": "http://yycms.77ev.cn/api.php/app/"
     },
@@ -528,8 +538,16 @@
     }
   ],
   "parses": [
-    {"name":"聚合1","type":3,"url":"Demo"},
-    {"name":"聚合0","type":3,"url":"Web"},
+    {
+      "name": "聚合1",
+      "type": 3,
+      "url": "Demo"
+    },
+    {
+      "name": "聚合0",
+      "type": 3,
+      "url": "Web"
+    },
     {
       "name": "00",
       "type": 1,
