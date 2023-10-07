@@ -45,6 +45,14 @@
       "ext": "https://www.cz0101.com/"
     },
     {
+      "key": "Kunyu77",
+      "name": "七七┃App",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
       "key": "Mino",
       "name": "Mino┃App",
       "type": 3,
@@ -202,14 +210,6 @@
       "ext": "https://www.ysgc1.cc/"
     },
     {
-      "key": "Kunyu77",
-      "name": "七七┃App",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
       "key": "新6V",
       "name": "SixV┃磁力",
       "type": 3,
@@ -254,13 +254,6 @@
       "ext": "http://121.127.249.200:233/ruifenglb_api.php/v1.vod"
     },
     {
-      "key": "yp",
-      "name": "云盘┃YsV2",
-      "type": 1,
-      "playerType": 1,
-      "api": "http://zy.xzam.cn/api.php/provide/vod/"
-    },
-    {
       "key": "哈喽",
       "name": "迷你┃YsV2",
       "type": 3,
@@ -268,25 +261,6 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "http://www.miniku.cc/xgapp.php/v1/"
-    },
-    {
-      "key": "彩虹",
-      "name": "彩虹┃YsV2",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "playerType": 1,
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"
-    },
-    {
-      "key": "视界",
-      "name": "视界┃YsV2",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "http://yycms.77ev.cn/api.php/app/"
     },
     {
       "key": "率率",
