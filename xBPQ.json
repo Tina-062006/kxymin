@@ -99,7 +99,7 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
-    },    
+    },
     {
       "key": "益达影视",
       "name": "益达┃YsV2",
@@ -144,6 +144,19 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "https://sk100.tv/api.php/app/"
+    },
+    {
+      "key": "csp_XBPQ_miniju",
+      "name": "短剧┃xBPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://mimiju.com/vodshow/{cateId}--{by}------{catePg}---.html",
+        "分类": "短剧$20#电影$22#电视剧$21#动漫$23#综艺$24"
+      }
     },
     {
       "key": "黑狐",
