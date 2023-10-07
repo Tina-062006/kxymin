@@ -50,7 +50,8 @@
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 1,
-      "changeable": 1
+      "changeable": 1,
+      "playerType": 1
     },
     {
       "key": "Mino",
@@ -519,8 +520,8 @@
     },
     {
       "name": "33",
-      "type": 0,
-      "url": "https://json.key521.cn/api/?key=df27d9ca9ec97e22c47f8565a50aa6f5&url="
+      "type": 1,
+      "url": "http://119.91.123.253:1234/Api/cs.php?url="
     },
     {
       "name": "55",
