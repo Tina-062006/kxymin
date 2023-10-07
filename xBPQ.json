@@ -66,10 +66,10 @@
       "changeable": 1
     },
     {
-      "key": "爱看",
-      "name": "爱看┃open",
+      "key": "南瓜",
+      "name": "南瓜┃open",
       "type": 3,
-      "api": "./catvod/ikanbot_open.js",
+      "api": "./catvod/ng_open.js",
       "searchable": 1,
       "changeable": 1
     },
