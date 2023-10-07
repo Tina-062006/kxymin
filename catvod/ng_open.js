@@ -1,4 +1,4 @@
-import { Crypto, jinja2, _ } from './lib/cat.js';
+import { Crypto, jinja2, _ } from 'assets://js/lib/cat.js';
 
 let key = '南瓜影视';
 let HOST = 'http://ys.changmengyun.com';
