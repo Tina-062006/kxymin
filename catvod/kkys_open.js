@@ -1,4 +1,4 @@
-import { Crypto, dayjs, jinja2, _ } from './lib/cat.js';
+import { Crypto, dayjs, jinja2, _ } from 'assets://js/lib/cat.js';
 
 let key = 'kkys';
 let url = 'https://api1.baibaipei.com:8899';
