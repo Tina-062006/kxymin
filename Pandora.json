@@ -19,8 +19,8 @@
       "changeable": 0
     },
     {
-      "key": "聚播",
-      "name": "央视┃open",
+      "key": "cntv",
+      "name": "聚场┃open",
       "type": 3,
       "api": "./catvod/cntv_open.js",
       "searchable": 1,
