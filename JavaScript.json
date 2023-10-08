@@ -39,14 +39,6 @@
       "api": "./catvod/kkys_open.js"
     },
     {
-      "key": "JOJO",
-      "name": "JOJO",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "./catvod/JOJO.js"
-    },
-    {
       "key": "kunyu77",
       "name": "琨娱",
       "type": 3,
