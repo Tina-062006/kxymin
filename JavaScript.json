@@ -39,6 +39,14 @@
       "api": "./catvod/kkys_open.js"
     },
     {
+      "key": "JOJO",
+      "name": "JOJO",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "./catvod/JOJO.js"
+    },
+    {
       "key": "kunyu77",
       "name": "琨娱",
       "type": 3,
@@ -125,15 +133,6 @@
       "changeable": 1,
       "api": "./JavaScript/lib/drpy2.min.js",
       "ext": "./quickjs/TVB云播.js"
-    },
-    {
-      "key": "drpy_js_JOJO",
-      "name": "JOJO",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "./JavaScript/lib/drpy2.min.js",
-      "ext": "./quickjs/JOJO.js"
     },
     {
       "key": "drpy_js_voflix",
