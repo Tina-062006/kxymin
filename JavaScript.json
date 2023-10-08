@@ -48,7 +48,7 @@
     },
     {
       "key": "drpy_js_moflix",
-      "name": "moflix┃drpy",
+      "name": "moflix",
       "type": 3,
       "api": "./JavaScript/lib/drpy2.min.js",
       "ext": "./quickjs/MOFLIX.js"
