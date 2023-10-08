@@ -1,3 +1,4 @@
+import { Crypto, jinja2, _ } from 'assets://js/lib/cat.js';
 
 let root = 'https://jiohub.top';
 let header = {
