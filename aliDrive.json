@@ -77,11 +77,35 @@
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt$$$"
     },
     {
-      "key": "Hdhive",
+      "key": "csp_Hdhive",
       "name": "影巢",
       "type": 3,
       "api": "csp_Hdhive",
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt$$$"
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt",
+      "timeout": 30
+    },
+    {
+      "key": "迪迪",
+      "name": "安迪",
+      "api": "csp_AppYsV2",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://api123.adys.app/xgapp.php/v3/"
+    },
+    {
+      "key": "哈喽",
+      "name": "迷你",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://www.miniku.cc/xgapp.php/v1/"
     },
     {
       "key": "泥巴",
@@ -125,57 +149,6 @@
       "api": "csp_Dm84",
       "searchable": 1,
       "changeable": 1
-    },
-    {
-      "key": "迪迪",
-      "name": "迪迪",
-      "api": "csp_AppYsV2",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://api123.adys.app/xgapp.php/v3/"
-    },
-    {
-      "key": "率率",
-      "name": "率率",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://caiji.ghlyys.com/yumi/api.php/app/"
-    },
-    {
-      "key": "哈喽",
-      "name": "哈喽",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://www.miniku.cc/xgapp.php/v1/"
-    },
-    {
-      "key": "陌陌",
-      "name": "陌陌",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.kuin.one/api.php/app/"
-    },
-    {
-      "key": "奇奇",
-      "name": "奇奇",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://mp4.ghlyys.com/api.php/app/"
     },
     {
       "key": "Gitcafe",
