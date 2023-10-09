@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/aliDrive.jar;md5;20afb575711a5fa9d50aa250613340e1",
+  "spider": "./jar/aliDrive.jar;md5;b162b9df634c6033cdf205ad15723104",
   "lives": [
     {
       "name": "综合",
@@ -20,7 +20,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
-    }, 
+    },
     {
       "key": "csp_Mayiys",
       "name": "蚂蚁",
@@ -31,38 +31,48 @@
       "changeable": 0,
       "ext": "",
       "timeout": 30
-    }, 
-    {
-      "key": "Maolv", 
-      "name": "毛驴", 
-      "type": 3, 
-      "api": "csp_Maolv", 
-      "searchable": 1, 
-      "quickSearch": 1, 
-      "filterable": 1, 
-      "changeable": 1 
     },
     {
-      "key": "DDMJ", 
-      "name": "米酷", 
-      "type": 3, 
-      "api": "csp_DDMJ", 
-      "searchable": 1, 
-      "quickSearch": 1, 
-      "filterable": 1, 
-      "changeable": 1, 
-      "ext":"http://103.222.188.33:6688"
-    },
-    {
-      "key": "csp_WoGG",
-      "name": "哥哥",
+      "key": "Maolv",
+      "name": "毛驴",
       "type": 3,
-      "api": "csp_Wogg",
+      "api": "csp_Maolv",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.json$$$https://www.wogg.xyz/",
-      "timeout": 30
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "DDMJ",
+      "name": "米酷",
+      "type": 3,
+      "api": "csp_DDMJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "http://103.222.188.33:6688"
+    },
+    {
+      "key": "Wogg",
+      "name": "阿里|玩偶",
+      "type": 3,
+      "api": "csp_Wogg",
+      "ext": "./alitoken.txt$$$https://wogg.xyz/"
+    },
+    {
+      "key": "Wobg",
+      "name": "阿里|表哥",
+      "type": 3,
+      "api": "csp_Wobg",
+      "ext": "./alitoken.txtt$$$"
+    },
+    {
+      "key": "Hdhive",
+      "name": "阿里|影巢",
+      "type": 3,
+      "api": "csp_Hdhive",
+      "ext": "./alitoken.txt$$$socks5://192.168.101.1:1080"
     },
     {
       "key": "csp_DiDuan",
