@@ -22,6 +22,15 @@
       "changeable": 0
     },
     {
+      "key": "csp_Kuaikan",
+      "name": "快看",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "csp_Mayiys",
       "name": "蚂蚁",
       "type": 3,
@@ -51,56 +60,28 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "http://103.222.188.33:6688"
+      "ext": "http://43.248.129.116:6688"
     },
     {
       "key": "Wogg",
-      "name": "阿里|玩偶",
+      "name": "玩偶",
       "type": 3,
       "api": "csp_Wogg",
-      "ext": "./alitoken.txt$$$https://wogg.xyz/"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt$$$https://wogg.xyz/"
     },
     {
       "key": "Wobg",
-      "name": "阿里|表哥",
+      "name": "表哥",
       "type": 3,
       "api": "csp_Wobg",
-      "ext": "./alitoken.txtt$$$"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt$$$"
     },
     {
       "key": "Hdhive",
-      "name": "阿里|影巢",
+      "name": "影巢",
       "type": 3,
       "api": "csp_Hdhive",
-      "ext": "./alitoken.txt$$$socks5://192.168.101.1:1080"
-    },
-    {
-      "key": "csp_DiDuan",
-      "name": "低端",
-      "type": 3,
-      "api": "csp_Ddys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "csp_陌陌",
-      "name": "陌陌",
-      "type": 3,
-      "api": "csp_MmYs",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "$$$socks5://192.168.1.9:4592"
-    },
-    {
-      "key": "csp_Kuaikan",
-      "name": "快看",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt$$$"
     },
     {
       "key": "泥巴",
@@ -109,7 +90,7 @@
       "api": "csp_NiNi",
       "searchable": 1,
       "changeable": 1,
-      "ext": "0;socks5://192.168.1.9:4592"
+      "ext": "0;"
     },
     {
       "key": "星星",
@@ -118,7 +99,7 @@
       "api": "csp_Star",
       "searchable": 1,
       "changeable": 1,
-      "ext": "socks5://192.168.1.9:4592"
+      "ext": ""
     },
     {
       "key": "影视",
@@ -127,7 +108,7 @@
       "api": "csp_YingShi",
       "searchable": 1,
       "changeable": 1,
-      "ext": "socks5://192.168.1.9:4592"
+      "ext": ""
     },
     {
       "key": "櫻花",
@@ -219,17 +200,6 @@
       "timeout": 30
     },
     {
-      "key": "csp_Hdhive",
-      "name": "Hdhive",
-      "type": 3,
-      "api": "csp_Hdhive",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.json",
-      "timeout": 30
-    },
-    {
       "key": "七夜",
       "name": "七夜",
       "type": 3,
@@ -296,7 +266,7 @@
     },
     {
       "key": "csp_BLSGod",
-      "name": "80S影视",
+      "name": "80S",
       "type": 3,
       "api": "csp_BLSGod",
       "playerType": 1,
@@ -316,7 +286,7 @@
     },
     {
       "key": "MeijuTT",
-      "name": "美剧天天",
+      "name": "天天",
       "type": 3,
       "api": "csp_MeijuTT",
       "playerType": "1",
