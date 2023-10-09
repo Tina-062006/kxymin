@@ -259,16 +259,6 @@
       "ext": "http://www.miniku.cc/xgapp.php/v1/"
     },
     {
-      "key": "热剧",
-      "name": "热剧┃YsV2",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "http://v.aaaa0.top:2525/api.php/app/",
-      "playUrl": "http://jx.daenys.vip:2587/tnmb.php?url="
-    },
-    {
       "key": "率率",
       "name": "索尼┃采集",
       "type": 1,
