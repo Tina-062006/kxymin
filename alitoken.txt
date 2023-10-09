@@ -1,1 +1,11 @@
-https://sharetoken--kvymin.repl.co/token?iv=1&key=1
+ {
+"token":"32 bytes token",
+"open_token":"280 bytes token",
+"thread_limit":32,
+"vod_flags":"4k|4kz|auto",
+"quark_flags":"4k|4kz|auto",
+"aliproxy":"http://192.168.101.1:10078",
+"proxy":"",
+"open_api_url":"https://api.xhofe.top/alist/ali_open/",
+"quark_cookie":"quark cookie"
+}
