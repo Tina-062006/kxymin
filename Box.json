@@ -2,7 +2,7 @@
   "spider":"./jar/Box.jar;md5;3bde0cf98262b473fddcb2610065b7e2",
   "wallpaper":"",
   "sites":[
-  	{"key":"豆瓣","name":"豆瓣","type": 3,"api":"./JavaScript/libs/drpy2.min.js","changeable": 1,"searchable": 0,"ext":"./JavaScript/drpy.js"},
+  	{"key":"豆瓣","name":"豆瓣","type": 3,"api":"./JavaScript/lib/drpy2.min.js","changeable": 1,"searchable": 0,"ext":"./JavaScript/drpy.js"},
   	{"key":"csp_CZSPP","name":"厂长","type":3,"api":"csp_Czsapp","searchable":1,"playerType":2,"quickSearch":1,"filterable":0},
   	{"key":"mino4K","name":"mino","type":3,"api":"csp_Appto","ext":"|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx"},
   	{"key":"追忆影视","name":"追忆","type":3,"api":"csp_Appto","ext":"|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE"},
