@@ -350,15 +350,6 @@
       "changeable": 1
     },
     {
-      "key": "喜马拉雅",
-      "name": "喜马┃拉雅",
-      "type": 3,
-      "api": "./JavaScript/lib/drpy2.min.js",
-      "changeable": 1,
-      "searchable": 1,
-      "ext": "./JavaScript/喜马拉雅.js"
-    },
-    {
       "key": "AList",
       "name": "AList┃网盘",
       "type": "3",
