@@ -356,7 +356,7 @@
       "api": "./JavaScript/lib/drpy2.min.js",
       "changeable": 1,
       "searchable": 1,
-      "ext": "./JavaScript/v2/喜马拉雅.js"
+      "ext": "./JavaScript/喜马拉雅.js"
     },
     {
       "key": "AList",
