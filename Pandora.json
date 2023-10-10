@@ -626,6 +626,15 @@
       ]
     },
     {
+      "name": "農民",
+      "hosts": [
+        "toutiaovod.com"
+      ],
+      "regex": [
+        "video/tos/cn"
+      ]
+    },
+    {
       "name": "海外看",
       "hosts": [
         "haiwaikan"
