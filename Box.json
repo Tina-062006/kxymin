@@ -1,6 +1,6 @@
 {
     "spider": "./jar/Box.jar;md5;d8bfad3d966d7b40ef50e04934b38b60",
-    "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+    "wallpaper": "",
     "lives": [
         {
             "group": "redirect",
