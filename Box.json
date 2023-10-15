@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/Box.jar;md5;212ae2160fca381354834fd22150b8a3",
+    "spider": "./jar/Box.jar;md5;d8bfad3d966d7b40ef50e04934b38b60",
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
     "lives": [
         {
@@ -73,14 +73,20 @@
         },
         {
             "key": "JianPian",
-            "name": "荐片[边下边播]",
-            "type": 3,
+            "name": "荐片│磁力",
+            "type": 3,,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
             "api": "csp_JianPian"
         },
         {
             "key": "Dygang",
-            "name": "电影港[边下边播]",
-            "type": 3,
+            "name": "电影港│磁力",
+            "type": 3,,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
             "api": "csp_Dygang"
         },
         {
