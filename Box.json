@@ -74,7 +74,7 @@
         {
             "key": "JianPian",
             "name": "荐片│磁力",
-            "type": 3,,
+            "type": 3,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
@@ -83,7 +83,7 @@
         {
             "key": "Dygang",
             "name": "电影港│磁力",
-            "type": 3,,
+            "type": 3,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
