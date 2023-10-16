@@ -27,6 +27,31 @@
       "changeable": 1
     },
     {
+      "key": "小猫",
+      "name": "小猫┃采集",
+      "type": 1,
+      "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/at/json/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "国产剧",
+        "欧美剧",
+        "韩剧",
+        "悬疑片",
+        "喜剧片",
+        "动作片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "犯罪片",
+        "记录片"
+      ],
+      "playUrl": "json:http://42.51.37.161:5678/json/520239app9/gf2.php?url="
+    },
+    {
       "key": "csp_WoGG",
       "name": "玩偶┃阿里",
       "type": 3,
@@ -44,7 +69,7 @@
       "changeable": 1,
       "ext": "https://www.cz0101.com/"
     },
-        {
+    {
       "key": "Mino",
       "name": "Mino┃App",
       "type": 3,
@@ -259,49 +284,6 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "http://www.miniku.cc/xgapp.php/v1/"
-    },
-    {
-      "key": "率率",
-      "name": "索尼┃采集",
-      "type": 1,
-      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "国产剧",
-        "韩剧",
-        "日剧",
-        "港剧",
-        "台剧",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "战争片",
-        "恐怖片",
-        "剧情片",
-        "国产动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "大陆综艺",
-        "日韩综艺"
-      ]
-    },
-    {
-      "key": "暴风",
-      "name": "暴风┃采集",
-      "type": 1,
-      "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "量子",
-      "name": "量子┃采集",
-      "type": 0,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "changeable": 1
     },
     {
       "key": "SP33",
