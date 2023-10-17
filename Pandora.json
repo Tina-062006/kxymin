@@ -128,17 +128,6 @@
       "ext": "http://rzys.xyz"
     },
     {
-      "key": "迪迪",
-      "name": "安迪┃YsV2",
-      "api": "csp_AppYsV2",
-      "type": 3,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://api123.adys.app/xgapp.php/v3/"
-    },
-    {
       "key": "Xinsj",
       "name": "视觉┃直连",
       "type": 3,
@@ -257,22 +246,15 @@
       "ext": "https://www.ysgc1.cc/"
     },
     {
-      "key": "腐剧",
-      "name": "腐剧┃YsV2",
-      "type": 3,
+      "key": "迪迪",
+      "name": "安迪┃YsV2",
       "api": "csp_AppYsV2",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "http://121.127.249.200:233/ruifenglb_api.php/v1.vod"
-    },
-    {
-      "key": "哈喽",
-      "name": "迷你┃YsV2",
       "type": 3,
-      "api": "csp_AppYsV2",
+      "playerType": 2,
       "searchable": 1,
+      "quickSearch": 1,
       "changeable": 1,
-      "ext": "http://www.miniku.cc/xgapp.php/v1/"
+      "ext": "https://api123.adys.app/xgapp.php/v3/"
     },
     {
       "key": "csp_SP33",
@@ -509,11 +491,6 @@
           "xigua"
         ]
       }
-    },
-    {
-      "name": "02",
-      "type": 1,
-      "url": "https://api.json.icu/api/?key=4f8fb5042b695d5c515f6343af716af8&url="
     },
     {
       "name": "03",
