@@ -23,28 +23,22 @@
       }
     },
     {
-      "key": "厂长",
-      "name": "厂长",
+      "key": "drpy_js_酷云77",
+      "name": "七七",
       "type": 3,
       "searchable": 1,
       "changeable": 1,
-      "api": "./catvod/czzy_open.js"
+      "api": "./JavaScript/lib/drpy2.min.js",
+      "ext": "./quickjs/酷云77.js"
     },
     {
-      "key": "快看",
-      "name": "快看",
+      "key": "drpy_js_厂长资源",
+      "name": "厂长资源",
       "type": 3,
       "searchable": 1,
       "changeable": 1,
-      "api": "./catvod/kkys_open.js"
-    },
-    {
-      "key": "kunyu77",
-      "name": "琨娱",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "./catvod/kunyu77_open.js"
+      "api": "./JavaScript/lib/drpy2.min.js",
+      "ext": "./quickjs/厂长资源.js"
     },
     {
       "key": "drpy_js_moflix",
