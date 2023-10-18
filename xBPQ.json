@@ -42,14 +42,6 @@
       "changeable": 1
     },
     {
-      "key": "博看",
-      "name": "博看┃open",
-      "type": 3,
-      "api": "./catvod/bookan_open.js",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
       "key": "南瓜",
       "name": "南瓜┃open",
       "type": 3,
@@ -85,80 +77,43 @@
       "ext": "https://sk100.tv/api.php/app/"
     },
     {
-      "key": "黑狐",
-      "name": "黑狐┃xBPQ",
+      "key": "云播",
+      "name": "云播┃xBPQ",
       "type": 3,
-      "api": "csp_XBPQ",
+      "playerType": "1",
       "searchable": 1,
       "changeable": 1,
-      "ext": "./XBPQ/黑狐.json"
+      "api": "csp_XBPQ",
+      "ext": "./XBPQ/TVB云播.json"
     },
     {
-      "key": "飞云",
-      "name": "飞云┃xBPQ",
+      "key": "夜光",
+      "name": "夜光┃xBPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "changeable": 1,
-      "ext": "./XBPQ/飞云.json"
+      "ext": "./XBPQ/夜光影视.json"
     },
     {
       "key": "星辰",
       "name": "星辰┃xBPQ",
       "type": 3,
       "api": "csp_XBPQ",
+      "playerType": "1",
       "searchable": 1,
       "changeable": 1,
       "ext": "./XBPQ/星辰影视.json"
     },
     {
-      "key": "云播",
-      "name": "云播┃xBPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "./XBPQ/TVB云播.json"
-    },
-    {
-      "key": "乐猪",
-      "name": "乐猪┃xBPQ",
+      "key": "热播",
+      "name": "热播┃xBPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": "1",
       "searchable": 1,
       "changeable": 1,
-      "ext": "./XBPQ/乐猪TV.json"
-    },
-    {
-      "key": "花猫",
-      "name": "花猫┃xBPQ",
-      "type": 3,
-      "playerType": "1",
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_XBPQ",
-      "ext": "./XBPQ/花猫TV.json"
-    },
-    {
-      "key": "速映影视",
-      "name": "速映┃xBPQ",
-      "type": 3,
-      "playerType": "1",
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_XBPQ",
-      "ext": "./XBPQ/速映影视.json"
-    },
-    {
-      "key": "夜光影视",
-      "name": "夜光┃xBPQ",
-      "type": 3,
-      "playerType": "1",
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_XBPQ",
-      "ext": "./XBPQ/夜光影视.json"
+      "ext": "./XBPQ/热播之家.json"
     },
     {
       "key": "cj ",
