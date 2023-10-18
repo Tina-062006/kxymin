@@ -75,7 +75,11 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "https://sk100.tv/api.php/app/"
-    },
+    },    
+    {"key":"蜗牛影院","name":"蜗牛影院","type":3,"api":"csp_XBPQ","searchable":1,"ext":"https://agit.ai/kvymin/xBPQ/raw/branch/master/json/蜗牛影院.json"},
+    {"key":"花猫TV","name":"花猫TV","type":3,"api":"csp_XBPQ","searchable":1,"ext":"https://agit.ai/kvymin/xBPQ/raw/branch/master/json/花猫TV.json"},    
+    {"key":"乐猪影视","name":"乐猪影视","type":3,"api":"csp_XBPQ","searchable":1,"ext":"https://agit.ai/kvymin/xBPQ/raw/branch/master/json/乐猪影视.json"},
+    {"key":"黑狐影院","name":"黑狐影院","type":3,"api":"csp_XBPQ","searchable":1,"ext":"https://agit.ai/kvymin/xBPQ/raw/branch/master/json/黑狐影院.json"},
     {
       "key": "云播",
       "name": "云播┃xBPQ",
