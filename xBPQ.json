@@ -77,16 +77,16 @@
       "ext": "https://sk100.tv/api.php/app/"
     },
     {
-      "key": "农民影视",
-      "name": "农民影视",
+      "key": "圣城影视",
+      "name": "圣城┃xBPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
-      "ext": "https://agit.ai/kvymin/xBPQ/raw/branch/master/json/农民影视.json"
+      "ext": "https://agit.ai/kvymin/xBPQ/raw/branch/master/json/圣城影视.json"
     },
     {
       "key": "骚火电影",
-      "name": "骚火电影",
+      "name": "骚火┃xBPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
