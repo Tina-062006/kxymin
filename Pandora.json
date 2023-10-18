@@ -322,6 +322,26 @@
       "changeable": 1
     },
     {
+      "key": "cntv",
+      "name": "央视┃频道",
+      "type": 3,
+      "api": "./catvod/cntv_open.js"
+    },
+    {
+      "key": "py_cctv_集合",
+      "name": "央视┃集合",
+      "type": 3,
+      "style": {
+        "type": "rect",
+        "ratio": 1.485
+      },
+      "api": "py_cctv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./pyramid/py_cctv.py"
+    },
+    {
       "key": "Aid",
       "name": "急救┃教学",
       "type": 3,
