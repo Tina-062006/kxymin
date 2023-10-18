@@ -31,6 +31,20 @@
       "changeable": 0
     },
     {
+      "key": "py_cctv_集合",
+      "name": "央视┃集合",
+      "type": 3,
+      "style": {
+        "type": "rect",
+        "ratio": 1.485
+      },
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "./pyramid/py_cctv.py"
+    },
+    {
       "key": "Czsapp",
       "name": "厂长┃直连",
       "type": 3,
@@ -320,20 +334,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },
-    {
-      "key": "py_cctv_集合",
-      "name": "央视┃集合",
-      "type": 3,
-      "style": {
-        "type": "rect",
-        "ratio": 1.485
-      },
-      "api": "py_cctv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./pyramid/py_cctv.py"
     },
     {
       "key": "Aid",
