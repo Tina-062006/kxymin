@@ -85,6 +85,36 @@
       "ext": "https://agit.ai/kvymin/xBPQ/raw/branch/master/json/圣城影视.json"
     },
     {
+      "key": "农民",
+      "name": "农民┃xBPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/农民影视.json"
+    },
+    {
+      "key": "乐猪",
+      "name": "乐猪┃xBPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/乐猪影视.json"
+    },
+    {
+      "key": "奇优",
+      "name": "️奇优┃xBPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/奇优影院.json"
+    },
+    {
       "key": "骚火电影",
       "name": "骚火┃xBPQ",
       "type": 3,
