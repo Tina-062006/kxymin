@@ -349,32 +349,6 @@
       }
     },
     {
-      "key": "py_xigua",
-      "name": "西瓜┃影视",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "api": "py_xigua",
-      "ext": "./pyramid/py_xigua.py"
-    },
-    {
-      "key": "py_douyin",
-      "name": "抖音┃直播",
-      "type": 3,
-      "style": {
-        "type": "rect",
-        "ratio": 1.485
-      },
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "api": "py_douyin",
-      "ext": "./pyramid/py_douyin.py"
-    },
-    {
       "key": "Bili",
       "name": "🅱哔哔┃合集",
       "type": 3,
