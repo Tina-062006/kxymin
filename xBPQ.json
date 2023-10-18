@@ -77,6 +77,22 @@
       "ext": "https://sk100.tv/api.php/app/"
     },
     {
+      "key": "农民影视",
+      "name": "农民影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "ext": "https://agit.ai/kvymin/xBPQ/raw/branch/master/json/农民影视.json"
+    },
+    {
+      "key": "骚火电影",
+      "name": "骚火电影",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "ext": "https://agit.ai/kvymin/xBPQ/raw/branch/master/json/骚火电影.json"
+    },
+    {
       "key": "蜗牛影院",
       "name": "蜗牛┃xBPQ",
       "type": 3,
