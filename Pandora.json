@@ -322,12 +322,6 @@
       "changeable": 1
     },
     {
-      "key": "cntv",
-      "name": "央视┃频道",
-      "type": 3,
-      "api": "./catvod/cntv_open.js"
-    },
-    {
       "key": "py_cctv_集合",
       "name": "央视┃集合",
       "type": 3,
