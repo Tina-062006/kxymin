@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/Pandora.jar;md5;b16805667428f2e36ac34a8d31af2ffe",
+  "spider": "./jar/Pandora.jar;md5;f6eac2c1831ccd0215892f30c306958f",
   "wallpaper": "",
   "sites": [
     {
@@ -575,7 +575,56 @@
   ],
   "rules": [
     {
-      "name": "lz",
+      "name": "proxy",
+      "hosts": [
+        "raw.githubusercontent.com",
+        "googlevideo.com",
+        "cdn.v82u1l.com",
+        "cdn.iz8qkg.com",
+        "cdn.kin6c1.com",
+        "c.biggggg.com",
+        "c.olddddd.com",
+        "haiwaikan.com",
+        "www.histar.tv",
+        "youtube.com",
+        "uhibo.com",
+        ".*boku.*",
+        ".*nivod.*",
+        ".*ulivetv.*"
+      ]
+    },
+    {
+      "name": "海外看",
+      "hosts": [
+        "haiwaikan"
+      ],
+      "regex": [
+        "8.1748",
+        "10.0099",
+        "10.3333",
+        "16.0599"
+      ]
+    },
+    {
+      "name": "暴風",
+      "hosts": [
+        "bfzy"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "星星",
+      "hosts": [
+        "aws.ulivetv.net"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "量子",
       "hosts": [
         "vip.lz",
         "hd.lz",
@@ -587,16 +636,7 @@
       ]
     },
     {
-      "name": "农民",
-      "hosts": [
-        "toutiaovod.com"
-      ],
-      "regex": [
-        "video/tos/cn"
-      ]
-    },
-    {
-      "name": "ff",
+      "name": "非凡",
       "hosts": [
         "vip.ffzy",
         "hd.ffzy"
@@ -607,17 +647,7 @@
       ]
     },
     {
-      "name": "bf",
-      "hosts": [
-        "bfzy",
-        "s5.bfzycdn"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-      ]
-    },
-    {
-      "name": "hs",
+      "name": "火山嗅探",
       "hosts": [
         "huoshan.com"
       ],
@@ -626,7 +656,7 @@
       ]
     },
     {
-      "name": "dy",
+      "name": "抖音嗅探",
       "hosts": [
         "douyin.com"
       ],
@@ -635,14 +665,12 @@
       ]
     },
     {
-      "name": "cl",
+      "name": "農民嗅探",
       "hosts": [
-        "magnet"
+        "toutiaovod.com"
       ],
       "regex": [
-        "最 新",
-        "直 播",
-        "更 新"
+        "video/tos/cn"
       ]
     }
   ],
