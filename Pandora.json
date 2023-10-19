@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/Pandora.jar;md5;f6eac2c1831ccd0215892f30c306958f",
+  "spider": "./jar/Pandora.jar;md5;5bb14e6d9ccfac7135fe1573382355cc",
   "wallpaper": "",
   "sites": [
     {
@@ -53,7 +53,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://cz01.pw/"
+      "ext": "https://www.czz9.com/"
     },
     {
       "key": "Mino",
