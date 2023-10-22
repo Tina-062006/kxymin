@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "豆豆",
-      "name": "🌕豆瓣┃评分",
+      "name": "豆瓣┃评分",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -13,7 +13,7 @@
     },
     {
       "key": "csp_WoGG",
-      "name": "👽玩偶┃4K",
+      "name": "玩偶┃4K",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -23,7 +23,7 @@
     },
     {
       "key": "YGP",
-      "name": "🚀荐影┃速递",
+      "name": "荐影┃速递",
       "type": 3,
       "api": "csp_YGP",
       "searchable": 0,
@@ -46,7 +46,7 @@
     },
     {
       "key": "Czsapp",
-      "name": "📔厂长┃直连",
+      "name": "厂长┃直连",
       "type": 3,
       "api": "csp_Czsapp",
       "playerType": 2,
@@ -57,7 +57,7 @@
     },
     {
       "key": "Mino",
-      "name": "👻Mino┃App",
+      "name": "Mino┃App",
       "type": 3,
       "api": "csp_AppMao",
       "searchable": 1,
@@ -67,7 +67,7 @@
     },
     {
       "key": "橘子",
-      "name": "🍊橘子┃App",
+      "name": "橘子┃App",
       "type": 3,
       "api": "csp_AppMao",
       "searchable": 1,
@@ -77,7 +77,7 @@
     },
     {
       "key": "布雷",
-      "name": "💥布雷┃App",
+      "name": "布雷┃App",
       "type": 3,
       "api": "csp_AppMao",
       "playerType": 2,
@@ -85,7 +85,7 @@
     },
     {
       "key": "皮皮虾",
-      "name": "🦑皮皮虾┃App",
+      "name": "皮皮虾┃App",
       "type": 3,
       "api": "csp_AppSK",
       "searchable": 1,
@@ -95,7 +95,7 @@
     },
     {
       "key": "热剧猫",
-      "name": "🦄️热剧猫┃App",
+      "name": "热剧猫┃App",
       "type": 3,
       "api": "csp_AppMao",
       "searchable": 1,
@@ -105,7 +105,7 @@
     },
     {
       "key": "一念",
-      "name": "👀一念┃App",
+      "name": "一念┃App",
       "type": 3,
       "api": "csp_AppMao",
       "searchable": 1,
@@ -115,7 +115,7 @@
     },
     {
       "key": "JOJO",
-      "name": "🕊︎JOJO┃直连",
+      "name": "︎JOJO┃直连",
       "type": 3,
       "api": "csp_JOJO",
       "searchable": 1,
@@ -124,7 +124,7 @@
     },
     {
       "key": "一起看 ",
-      "name": "🎉一起┃App",
+      "name": "一起┃App",
       "type": 3,
       "api": "csp_YQKan",
       "searchable": 1,
@@ -133,7 +133,7 @@
     },
     {
       "key": "zxzj",
-      "name": "📗在线┃直连",
+      "name": "在线┃直连",
       "type": 3,
       "api": "csp_Zxzj",
       "searchable": 1,
@@ -143,7 +143,7 @@
     },
     {
       "key": "毛驴",
-      "name": "🍓毛驴┃直连",
+      "name": "毛驴┃直连",
       "type": 3,
       "api": "csp_MLYS",
       "searchable": 1,
@@ -153,7 +153,7 @@
     },
     {
       "key": "蚂蚁",
-      "name": "🐜蚂蚁┃直连",
+      "name": "蚂蚁┃直连",
       "type": 3,
       "api": "csp_MYYS",
       "searchable": 1,
@@ -163,7 +163,7 @@
     },
     {
       "key": "迪迪",
-      "name": "🌈迪迪┃App",
+      "name": "迪迪┃App",
       "api": "csp_AppYsV2",
       "type": 3,
       "playerType": 2,
@@ -174,7 +174,7 @@
     },
     {
       "key": "Xinsj",
-      "name": "👓视觉┃直连",
+      "name": "视觉┃直连",
       "type": 3,
       "api": "csp_Xinsj",
       "searchable": 1,
@@ -184,7 +184,7 @@
     },
     {
       "key": "Auete",
-      "name": "🏝奥特┃直连",
+      "name": "奥特┃直连",
       "type": 3,
       "api": "csp_Auete",
       "searchable": 1,
@@ -194,7 +194,7 @@
     },
     {
       "key": "csp_Bttoo",
-      "name": "🍄比特┃直连",
+      "name": "比特┃直连",
       "type": 3,
       "api": "csp_Bttwoo",
       "searchable": 1,
@@ -203,7 +203,7 @@
     },
     {
       "key": "drpy_js_贱贱",
-      "name": "🐭荐片┃p2p",
+      "name": "荐片┃p2p",
       "type": 3,
       "searchable": 1,
       "changeable": 1,
@@ -213,7 +213,7 @@
     },
     {
       "key": "探探",
-      "name": "🏵影探┃App",
+      "name": "影探┃App",
       "type": 3,
       "playerType": "1",
       "api": "csp_YTVIP",
@@ -225,7 +225,7 @@
     },
     {
       "key": "Lib",
-      "name": "🌟利播┃直连",
+      "name": "利播┃直连",
       "type": 3,
       "api": "csp_Libvio",
       "searchable": 1,
@@ -235,7 +235,7 @@
     },
     {
       "key": "DiDuan",
-      "name": "⏮️低端┃直连",
+      "name": "低端┃直连",
       "type": 3,
       "api": "csp_Ddrk",
       "searchable": 1,
@@ -244,7 +244,7 @@
     },
     {
       "key": "77",
-      "name": "👒七七┃App",
+      "name": "七七┃App",
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 1,
@@ -253,7 +253,7 @@
     },
     {
       "key": "csp_Nmys",
-      "name": "🌾农民┃直连",
+      "name": "农民┃直连",
       "type": 3,
       "api": "csp_Nmys",
       "searchable": 1,
@@ -263,7 +263,7 @@
     },
     {
       "key": "Cokemv",
-      "name": "📕可乐┃直连",
+      "name": "可乐┃直连",
       "type": 3,
       "api": "csp_Cokemv",
       "playerType": 2,
@@ -273,7 +273,7 @@
     },
     {
       "key": "csp_SP33",
-      "name": "📺三三┃解析",
+      "name": "三三┃解析",
       "type": 3,
       "api": "csp_SP33",
       "searchable": 1,
@@ -283,7 +283,7 @@
     },
     {
       "key": "新6V",
-      "name": "🧲SixV┃磁力",
+      "name": "SixV┃磁力",
       "type": 3,
       "api": "csp_SixV",
       "searchable": 1,
@@ -293,7 +293,7 @@
     },
     {
       "key": "csp_Dm84",
-      "name": "🚌动漫┃巴士",
+      "name": "动漫┃巴士",
       "type": 3,
       "api": "csp_Dm84",
       "searchable": 1,
@@ -302,7 +302,7 @@
     },
     {
       "key": "csp_Ying",
-      "name": "💮樱花┃动漫",
+      "name": "樱花┃动漫",
       "type": 3,
       "api": "csp_Ying",
       "searchable": 1,
@@ -311,7 +311,7 @@
     },
     {
       "key": "csp_Ysj",
-      "name": "🎀异界┃动漫",
+      "name": "异界┃动漫",
       "type": 3,
       "api": "csp_Ysj",
       "searchable": 1,
@@ -320,7 +320,7 @@
     },
     {
       "key": "csp_Anime1",
-      "name": "🐾日本┃动漫",
+      "name": "日本┃动漫",
       "type": 3,
       "api": "csp_Anime1",
       "searchable": 1,
@@ -329,7 +329,7 @@
     },
     {
       "key": "csp_Yj1211",
-      "name": "📽️网红┃直播",
+      "name": "网红┃直播",
       "type": 3,
       "api": "csp_Yj1211",
       "searchable": 1,
@@ -338,7 +338,7 @@
     },
     {
       "key": "Aid",
-      "name": "🚑急救┃教学",
+      "name": "急救┃教学",
       "type": 3,
       "api": "csp_FirstAid",
       "searchable": 0,
@@ -351,7 +351,7 @@
     },
     {
       "key": "YiSo",
-      "name": "😹易搜┃搜索",
+      "name": "易搜┃搜索",
       "type": 3,
       "api": "csp_YiSo",
       "searchable": 1,
@@ -361,7 +361,7 @@
     },
     {
       "key": "Zhaozy",
-      "name": "🐺找资源┃搜索",
+      "name": "找资源┃搜索",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
@@ -371,7 +371,7 @@
     },
     {
       "key": "PanSou",
-      "name": "🦊盘搜┃搜索",
+      "name": "盘搜┃搜索",
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
@@ -381,7 +381,7 @@
     },
     {
       "key": "UpYun",
-      "name": "😻Up搜┃搜索",
+      "name": "Up搜┃搜索",
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
@@ -391,7 +391,7 @@
     },
     {
       "key": "PanSearch",
-      "name": "🙀盘Se┃搜索",
+      "name": "盘Se┃搜索",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
@@ -401,7 +401,7 @@
     },
     {
       "key": "七夜",
-      "name": "😾七夜┃搜索",
+      "name": "七夜┃搜索",
       "type": 3,
       "api": "csp_Dovx",
       "searchable": 1,
@@ -411,7 +411,7 @@
     },
     {
       "key": "push_agent",
-      "name": "🛴手机┃推送",
+      "name": "手机┃推送",
       "type": 3,
       "api": "csp_Push",
       "searchable": 0,
@@ -420,7 +420,7 @@
     },
     {
       "key": "csp_Nbys",
-      "name": "🛫泥巴┃飞",
+      "name": "泥巴┃飞",
       "type": 3,
       "api": "csp_NiNi",
       "searchable": 1,
@@ -429,7 +429,7 @@
     },
     {
       "key": "csp_trj",
-      "name": "🛫唐人街┃飞",
+      "name": "唐人街┃飞",
       "type": 3,
       "api": "csp_Tangrenjie",
       "searchable": 1,
@@ -438,7 +438,7 @@
     },
     {
       "key": "Bili",
-      "name": "🅱哔哔┃合集",
+      "name": "哔哔┃合集",
       "type": 3,
       "api": "csp_Bili",
       "style": {
