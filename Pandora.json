@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/Pandora.jar;md5;60a9856a6deb7dcff27f3056626bbb5a",
+  "spider": "./jar/Pandora.jar;md5;8f8f0f3cb3d1c025746ffb35b22748a5",
   "wallpaper": "",
   "sites": [
     {
@@ -31,20 +31,6 @@
       "changeable": 0
     },
     {
-      "key": "py_cctv_集合",
-      "name": "央视┃集合",
-      "type": 3,
-      "style": {
-        "type": "rect",
-        "ratio": 1.485
-      },
-      "api": "py_cctv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./pyramid/py_cctv.py"
-    },
-    {
       "key": "Czsapp",
       "name": "厂长┃直连",
       "type": 3,
@@ -74,6 +60,16 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "FbjDcUxPqpfNr0QF4QvE6sExbc1AGIRPUzIPtbexyEhcScOf53TW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KzfJ8GvG6ETdzBCbfFw0WuoidvgjRb4EpUL8NqDk4unKXRBhjcoD99QoAIMsLc24lek3u9uBO+6JFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmfepqhEHQ08b/50BTD4Smp257RWMVpiQ1Tu3ht+MPo7oQAceapuyQGcL2fslXXHVrrb+9pyjtI9Qzph9HFoNJPIj5EXV+qGRI0CjSm9Dbm5nQFlZ6G2jvORw+5LMziXmuxDZH4U7qpnfjh/8hAu18546qyGmiWVI2mfDrKkVmeLq1KFA0rA="
+    },
+    {
+      "key": "伊人",
+      "name": "伊人┃App",
+      "type": 3,
+      "api": "csp_AppMao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbdNRCYYRDm4TsLq0wUJWQNbPrS+dwlqC76K9AyqwdDOMy2knm2EiXG8sW5g6aRAKRJjRnA/LOWYSnzESgu5FcYzNNG0xf0roJwduq4GBwQbeWKtxcqo79EgUmk7wBAMaZaqxv0MMB5dPInMBPwj4oPNY9+tFWr1sZPUWRk05bRxflgcCQg7kmHtl4gEYx5tMq/vShEkoZE45l40NTUAGsbOf4i+SQPTRyR7qlo+cV4WBYm4fabOOK2gUwMdqZn7P8u3StM3Sk8ps5+RaATUfFuU1+0/f847wGAW7SmBGalhgcQsG2RPKhagprd32llnF+1i1CLkWiYTK/QyhtCfS+tl+jAy/0UlG7Fq1kZlC1+2steoOnaic6WQq9F2nYpq7a3QVfAbWyvIP+/mhJrtEycOuc999pfBr4Ub+yNWhIq06XaaI3EDX8h/oclhtPP9fIlIhPPNgZO/XgdX80PcGXcTIWl8DR+FW+NoZjzcXq7OcD0dUFMueE5ZrJSRVLEAAhzFhoC3qYpmCY6xDrcbPMXuUKB0LcE9qyfm9cw0EjDJZyt2PsVT3JxLuXjMgv0cdhPu2rxnJ36urzE1RBmNugqEbsINIg+pun7OUaS3KO4jwHZOxvHmrGLdzQzxgZxgwG5Z8t4e08xaRZXOd1ujQ/ZNncMJrpVQhY50nmk1+MmPHw5qapafKYcsoRMMM1d7R742jf7MMtSgdFXU/bxzyhaXS5F7mXCee3u5TGKtBujCsllb+9igo+ZO9ThCEx07MrJ7TMEHHBrtYDaoFiOfBRLGzrvXlAcZ0QI2pDiED6vcJTJwEs4mpEPwKFawqojXYteQ0x0NSPvk3XLyMkuMCLdyL9JWKJTh2rTor4R5q5VkYgBIqpFOxIdNtJlr0RYBXf69Do7jNWNxGSYfMO/Qns/JD"
     },
     {
       "key": "布雷",
@@ -160,17 +156,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "http://rzys.xyz"
-    },
-    {
-      "key": "迪迪",
-      "name": "迪迪┃App",
-      "api": "csp_AppYsV2",
-      "type": 3,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://api123.adys.app/xgapp.php/v3/"
     },
     {
       "key": "Xinsj",
@@ -272,6 +257,36 @@
       "changeable": 1
     },
     {
+      "key": "kuaikan",
+      "name": "快看┃App",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "csp_Ysgc",
+      "name": "工场┃直连",
+      "type": 3,
+      "api": "csp_Ysgc",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.ysgc1.cc/"
+    },
+    {
+      "key": "迪迪",
+      "name": "安迪┃YsV2",
+      "api": "csp_AppYsV2",
+      "type": 3,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://api123.adys.app/xgapp.php/v3/"
+    },
+    {
       "key": "csp_SP33",
       "name": "三三┃解析",
       "type": 3,
@@ -350,6 +365,18 @@
       }
     },
     {
+      "key": "MV_vod",
+      "name": "🎶明星┃MV",
+      "type": 1,
+      "api": "https://mv.wogg.link/mv/vod",
+      "style": {
+        "type": "oval"
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
       "key": "YiSo",
       "name": "易搜┃搜索",
       "type": 3,
@@ -367,7 +394,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$fanty$$$qqq111"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$fantaiying$$$qqq111"
     },
     {
       "key": "PanSou",
@@ -438,7 +465,7 @@
     },
     {
       "key": "Bili",
-      "name": "哔哔┃合集",
+      "name": "🅱哔哔┃合集",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -463,7 +490,7 @@
       "url": "Web"
     },
     {
-      "name": "11",
+      "name": "00",
       "type": 1,
       "url": "http://175.178.183.192:86/api/?key=b832096861839f56066bf4ae7a0d7be0&url=",
       "ext": {
@@ -483,7 +510,7 @@
       }
     },
     {
-      "name": "22",
+      "name": "11",
       "type": 0,
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
@@ -534,7 +561,37 @@
       ]
     },
     {
-      "name": "lz",
+      "name": "海外看",
+      "hosts": [
+        "haiwaikan"
+      ],
+      "regex": [
+        "8.1748",
+        "10.0099",
+        "10.3333",
+        "16.0599"
+      ]
+    },
+    {
+      "name": "暴風",
+      "hosts": [
+        "bfzy"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "星星",
+      "hosts": [
+        "aws.ulivetv.net"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "量子",
       "hosts": [
         "vip.lz",
         "hd.lz",
@@ -546,25 +603,7 @@
       ]
     },
     {
-      "name": "蚂蚁",
-      "hosts": [
-        "v.cdnlz1.com"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-      ]
-    },
-    {
-      "name": "农民",
-      "hosts": [
-        "toutiaovod.com"
-      ],
-      "regex": [
-        "video/tos/cn"
-      ]
-    },
-    {
-      "name": "ff",
+      "name": "非凡",
       "hosts": [
         "vip.ffzy",
         "hd.ffzy"
@@ -575,17 +614,7 @@
       ]
     },
     {
-      "name": "bf",
-      "hosts": [
-        "bfzy",
-        "s5.bfzycdn"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-      ]
-    },
-    {
-      "name": "hs",
+      "name": "火山嗅探",
       "hosts": [
         "huoshan.com"
       ],
@@ -594,7 +623,7 @@
       ]
     },
     {
-      "name": "dy",
+      "name": "抖音嗅探",
       "hosts": [
         "douyin.com"
       ],
@@ -603,14 +632,12 @@
       ]
     },
     {
-      "name": "cl",
+      "name": "農民嗅探",
       "hosts": [
-        "magnet"
+        "toutiaovod.com"
       ],
       "regex": [
-        "最 新",
-        "直 播",
-        "更 新"
+        "video/tos/cn"
       ]
     }
   ],
