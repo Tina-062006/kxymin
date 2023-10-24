@@ -639,6 +639,17 @@
       "regex": [
         "video/tos/cn"
       ]
+    },
+    {
+      "name": "磁力",
+      "hosts": [
+        "magnet"
+      ],
+      "regex": [
+        "最 新",
+        "直 播",
+        "更 新"
+      ]
     }
   ],
   "lives": [
