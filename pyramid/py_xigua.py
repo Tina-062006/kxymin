@@ -31,11 +31,6 @@ class Spider(Spider):
 			"少儿":"shaoer",
 			"综艺":"zongyi",
 			"纪录片":"jilupian",
-			"中国梦":"xinzhishijiang",
-			"美食":"meishi",
-			"体育":"tiyu",
-			"科技":"keji",
-			"懂车帝":"dongchedi",
 			"关注":"follow"
 
 		}
@@ -75,16 +70,6 @@ class Spider(Spider):
 			idTxt='纪录片'
 		elif tid=='shaoer':
 			idTxt='少儿'
-		elif tid=='xinzhishijiang':
-			idTxt='中国梦'
-		elif tid=='meishi':
-			idTxt='美食'
-		elif tid=='keji':
-			idTxt='科技'
-		elif tid=='tiyu':
-			idTxt='体育'
-		elif tid=='dongchedi':
-			idTxt='懂车帝'
 		elif tid=='follow':
 			offset=0 if int(pg)<2 else 20*int(pg)
 			url='https://www.ixigua.com/api/userv2/follow/list?authorId={0}&sortType=desc&sortType=desc&cursor={1}'.format(self.userid,offset)
