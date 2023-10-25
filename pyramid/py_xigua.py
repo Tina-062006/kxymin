@@ -30,7 +30,6 @@ class Spider(Spider):
 			"纪录片":"jilupian",
 			"少儿":"shaoer",
 			"综艺":"zongyi",
-			"纪录片":"jilupian",
 			"关注":"follow"
 
 		}
@@ -69,7 +68,7 @@ class Spider(Spider):
 		elif tid=='jilupian':
 			idTxt='纪录片'
 		elif tid=='shaoer':
-			idTxt='少儿'
+			idTxt='少儿'	
 		elif tid=='follow':
 			offset=0 if int(pg)<2 else 20*int(pg)
 			url='https://www.ixigua.com/api/userv2/follow/list?authorId={0}&sortType=desc&sortType=desc&cursor={1}'.format(self.userid,offset)
