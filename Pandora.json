@@ -41,6 +41,19 @@
       "ext": "./pyramid/py_cctv.py"
     },
     {
+      "key": "py_xigua_西瓜",
+      "name": "西瓜┃视频",
+      "type": 3,
+      "style": {
+        "type": "rect",
+        "ratio": 1.485
+      },
+      "api": "py_xigua",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "./pyramid/py_xigua.py"
+    },
+    {
       "key": "Czsapp",
       "name": "厂长┃直连",
       "type": 3,
