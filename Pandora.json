@@ -427,7 +427,19 @@
       "searchable": 1,
       "changeable": 1
     },
-    {"key":"t4直播转点播","name":"儿童┃教育","type":4,"api":"http://120.53.102.254/dsp16","searchable":1,"quickSearch":1,"filterable":1},
+    {
+      "key": "t4直播转点播",
+      "name": "儿童┃教育",
+      "type": 4,
+      "style": {
+        "type": "rect",
+        "ratio": 1.485
+      },
+      "api": "http://120.53.102.254/dsp16",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "AList",
       "name": "AList┃网盘",
