@@ -15,24 +15,24 @@
     {
       "key": "csp_YGP",
       "name": "新片",
-      "api": "csp_YGP",
       "type": 3,
+      "api": "csp_YGP",
       "searchable": 1,
       "changeable": 0
     },
     {
       "key": "csp_Kuaikan",
       "name": "快看",
-      "api": "csp_Kuaikan",
       "type": 3,
+      "api": "csp_Kuaikan",
       "searchable": 1,
       "changeable": 1
     },
     {
       "key": "csp_Mayiys",
       "name": "蚂蚁",
-      "api": "csp_Mayiys",
       "type": 3,
+      "api": "csp_Mayiys",
       "searchable": 1,
       "changeable": 1,
       "ext": "",
@@ -41,16 +41,16 @@
     {
       "key": "Maolv",
       "name": "毛驴",
-      "api": "csp_Maolv",
       "type": 3,
+      "api": "csp_Maolv",
       "searchable": 1,
       "changeable": 1
     },
     {
       "key": "DDMJ",
       "name": "米酷",
-      "api": "csp_DDMJ",
       "type": 3,
+      "api": "csp_DDMJ",
       "searchable": 1,
       "changeable": 1,
       "ext": "http://43.248.129.116:6688"
@@ -58,8 +58,8 @@
     {
       "key": "追忆影视",
       "name": "追忆",
-      "api": "csp_Appto",
       "type": 3,
+      "api": "csp_Appto",
       "searchable": 1,
       "changeable": 1,
       "ext": "|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE"
@@ -67,8 +67,8 @@
     {
       "key": "橘子影视",
       "name": "橘子",
-      "api": "csp_Appto",
       "type": 3,
+      "api": "csp_Appto",
       "searchable": 1,
       "changeable": 1,
       "ext": "pB8fV1o5fODylO5AtO8tvf0F1lRBzZhIb0ydyOYoUZ69DpfdeG0oDdRtFLkWxpHU9kWB67yp98N%2FQRMqmBFfDAyox2BUH5%2BexjgENSd4e28Pxi%2B5t01guq9FdjMXODf8IiUY1tJcNlEWeTAdGho%2BjA%3D%3D|BTmtwQlNQQ05OQXdYMktjZWNtd1lNakdKYkNQYjVZcll8aHR0cDovLzE4MC4xODguMjIuMjE5OjI1MjUvYXBwdG8vdjE"
@@ -76,8 +76,8 @@
     {
       "key": "喵喵影视",
       "name": "喵喵",
-      "api": "csp_Appto",
       "type": 3,
+      "api": "csp_Appto",
       "searchable": 1,
       "changeable": 1,
       "ext": "u9EeKUf0q%2BcHjaLXiEz6jDnDeRG2wkm0Kpfm%2BoYiwhK0cRB7pv67WkSSYftOH5B%2F34pZsGU9WMNDBMrAMJDuSguA6FMrMZlnKl2PyXRaU3Y6FAqwrx7nBXrbAECecty5qEjoGGs39zYgew2KdnNWeA%3D%3D|BNndaaFlRcDdFc1BSWHluU2pHbWE1RlhyUkQ3RlNkU1h8aHR0cDovLzE3Mi4yNDcuNDQuMTgyOjk5ODgvYXBwdG8vdjE="
@@ -85,8 +85,8 @@
     {
       "key": "布蕾影视",
       "name": "布蕾",
-      "api": "csp_Appto",
       "type": 3,
+      "api": "csp_Appto",
       "searchable": 1,
       "changeable": 1,
       "ext": "VmFIZ%2BKCSW%2FfudthUQAhFThUBIjrjzM9FhQ9ltb5OkOZwS5t5apI%2Fl5aD1jfpTFMapmCeCVT1KbO2DB25TEQsNr7mxtNhIZHKijji10lqetyAK%2F4Ua5pO1zpAILY3VhMRNW0aH5OdWT24ufPDTR0fg%3D%3D|KMjRRRTJyY0JKald3RWFFOFB3RnlBZU1QUm1DaVRCcnR8aHR0cDovLzIyMi4xMzQuMC4xNzE6NTI1OC9hcHB0by92MQ"
@@ -102,8 +102,8 @@
     {
       "key": "Wogg",
       "name": "玩偶",
-      "api": "csp_Wogg",
       "type": 3,
+      "api": "csp_Wogg",
       "searchable": 1,
       "changeable": 1,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt$$$https://wogg.xyz/"
@@ -111,8 +111,8 @@
     {
       "key": "Wobg",
       "name": "表哥",
-      "api": "csp_Wobg",
       "type": 3,
+      "api": "csp_Wobg",
       "searchable": 1,
       "changeable": 1,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt$$$"
@@ -223,8 +223,7 @@
       "type": 3,
       "api": "csp_Gitcafe",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
+      "changeable": 1,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.json",
       "timeout": 30
     },
@@ -234,8 +233,7 @@
       "type": 3,
       "api": "csp_XiaoZhiTiao",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
+      "changeable": 1,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.json",
       "timeout": 30
     },
@@ -282,6 +280,8 @@
       "name": "盘搜",
       "type": 3,
       "api": "csp_PanSou",
+      "searchable": 1,
+      "changeable": 1,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt",
       "timeout": 30
     },
@@ -290,6 +290,8 @@
       "name": "云搜",
       "type": 3,
       "api": "csp_UpYun",
+      "searchable": 1,
+      "changeable": 1,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt",
       "timeout": 30
     },
@@ -299,7 +301,6 @@
       "type": 3,
       "api": "csp_Push",
       "searchable": 0,
-      "quickSearch": 0,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt",
       "timeout": 30
@@ -311,8 +312,7 @@
       "api": "csp_BLSGod",
       "playerType": 1,
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "changeable": 1
     },
     {
       "key": "csp_Xunlei8",
@@ -321,8 +321,7 @@
       "api": "csp_Xunlei8",
       "playerType": 1,
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "changeable": 1
     },
     {
       "key": "MeijuTT",
@@ -346,111 +345,16 @@
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
-      "quickSearch": 1,
+      "changeable": 0,
       "recordable": 0,
       "style": {
         "type": "rect",
         "ratio": 1.755
       },
-      "filterable": 1,
-      "changeable": 0,
       "ext": {
         "json": "./Json/bili.json",
         "cookie": "http://127.0.0.1:9978/file/tvfan/cookie.txt"
       }
-    },
-    {
-      "key": "量子",
-      "name": "量子",
-      "type": 0,
-      "api": "http://127.0.0.1:10079/?thread=0&proxy=socks5://192.168.1.9:4592&url=https://cj.lziapi.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "changeable": 1,
-      "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=socks5://192.168.1.9:4592&url=",
-      "categories": [
-        "国产动漫",
-        "日韩动漫",
-        "国产剧",
-        "韩国剧",
-        "日本剧",
-        "电影片",
-        "连续剧",
-        "综艺片",
-        "动漫片",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "台湾剧",
-        "香港剧",
-        "欧美剧",
-        "记录片",
-        "海外剧",
-        "泰国剧",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫",
-        "体育",
-        "足球",
-        "篮球",
-        "网球",
-        "斯诺克"
-      ]
-    },
-    {
-      "key": "非凡",
-      "name": "非凡",
-      "type": 0,
-      "api": "http://127.0.0.1:10079/?thread=0&proxy=socks5://192.168.1.9:4592&url=http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "changeable": 1,
-      "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=socks5://192.168.1.9:4592&url=",
-      "categories": [
-        "国产动漫",
-        "日韩动漫",
-        "国产剧",
-        "韩国剧",
-        "日本剧",
-        "电影片",
-        "连续剧",
-        "综艺片",
-        "动漫片",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "香港剧",
-        "欧美剧",
-        "记录片",
-        "台湾剧",
-        "海外剧",
-        "泰国剧",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫"
-      ]
-    },
-    {
-      "key": "暴風",
-      "name": "暴風",
-      "type": 1,
-      "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "changeable": 1
     },
     {
       "key": "本地",
