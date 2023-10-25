@@ -8,8 +8,7 @@
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
+      "changeable": 0
     },
     {
       "key": "csp_WoGG",
@@ -17,7 +16,6 @@
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://fd.888484.xyz:33/"
     },
@@ -27,7 +25,6 @@
       "type": 3,
       "api": "csp_YGP",
       "searchable": 0,
-      "quickSearch": 0,
       "changeable": 0
     },
     {
@@ -40,8 +37,7 @@
       },
       "api": "py_cctv",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
+      "changeable": 1,
       "ext": "./pyramid/py_cctv.py"
     },
     {
@@ -49,9 +45,7 @@
       "name": "厂长┃直连",
       "type": 3,
       "api": "csp_Czsapp",
-      "playerType": 2,
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.czz9.com/"
     },
@@ -61,7 +55,6 @@
       "type": 3,
       "api": "csp_AppMao",
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1,
       "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcpBF4MRDm4TvbCzxUxQS9bPrS+dwlqC+K21Byi2fnbN32ExknwkTyVnT4ZkO1NUAJnYhg/LOWYSnzESguc1X7n/JQ1wPh7lInAdzJ2qxzb2fKg8RZczmhg8lF/+BAMaZaqxv0MMB5dPInMBPwir"
     },
@@ -71,7 +64,6 @@
       "type": 3,
       "api": "csp_AppMao",
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1,
       "ext": "FbjDcUxPqpfNr0QF4QvE6sExbctTA8MND2wVtbm3ykpXXJ3bqXTQ0QXY5aa4ACm9djOMy2knm2EiXG8sW5g6aRAKRJjRnA/LOWYSnzESgqdPQKDtPWh4fhHsOhoVtp+X5gHQWNAPTdwLiEUYrQOCBAMaZaqxv0MMB5dPInMBPwj4oPNY9+tFWr04e951VEYXUQxQnysQQADx838e6ihlgsUzqcr1mU0wSCBZ7aw6em0LlqCi8Q2ZRdrz8zKIuN+nXZTeZx8nXbWlSFUw2O9lf2Hs4Pf87vf+g9Nk7qRCAHwQDsY62lPCqruUDkfKGV1FS0Afdl8L/QzvvsosjOb3hmPGhg+HCK8hhvjIhBORqTqs6sYW1iHeqkkm7Unr+KNC1+2stfYOhbvQ8Xxg51KdMMnDPSh0OX+opaZ8+5n5Wfc1laahI7hJ"
     },
@@ -81,7 +73,6 @@
       "type": 3,
       "api": "csp_AppMao",
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1,
       "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddka4wFqHtLjQhalHiNTh6w9Of9ADGP70IR6Z3jEgnqm+oREdxZJm8nktRA8E9V38KMk34oPdI8ugMCclsIKNWf0oEEFd7jQg+J06kiGg57gdJuphV2ODd3REMVHU34759SkYEr7GD0jCiO/TMpAnm1emAQazjYwcmYLuSflAsqMVHYxrRyfbS3OLioIlQzOBbFGItBtIH0Vv1gtD3PSTJGX1waF9CIXAG1ybvpNQq5OyVk3/tqSSPCtQmk6jE/gGfgSfZweIe2DCznW9/i0bY8Zgs2L/Ux6Y8yI2fjwRz6k++NcfQIj0sZjnpv7JmoMO+HfQ+lqKgJbQFoIwooyyYo6SgNP1zJ/SS"
     },
@@ -91,7 +82,6 @@
       "type": 3,
       "api": "csp_AppSK",
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1,
       "ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZAH4tPWnVF46Ct0RcDCdqQ/iHaxETP6KexDCalbnKb235g2zI+TmNzCM49OFRCWdee3hnULz5M1CsK3w=="
     },
@@ -101,7 +91,6 @@
       "type": 3,
       "api": "csp_AppSK",
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1,
       "ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZTGJxVRTBDqPTqg1hIUJXNp3iJg1HE6Ku0DDW8bH6VwnMqkHV3FGMiXNUxKFVOX9ue0RveKTtG0CYRkK0lRw=="
     },
@@ -111,7 +100,6 @@
       "type": 3,
       "api": "csp_AppSK",
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1,
       "ext": "FbjPcVZY48PN/RIZ5UWFro5tctBJAZhIEz5OvLqy0VZGH5/R/mCR2kPI46ezGyKoem+Vym4tmTJ5Gio/CM0pPlNKXd+d2hTULzhB0SoYmLd4"
     },
@@ -120,7 +108,6 @@
       "name": "布雷┃App",
       "type": 3,
       "api": "csp_AppMao",
-      "playerType": 2,
       "ext": "FbjDcUxPqpfNr0QF4QvE6sExbctTA5hPEi0VqbGzxElfS8iS6G6dxFvYo6amRiS2bHOKw3Esnj46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkaM/FqHtLjQhalHiNTh6w9P3uBbzOpYja64omwk1u3D/dlZ+e5i4lng3PuAGTEUBPE34oPNY9+tFWr0Ibd9pVxAueSBD3QUsYQDulUET8DZ4nPtGpPvrhlgkKksJ9s4mWmxer4u57B2OO9qc8jua09TybbufTjMaeJGQem8U1MtbZnyk1e3UtOPZyIlX24R7PWpyLc4U0VzmkquLAB3kRiQZa1pOYUYuwm6vu/8spvSLhGbMhy+5bLc5qpPAk0mnh1ezzPQa03Cfg3JV6WGwrolC1+2steoOnaic6WQq9F2nYpq7a3QVfAbWyvIP+/mhJrtEycOuc999pfBr4Ub+yNWhIq06XaaI3EDX8h/oclhtPP9fIlIhPPNgZO/XgdX80PcGXdT2F0EtU+FJ+NoZjzcXq7OcD0dUFMudEpZ/ISVFLEQAhzFhoC3qYpmCY6xDrfjIL1W2Yh0LSk9qyfm9cw0EjDJZyt2PsVT3JxLuXjMgv0cdhPu2sTfBlL672ElQFkkjgpIL+YIQoLV69KeUYi3LYYjLFdixymHlDbdyGT19XRgwG5Z8t4e08xaRZXOd1ujQ/ZNncMJrpVQhY40mmnNcN2PHw5qapafKYcsoRMMM1d7R742jf5UE/zwNFXI+WRzxjrXerF/2fmmU0+8OGIVz9SWsllf++zV27ZOwFQ6qy07MrJ7TMEHHBrtYDaoFiOfBRLGyodnWIp1ZCPGqIxcA/5s+cdVwkd2wJdB1OKIqhz+Eg+0zmTRTFNUYUZWXvKEhDs7BuoaAQz5ArXla7xAg/F0Z1goy7k+xJZlmJlj1RJ5KdKlUvrDEQ8lCSIzPNPMz+g=="
     },
     {
@@ -129,7 +116,6 @@
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1
     },
     {
@@ -138,7 +124,6 @@
       "type": 3,
       "api": "csp_JOJO",
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1
     },
     {
@@ -147,7 +132,6 @@
       "type": 3,
       "api": "csp_YQKan",
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1
     },
     {
@@ -156,7 +140,6 @@
       "type": 3,
       "api": "csp_Zxzj",
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.zxzj.pro/"
     },
@@ -166,7 +149,6 @@
       "type": 3,
       "api": "csp_MLYS",
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.maolvys.com/"
     },
@@ -176,7 +158,6 @@
       "type": 3,
       "api": "csp_MYYS",
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1,
       "ext": "http://rzys.xyz"
     },
@@ -186,7 +167,6 @@
       "type": 3,
       "api": "csp_Xinsj",
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.6080yy3.com/"
     },
@@ -196,7 +176,6 @@
       "type": 3,
       "api": "csp_Auete",
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1,
       "ext": "http://www.aueteys.com/"
     },
@@ -206,7 +185,6 @@
       "type": 3,
       "api": "csp_Bttwoo",
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1
     },
     {
@@ -226,7 +204,6 @@
       "playerType": "1",
       "api": "csp_YTVIP",
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1,
       "timeout": 30,
       "ext": "vip.lyyytv.cn"
@@ -237,7 +214,6 @@
       "type": 3,
       "api": "csp_Libvio",
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.libvio.pro/"
     },
@@ -247,7 +223,6 @@
       "type": 3,
       "api": "csp_Ddrk",
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1
     },
     {
@@ -256,7 +231,6 @@
       "type": 3,
       "api": "csp_Nmys",
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1,
       "ext": "./json/nmys.json"
     },
@@ -265,9 +239,7 @@
       "name": "可乐┃直连",
       "type": 3,
       "api": "csp_Cokemv",
-      "playerType": 2,
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1
     },
     {
@@ -276,7 +248,6 @@
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1
     },
     {
@@ -285,7 +256,6 @@
       "type": 3,
       "api": "csp_Ysgc",
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.ysgc1.cc/"
     },
@@ -295,28 +265,23 @@
       "type": 3,
       "api": "csp_SixV",
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 0,
       "ext": "http://www.xb6v.com/"
     },
     {
       "key": "csp_SP33",
-      "name": "三三┃解析",
+      "name": "360┃解析",
       "type": 3,
       "api": "csp_SP33",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
+      "changeable": 1
     },
     {
       "key": "迪迪",
       "name": "安迪┃YsV2",
       "api": "csp_AppYsV2",
       "type": 3,
-      "playerType": 2,
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1,
       "ext": "https://api123.adys.app/xgapp.php/v3/"
     },
@@ -326,7 +291,6 @@
       "type": 3,
       "api": "csp_Dm84",
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1
     },
     {
@@ -335,7 +299,6 @@
       "type": 3,
       "api": "csp_Ying",
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1
     },
     {
@@ -344,16 +307,14 @@
       "type": 3,
       "api": "csp_Ysj",
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1
     },
     {
-      "key": "csp_Anime1",
+      "key": "csp_Anime",
       "name": "日本┃动漫",
       "type": 3,
       "api": "csp_Anime1",
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1
     },
     {
@@ -362,7 +323,6 @@
       "type": 3,
       "api": "csp_Yj1211",
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1
     },
     {
@@ -371,7 +331,6 @@
       "type": 3,
       "api": "csp_FirstAid",
       "searchable": 0,
-      "quickSearch": 0,
       "changeable": 0,
       "style": {
         "type": "rect",
@@ -387,7 +346,6 @@
         "type": "oval"
       },
       "searchable": 1,
-      "quickSearch": 0,
       "changeable": 0
     },
     {
@@ -396,7 +354,6 @@
       "type": 3,
       "api": "csp_YiSo",
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
@@ -406,7 +363,6 @@
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$fantaiying$$$qqq111"
     },
@@ -416,7 +372,6 @@
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
@@ -426,7 +381,6 @@
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
@@ -436,7 +390,6 @@
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
@@ -446,7 +399,6 @@
       "type": 3,
       "api": "csp_Dovx",
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
@@ -456,7 +408,6 @@
       "type": 3,
       "api": "csp_Push",
       "searchable": 0,
-      "quickSearch": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
     {
@@ -465,7 +416,6 @@
       "type": 3,
       "api": "csp_NiNi",
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1
     },
     {
@@ -474,7 +424,6 @@
       "type": 3,
       "api": "csp_Tangrenjie",
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1
     },
     {
@@ -505,7 +454,6 @@
         "ratio": 1.597
       },
       "searchable": 1,
-      "quickSearch": 0,
       "changeable": 0,
       "ext": "./json/bili.json"
     }
