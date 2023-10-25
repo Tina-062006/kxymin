@@ -30,6 +30,12 @@ class Spider(Spider):
 			"纪录片":"jilupian",
 			"少儿":"shaoer",
 			"综艺":"zongyi",
+			"纪录片":"jilupian",
+			"中国梦":"xinzhishijiang",
+			"美食":"meishi",
+			"体育":"tiyu",
+			"科技":"keji",
+			"懂车帝":"dongchedi",
 			"关注":"follow"
 
 		}
