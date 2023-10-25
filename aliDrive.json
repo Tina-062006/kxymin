@@ -13,14 +13,6 @@
   "wallpaper": "",
   "sites": [
     {
-      "key": "csp_YGP",
-      "name": "新片",
-      "type": 3,
-      "api": "csp_YGP",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
       "key": "csp_Kuaikan",
       "name": "快看",
       "type": 3,
@@ -56,24 +48,6 @@
       "ext": "http://43.248.129.116:6688"
     },
     {
-      "key": "追忆影视",
-      "name": "追忆",
-      "api": "csp_Appto",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE"
-    },
-    {
-      "key": "橘子影视",
-      "name": "橘子",
-      "api": "csp_Appto",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "pB8fV1o5fODylO5AtO8tvf0F1lRBzZhIb0ydyOYoUZ69DpfdeG0oDdRtFLkWxpHU9kWB67yp98N%2FQRMqmBFfDAyox2BUH5%2BexjgENSd4e28Pxi%2B5t01guq9FdjMXODf8IiUY1tJcNlEWeTAdGho%2BjA%3D%3D|BTmtwQlNQQ05OQXdYMktjZWNtd1lNakdKYkNQYjVZcll8aHR0cDovLzE4MC4xODguMjIuMjE5OjI1MjUvYXBwdG8vdjE"
-    },
-    {
       "key": "喵喵影视",
       "name": "喵喵",
       "api": "csp_Appto",
@@ -81,15 +55,6 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "u9EeKUf0q%2BcHjaLXiEz6jDnDeRG2wkm0Kpfm%2BoYiwhK0cRB7pv67WkSSYftOH5B%2F34pZsGU9WMNDBMrAMJDuSguA6FMrMZlnKl2PyXRaU3Y6FAqwrx7nBXrbAECecty5qEjoGGs39zYgew2KdnNWeA%3D%3D|BNndaaFlRcDdFc1BSWHluU2pHbWE1RlhyUkQ3RlNkU1h8aHR0cDovLzE3Mi4yNDcuNDQuMTgyOjk5ODgvYXBwdG8vdjE="
-    },
-    {
-      "key": "布蕾影视",
-      "name": "布蕾",
-      "api": "csp_Appto",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "VmFIZ%2BKCSW%2FfudthUQAhFThUBIjrjzM9FhQ9ltb5OkOZwS5t5apI%2Fl5aD1jfpTFMapmCeCVT1KbO2DB25TEQsNr7mxtNhIZHKijji10lqetyAK%2F4Ua5pO1zpAILY3VhMRNW0aH5OdWT24ufPDTR0fg%3D%3D|KMjRRRTJyY0JKald3RWFFOFB3RnlBZU1QUm1DaVRCcnR8aHR0cDovLzIyMi4xMzQuMC4xNzE6NTI1OC9hcHB0by92MQ"
     },
     {
       "key": "YQKan",
