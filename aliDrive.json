@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/aliDrive.jar;md5;98a126d121484c6bf04ca32e5304efca",
+  "spider": "./jar/aliDrive.jar;md5;70d0368fbb139410bec3b40d8f1b041e",
   "lives": [
     {
       "name": "综合",
@@ -15,79 +15,80 @@
     {
       "key": "csp_YGP",
       "name": "新片",
-      "type": 3,
       "api": "csp_YGP",
+      "type": 3,
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 0
     },
     {
       "key": "csp_Kuaikan",
       "name": "快看",
-      "type": 3,
       "api": "csp_Kuaikan",
+      "type": 3,
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "changeable": 1
     },
     {
       "key": "csp_Mayiys",
       "name": "蚂蚁",
-      "type": 3,
       "api": "csp_Mayiys",
+      "type": 3,
       "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "ext": "",
       "timeout": 30
     },
     {
       "key": "Maolv",
       "name": "毛驴",
-      "type": 3,
       "api": "csp_Maolv",
+      "type": 3,
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
       "changeable": 1
     },
     {
       "key": "DDMJ",
       "name": "米酷",
-      "type": 3,
       "api": "csp_DDMJ",
+      "type": 3,
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
       "changeable": 1,
       "ext": "http://43.248.129.116:6688"
     },
     {
       "key": "追忆影视",
       "name": "追忆",
-      "type": 3,
       "api": "csp_Appto",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
       "ext": "|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE"
     },
     {
       "key": "橘子影视",
       "name": "橘子",
-      "type": 3,
       "api": "csp_Appto",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
       "ext": "pB8fV1o5fODylO5AtO8tvf0F1lRBzZhIb0ydyOYoUZ69DpfdeG0oDdRtFLkWxpHU9kWB67yp98N%2FQRMqmBFfDAyox2BUH5%2BexjgENSd4e28Pxi%2B5t01guq9FdjMXODf8IiUY1tJcNlEWeTAdGho%2BjA%3D%3D|BTmtwQlNQQ05OQXdYMktjZWNtd1lNakdKYkNQYjVZcll8aHR0cDovLzE4MC4xODguMjIuMjE5OjI1MjUvYXBwdG8vdjE"
     },
     {
       "key": "喵喵影视",
       "name": "喵喵",
-      "type": 3,
       "api": "csp_Appto",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
       "ext": "u9EeKUf0q%2BcHjaLXiEz6jDnDeRG2wkm0Kpfm%2BoYiwhK0cRB7pv67WkSSYftOH5B%2F34pZsGU9WMNDBMrAMJDuSguA6FMrMZlnKl2PyXRaU3Y6FAqwrx7nBXrbAECecty5qEjoGGs39zYgew2KdnNWeA%3D%3D|BNndaaFlRcDdFc1BSWHluU2pHbWE1RlhyUkQ3RlNkU1h8aHR0cDovLzE3Mi4yNDcuNDQuMTgyOjk5ODgvYXBwdG8vdjE="
     },
     {
       "key": "布蕾影视",
       "name": "布蕾",
-      "type": 3,
       "api": "csp_Appto",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
       "ext": "VmFIZ%2BKCSW%2FfudthUQAhFThUBIjrjzM9FhQ9ltb5OkOZwS5t5apI%2Fl5aD1jfpTFMapmCeCVT1KbO2DB25TEQsNr7mxtNhIZHKijji10lqetyAK%2F4Ua5pO1zpAILY3VhMRNW0aH5OdWT24ufPDTR0fg%3D%3D|KMjRRRTJyY0JKald3RWFFOFB3RnlBZU1QUm1DaVRCcnR8aHR0cDovLzIyMi4xMzQuMC4xNzE6NTI1OC9hcHB0by92MQ"
     },
     {
@@ -101,15 +102,19 @@
     {
       "key": "Wogg",
       "name": "玩偶",
-      "type": 3,
       "api": "csp_Wogg",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt$$$https://wogg.xyz/"
     },
     {
       "key": "Wobg",
       "name": "表哥",
-      "type": 3,
       "api": "csp_Wobg",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt$$$"
     },
     {
@@ -117,9 +122,9 @@
       "name": "4KHDR",
       "type": 3,
       "api": "csp_FourKHDR",
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt$$$http://127.0.0.1:9978/file/4khdr.txt",
-      "quickSearch": 1,
+      "searchable": 1,
       "changeable": 1,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt$$$http://127.0.0.1:9978/file/4khdr.txt",
       "timeout": 60
     },
     {
@@ -127,9 +132,9 @@
       "name": "校长",
       "type": 3,
       "api": "csp_XiaoZhang",
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt",
-      "quickSearch": 1,
+      "searchable": 1,
       "changeable": 1,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt", 
       "timeout": 30
     },
     {
@@ -142,13 +147,21 @@
       "ext": "./json/jianpian.json"
     },
     {
+      "key": "Ppxzy",
+      "name": "皮皮虾|网盘",
+      "type": 3,
+      "api": "csp_Ppxzy",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt$$$https://ppxzy.net/"
+    },
+    {
       "key": "csp_Hdhive",
       "name": "影巢",
       "type": 3,
       "api": "csp_Hdhive",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
+      "changeable": 1,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt",
       "timeout": 30
     },
@@ -158,7 +171,6 @@
       "api": "csp_AppYsV2",
       "type": 3,
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1,
       "ext": "https://api123.adys.app/xgapp.php/v3/"
     },
