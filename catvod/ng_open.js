@@ -11,7 +11,7 @@ async function request(reqUrl) {
     let res = await req(reqUrl, {
         method: 'get',
         headers: {
-            'version_name': '1.0.6',
+            'version_name': '2.1.3',
             'version_code': '6',
             'package_name': 'com.app.nanguatv',
             'sign': Crypto.MD5('c431ea542cee9679#uBFszdEM0oL0JRn@' + t).toString().toLowerCase(),
