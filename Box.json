@@ -1,19 +1,7 @@
 {
     "spider": "./jar/Box.jar;md5;b0ebd6d9d069f1cc325625ee47ac921d",
     "wallpaper": "",
-    "lives": [
-        {
-            "group": "redirect",
-            "channels": [
-                {
-                    "name": "live",
-                    "urls": [
-                        "proxy://do=live&type=txt&ext=aHR0cDovL3BhbmRvd24ucHJvL3R2Ym94L3poaWJvLnR4dA=="
-                    ]
-                }
-            ]
-        }
-    ],
+    "lives": [{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3BhbmRvd24ucHJvL3R2Ym94L3poaWJvLnR4dA=="]}]}],
     "sites": [
         {
             "key": "追忆",
@@ -111,13 +99,13 @@
         },
         {
             "key": "JianPian",
-            "name": "荐片[边下边播]",
+            "name": "荐片┃磁力",
             "type": 3,
             "api": "csp_JianPian"
         },
         {
             "key": "Dygang",
-            "name": "电影港[边下边播]",
+            "name": "电影港┃磁力",
             "type": 3,
             "api": "csp_Dygang"
         },
