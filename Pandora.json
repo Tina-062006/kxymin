@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/Pandora.jar;md5;fb5c876ad4c3ec2fa09733e74af98211",
+  "spider": "./jar/Pandora.jar;md5;c0a0999c670692bb297b38981fe6de9b",
   "wallpaper": "",
   "sites": [
     {
@@ -19,7 +19,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://fd.888484.xyz:33/"
     },
     {
       "key": "YGP",
@@ -476,6 +476,24 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
+    },
+    {
+      "key": "AList",
+      "name": "AList┃网盘",
+      "type": "3",
+      "api": "csp_AList",
+      "changeable": "0",
+      "searchable": "1",
+      "ext": "./json/alist.json"
+    },
+    {
+      "key": "WebDAV",
+      "name": "WebDAV┃网盘",
+      "type": 3,
+      "api": "csp_WebDAV",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "./json/webdav.json"
     },
     {
       "key": "Bili",
