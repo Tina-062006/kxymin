@@ -290,15 +290,14 @@
       "ext": "https://www.ysgc1.cc/"
     },
     {
-      "key": "迪迪",
-      "name": "安迪┃YsV2",
-      "api": "csp_AppYsV2",
+      "key": "新6V",
+      "name": "SixV┃磁力",
       "type": 3,
-      "playerType": 2,
+      "api": "csp_SixV",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://api123.adys.app/xgapp.php/v3/"
+      "changeable": 0,
+      "ext": "http://www.xb6v.com/"
     },
     {
       "key": "csp_SP33",
@@ -311,14 +310,15 @@
       "changeable": 0
     },
     {
-      "key": "新6V",
-      "name": "SixV┃磁力",
+      "key": "迪迪",
+      "name": "安迪┃YsV2",
+      "api": "csp_AppYsV2",
       "type": 3,
-      "api": "csp_SixV",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://www.xb6v.com/"
+      "changeable": 1,
+      "ext": "https://api123.adys.app/xgapp.php/v3/"
     },
     {
       "key": "csp_Dm84",
