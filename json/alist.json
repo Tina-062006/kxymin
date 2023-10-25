@@ -6,16 +6,22 @@
       "server": "http://shicheng.wang:555/"
     },
     {
+      "name": "影視庫",
+      "server": "https://esir.eu.org/dav",
+      "user": "alist",
+      "pass": "alist"
+    },
+    {
+      "name": "七米藍",
+      "server": "https://al.chirmyram.com"
+    },
+    {
       "name": "ECVE",
       "server": "https://pan.ecve.cn"
     },
     {
       "name": "觸光",
       "server": "https://pan.ichuguang.com"
-    },
-    {
-      "name": "七米藍",
-      "server": "https://al.chirmyram.com"
     },
     {
       "name": "神族九帝",
