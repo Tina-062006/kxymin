@@ -569,7 +569,6 @@
         "#EXTINF.*?\\s+.*?muguacdn.*?\\.ts\\s+"
       ]
     }
-  ],
 ],
 "lives": [
   {
