@@ -287,6 +287,15 @@
       "ext": "https://api123.adys.app/xgapp.php/v3/"
     },
     {
+      "key": "速看100",
+      "name": "速看┃YsV2",
+      "api": "csp_AppYsV2",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://sk100.tv/api.php/app/"
+    },
+    {
       "key": "csp_Dm84",
       "name": "动漫┃巴士",
       "type": 3,
