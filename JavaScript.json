@@ -41,22 +41,6 @@
       "ext": "./quickjs/酷云77.js"
     },
     {
-      "key": "drpy_js_厂长资源",
-      "name": "厂长",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "./JavaScript/lib/drpy2.min.js",
-      "ext": "./quickjs/厂长资源.js"
-    },
-    {
-      "key": "drpy_js_moflix",
-      "name": "moflix",
-      "type": 3,
-      "api": "./JavaScript/lib/drpy2.min.js",
-      "ext": "./quickjs/MOFLIX.js"
-    },
-    {
       "key": "drpy_js_贱贱",
       "name": "荐片",
       "type": 3,
@@ -76,15 +60,6 @@
       "ext": "./quickjs/追忆.js"
     },
     {
-      "key": "drpy_js_热剧",
-      "name": "热剧",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "./JavaScript/lib/drpy2.min.js",
-      "ext": "./quickjs/热剧猫.js"
-    },
-    {
       "key": "drpy_js_南瓜影视",
       "name": "南瓜",
       "type": 3,
@@ -92,15 +67,6 @@
       "changeable": 1,
       "api": "./JavaScript/lib/drpy2.min.js",
       "ext": "./quickjs/南瓜影视.js"
-    },
-    {
-      "key": "drpy_js_农民",
-      "name": "农民",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "./JavaScript/lib/drpy2.min.js",
-      "ext": "./quickjs/农民影视.js"
     },
     {
       "key": "drpy_js_l0l影",
@@ -175,15 +141,6 @@
       "ext": "./quickjs/花猫TV.js"
     },
     {
-      "key": "drpy_js_花猪影视[V2]",
-      "name": "花猪",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "./JavaScript/lib/drpy2.min.js",
-      "ext": "./quickjs/花猪影视[V2].js"
-    },
-    {
       "key": "drpy_js_酷客影院",
       "name": "酷客",
       "type": 3,
@@ -191,13 +148,6 @@
       "changeable": 1,
       "api": "./JavaScript/lib/drpy2.min.js",
       "ext": "./quickjs/酷客影院.js"
-    },
-    {
-      "key": "drpy_js_新视觉影院",
-      "name": "视觉",
-      "type": 3,
-      "api": "./JavaScript/lib/drpy2.min.js",
-      "ext": "./quickjs/新视觉影院.js"
     },
     {
       "key": "drpy_js_两个BT",
@@ -259,15 +209,6 @@
       "changeable": 1,
       "api": "./JavaScript/lib/drpy2.min.js",
       "ext": "./quickjs/鸭鸭[V2].js"
-    },
-    {
-      "key": "drpy_js_蛋蛋",
-      "name": "蛋蛋",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "./JavaScript/lib/drpy2.min.js",
-      "ext": "./quickjs/萌蛋蛋[V2].js"
     },
     {
       "key": "drpy_js_创艺",
