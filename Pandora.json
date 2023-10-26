@@ -277,13 +277,13 @@
       "changeable": 1
     },
     {
-      "key": "迪迪",
-      "name": "安迪┃YsV2",
+      "key": "世界",
+      "name": "世界┃YsV2",
       "api": "csp_AppYsV2",
       "type": 3,
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://api123.adys.app/xgapp.php/v3/"
+      "ext": "http://106.52.241.21:83/api.php/app/"
     },
     {
       "key": "速看100",
