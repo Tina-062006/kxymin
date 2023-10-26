@@ -40,7 +40,7 @@
       "changeable": 1,
       "ext": "./pyramid/py_cctv.py"
     },
-   {
+    {
       "key": "Czsapp",
       "name": "厂长┃直连",
       "type": 3,
