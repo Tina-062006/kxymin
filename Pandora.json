@@ -8,8 +8,7 @@
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
-      "changeable": 0,
-      "ext": "./json/douban.json"
+      "changeable": 0
     },
     {
       "key": "csp_WoGG",
