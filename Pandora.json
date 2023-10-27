@@ -645,9 +645,9 @@
   ],
   "lives": [
     {
-      "name": "live",
+      "name": "直播",
       "type": 0,
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
+      "url": "http://111.67.196.181/zhibo.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
