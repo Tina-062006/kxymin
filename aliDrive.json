@@ -13,12 +13,63 @@
   "wallpaper": "",
   "sites": [
     {
+      "key": "csp_Sp360",
+      "name": "360┃弹幕",
+      "type": 3,
+      "api": "csp_Sp360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "danmu": true
+      },
+      "timeout": 30
+    },
+    {
+      "key": "csp_Jiohub",
+      "name": "JIOhub┃弹幕",
+      "type": 3,
+      "api": "csp_Jiohub",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "danmu": true
+      },
+      "timeout": 30
+    },
+    {
+      "key": "csp_Jojo",
+      "name": "JOJO┃弹幕",
+      "type": 3,
+      "api": "csp_Jojo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "danmu": true
+      },
+      "timeout": 30
+    },
+    {
       "key": "csp_Kuaikan",
       "name": "快看",
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
       "changeable": 1
+    },
+    {
+      "key": "賤賤",
+      "name": "荐片",
+      "type": 3,
+      "api": "csp_Jianpian",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "./json/jianpian.json"
     },
     {
       "key": "csp_Mayiys",
@@ -136,15 +187,6 @@
       "changeable": 1,
       "filterable": 1,
       "ext": "./lib/tokenm.json$$$https://wobge.run.goorm.io$$$1"
-    },
-    {
-      "key": "賤賤",
-      "name": "荐片",
-      "type": 3,
-      "api": "csp_Jianpian",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "./json/jianpian.json"
     },
     {
       "key": "迪迪",
