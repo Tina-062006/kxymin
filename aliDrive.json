@@ -282,7 +282,7 @@
     },
     {
       "key": "找資源",
-      "name": "找資源",
+      "name": "找資源┃阿里",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
