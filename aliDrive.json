@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/aliDrive.jar;md5;70d0368fbb139410bec3b40d8f1b041e",
+  "spider": "./jar/aliDrive.jar;md5;a120ea4deac5ec9ff0fcb03a81f89f63",
   "lives": [
     {
       "name": "综合",
@@ -66,41 +66,76 @@
     },
     {
       "key": "Wogg",
-      "name": "玩偶",
+      "name": "玩偶|阿里",
       "type": 3,
       "api": "csp_Wogg",
-      "searchable": 1,
+      "quickSearch": 1,
       "changeable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt$$$https://wogg.xyz/"
+      "filterable": 1,
+      "ext": "./lib/tokenm.json$$$https://wogg.xyz/$$$null$$$1"
     },
     {
-      "key": "Wobg",
-      "name": "表哥",
+      "key": "Hdhive",
+      "name": "影巢|网盘",
       "type": 3,
-      "api": "csp_Wobg",
-      "searchable": 1,
+      "api": "csp_Hdhive",
+      "quickSearch": 1,
       "changeable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt$$$"
+      "filterable": 1,
+      "ext": "./lib/tokenm.json$$$null$$$1"
+    },
+    {
+      "key": "Ppxzy",
+      "name": "皮皮虾|网盘",
+      "type": 3,
+      "api": "csp_Ppxzy",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "./lib/tokenm.json$$$https://ppxzy.net/$$$null$$$1"
     },
     {
       "key": "4KHDR",
-      "name": "4KHDR",
+      "name": "4KHDR|网盘",
       "type": 3,
       "api": "csp_FourKHDR",
-      "searchable": 1,
+      "quickSearch": 1,
       "changeable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt$$$http://127.0.0.1:9978/file/4khdr.txt",
-      "timeout": 60
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "./lib/tokenm.json$$$./lib/4khdr.txt$$$1"
     },
     {
       "key": "校长影视",
-      "name": "校长",
+      "name": "校长|网盘",
       "type": 3,
       "api": "csp_XiaoZhang",
-      "searchable": 1,
+      "quickSearch": 1,
       "changeable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt",
-      "timeout": 30
+      "filterable": 1,
+      "timeout": 30,
+      "ext": "./lib/tokenm.json$$$null$$$1"
+    },
+    {
+      "key": "团长资源",
+      "name": "团长|网盘",
+      "type": 3,
+      "api": "csp_TZFile",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30,
+      "ext": "./lib/tokenm.json$$$null$$$1"
+    },
+    {
+      "key": "Wobg",
+      "name": "表哥|网盘",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "./lib/tokenm.json$$$https://wobge.run.goorm.io$$$1"
     },
     {
       "key": "賤賤",
@@ -110,25 +145,6 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "./json/jianpian.json"
-    },
-    {
-      "key": "Ppxzy",
-      "name": "皮皮虾|网盘",
-      "type": 3,
-      "api": "csp_Ppxzy",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt$$$https://ppxzy.net/"
-    },
-    {
-      "key": "csp_Hdhive",
-      "name": "影巢",
-      "type": 3,
-      "api": "csp_Hdhive",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt",
-      "timeout": 30
     },
     {
       "key": "迪迪",
