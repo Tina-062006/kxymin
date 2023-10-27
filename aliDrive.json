@@ -123,7 +123,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "ext": "./lib/tokenm.json$$$https://wogg.xyz/$$$null$$$1"
+      "ext": "http://127.0.0.1:9978/file/tvfan/cookie.txt$$$https://wogg.xyz/$$$null$$$1"
     },
     {
       "key": "Hdhive",
@@ -133,7 +133,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "ext": "./lib/tokenm.json$$$null$$$1"
+      "ext": "http://127.0.0.1:9978/file/tvfan/cookie.txt$$$null$$$1"
     },
     {
       "key": "Ppxzy",
@@ -143,7 +143,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "ext": "./lib/tokenm.json$$$https://ppxzy.net/$$$null$$$1"
+      "ext": "http://127.0.0.1:9978/file/tvfan/cookie.txt$$$https://ppxzy.net/$$$null$$$1"
     },
     {
       "key": "4KHDR",
@@ -154,7 +154,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$./lib/4khdr.txt$$$1"
+      "ext": "http://127.0.0.1:9978/file/tvfan/cookie.txt$$$./lib/4khdr.txt$$$1"
     },
     {
       "key": "校长影视",
@@ -165,7 +165,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "./lib/tokenm.json$$$null$$$1"
+      "ext": "http://127.0.0.1:9978/file/tvfan/cookie.txt$$$null$$$1"
     },
     {
       "key": "团长资源",
@@ -176,7 +176,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "./lib/tokenm.json$$$null$$$1"
+      "ext": "http://127.0.0.1:9978/file/tvfan/cookie.txt$$$null$$$1"
     },
     {
       "key": "Wobg",
@@ -186,7 +186,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "ext": "./lib/tokenm.json$$$https://wobge.run.goorm.io$$$1"
+      "ext": "http://127.0.0.1:9978/file/tvfan/cookie.txt$$$https://wobge.run.goorm.io$$$1"
     },
     {
       "key": "迪迪",
@@ -247,7 +247,7 @@
       "api": "csp_Gitcafe",
       "searchable": 1,
       "changeable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.json",
+      "ext": "http://127.0.0.1:9978/file/tvfan/cookie.txt",
       "timeout": 30
     },
     {
@@ -257,7 +257,7 @@
       "api": "csp_XiaoZhiTiao",
       "searchable": 1,
       "changeable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.json",
+      "ext": "http://127.0.0.1:9978/file/tvfan/cookie.txt",
       "timeout": 30
     },
     {
