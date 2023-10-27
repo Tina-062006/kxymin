@@ -381,7 +381,7 @@
     },
     {
       "key": "本地",
-      "name": "本地┃数据",
+      "name": "本地┃文件",
       "type": 3,
       "api": "csp_Local",
       "searchable": 0,
