@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;77f83df61dccdda0e660148285fcc94a",
+  "spider": "./jar/custom_spider.jar;md5;d0ae5fa6fb705a6c020f930a73f44714",
   "sites": [
     {
       "key": "豆瓣",
@@ -30,6 +30,14 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "./json/jianpian.json"
+    },
+    {
+      "key": "酷狗",
+      "name": "酷狗",
+      "type": 3,
+      "api": "csp_Kugou",
+      "searchable": 0,
+      "changeable": 0
     },
     {
       "key": "drpy_js_酷云77",
