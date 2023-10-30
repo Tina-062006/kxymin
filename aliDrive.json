@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/aliDrive.jar;md5;a120ea4deac5ec9ff0fcb03a81f89f63",
+  "spider": "./jar/aliDrive.jar;md5;3386516abf2232e804de20b9c61d07f2",
   "lives": [
     {
       "name": "综合",
@@ -25,6 +25,15 @@
         "danmu": true
       },
       "timeout": 30
+    },
+    {
+      "key": "NanGua",
+      "name": "南瓜|弹幕",
+      "type": 3,
+      "api": "csp_NanGua",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "null$$$1"
     },
     {
       "key": "csp_Jiohub",
@@ -133,6 +142,24 @@
       "changeable": 1,
       "filterable": 1,
       "ext": "http://127.0.0.1:9978/file/tvfan/cookie.txt$$$https://wogg.xyz/$$$null$$$1"
+    },
+    {
+      "key": "新6V",
+      "name": "新6V|网盘",
+      "type": 3,
+      "api": "csp_Xb6v",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "ext": "http://127.0.0.1:9978/file/tvfan/cookie.txt$$$http://www.xb6v.com$$$null$$$1"
+    },
+    {
+      "key": "酷狗",
+      "name": "酷狗",
+      "type": 3,
+      "api": "csp_Kugou",
+      "searchable": 0,
+      "changeable": 0
     },
     {
       "key": "Hdhive",
