@@ -114,7 +114,48 @@
       "type": 3,
       "api": "csp_Appto",
       "playerType": 2,
-      "ext": "CFlDNYd/CKcMAmYOm0LdDmG7FJ/U6ccjlpig+SuPsdbrFUss0huqjjVPO2RGZOLB6XauQ9sy2FsQy6L03sX2WkP6Zw5+bMtri/fvaN3jLYosYILZwS0s4Gwd6q5IRBVcQau24w896hol/NHlKEh9TeEQSsrGnCX3rESd13TCMX7FaXTTRTNRCyNSG5TXTm5GwYWPKq53NUtzUr88MogSWnUN1EnelRGgA/XEAyabS2a6zORTk0zmc3WT1Uc73isn7i0ESgKpFZNg4K0T63qt6O93G4rrHAqetpAtJB3uXt4EzU2spafDli0GBb9J+d8VUDNuI1NYjQR1RnNSgX+/ObxweibPOk8nAyT4l8kHI9sAHJqhwu22b3zVDNsxdN13Lchr2QedxDiM/LVueBUTbI1dxDkwbosUpEjJMZohJ8XMmqqpOlhWo6A4+14GrYkY648U7mBwkqYpcFUoUL1cvQi4K1H3TVgNqWO+A8XOYjGj3bNiqnHYckGjVFfHbbuACA8ygtriWg54ipYIEXv3kmBKXORETVRsXUbeJpYBZ9Io0G5CpxHUwF2vpTQPq2tu9S8Ptf25L/W7d33OYBqtY1rm8i/wMF7rjbHU6ewcd3r+p02cyafv91oafvFjwpEcbFMB1QTa7JSP6FVo4bBRQaz3E3ozaAs/09KyEYWjJmQyuQZ121Fa5Tuto8ipBCqDtfF1+cZQJSxELxCG4OmfzlTqo5JxF5ewjMXegzMfcrsdM8K6vYKxJpzSwwmYo5kcSiypbGaD2kqKqGaNI1nHq3mRs23rKxljBFFxrWJDje0n1/lNTPy4OlByJ4aSUK68WhQdcG/W/92j++5wWXuofygfAxXuYgOY9aTnjstqMszzASU66MNubEy91a4KL3uBFJFnzhjthHLmcV7JkmZCE7jR2PVUtwH3lM6fTVpSMCXFL7Ycywr74+IpDpHFZpTsAYCP5WyKZ8nlr+ENEY0yjT+Kd/YSs6vFGnx7JQi2+DH+k5UkIS/kJRqzVV7vau4HZ"
+      "ext": "DSbE+KpcBtRWBdmGm2vYjvi2Rz5VesfFfszzvYYuwmQMnBadKQ19Z24s6IZXXPbeXykd2xCuPpxea8FLe6uzVLAseGl5jXCQYYWn7216fCcEvsaHfaQl5W2jNZrLi69+vODKQNXWPAqLSdG6+JABKeMM1wUYaiUQ8qZqNKSfa2l6sEWIWiIi6Gtw6yp/dEpaQZuWWGnZsMu0xpe7i+VJyGA1S5gY6n5MS0vDEaZKPOElG3MgeX4PPEU3kRLaYbTiEzL952EiCwVHk6lVO3b/+yaA12AO6dIG7sOhIOREdaboVWQswQlBDpoP6PSWiox/BIsiHyIpSJRAv5Q1KaxQPoVxEXCkoZh863RD5CGdcE8LW1yN80yZOkRevkzAUVD4YeUAjLboPQ4fKGprJEEC2Q+osy3qvyHub5W9mFqNGbzYjG/DRLNp+630c1E0tT9eM6wN8MEa9ZG6+8C5jbMCExcEKl6biED8R/kICMa/prDD90I52alxWDHsXQWbQkEx+lrGPp9tZLP/P7hA04QryUoI3WA/RTQEGpA3VQ+kdJq4eBunH0V6slutTdKGxBrATyZVch1E0BCDy2wClbhQCCHA6xxxDG8R+vDPjY/FHmOIpTFwjnfWs2MnUGUP+gPJ0CqoDLLKBKUGsp/0Xq9x3BnhwJ+vs8qCbfo0EzF4qA2+a9T/fICKp/UyPY2PFkBVTJGOWnEYESS1ZN2bBAar0oMmHjRQtkKzWJAkuH1j6aOqv41vctwC0z+ddFYybmQDRxrch+eJ6zD019GxLDoBOWIaO20Oggq4h633qbgWu9TmXOBS1+jdfMdxFRGOm9eRyCjMpBm7XsJDlahFtq2L5tnP27JRgMCBH3AAwXusna/R4NI5nbPER7dSeQUh5eXc/3T6uPk82X2Jc89+sMHEsOV4P0igX77EDqMXg9xWSAYH7fYaXfvappRITZrcLirJ5HAB548s1PxSWrPGUVHYoEzlGN0W0KLDYHfy/+mZJ8cQcAn5XztXDkjNJULaX4c9/"
+    },
+    {
+      "key": "喵喵",
+      "name": "喵喵┃App",
+      "type": 3,
+      "api": "csp_Appto",
+      "playerType": 2,
+      "ext": "LV06Bwf1IqCvCECepSCn4qV2bM4V8EBht1OE3hBzrH9GyAa8/a41aynh8h0yAhuYumDP/bS0DA1QnbmPRQKyikp05fgrDnFaxHJFP287vblsUg3Q5QwZlm5WEp4xp0L/HjE+V5fYmLwo8aZAblR9YJvgraRiCBewvH9+cWN+TR7iTBufOdDXsDZpY4vUy6XvHMx2+qkgXCSU5yYvuErBsEDKS2PuGmDmHBpq5W6xZ3xHZZQfZreVaKwt8LElzh5RaVKRn5NbEChpQt2C0wqPmedbjpgu/GYH/LLceQUK5w0LMUZKBAQo6PTwgSgkzolcJnzperBpnIhC7uY+n8a3D9UZB8KDx+wsqai9M9bH5d5+/3flwaYMEVRmmOMgtGxAQr0wqhFltPCEtDvnHltBj6MZitjQZV1Tta0nwoP2awf2R3JIYwm7S5ph4m8RWts/SGrD/n9NrmRnB5rLa0M6VHMGp+s/kXzHmul50DmOXQryhMOg+V+z5kFucczLSCLBur4bqaVuAKo57Wcn1Tle61LOpqWBwEL3m9nZ9ht3vrIncP3dRvwAvgos1eGhlQuQJX9cyR7nV5D8nnEGDQ0nFnDx1Ub6gK48gpItiVE3657JLlaq/d1NszzvxwREtCnOpfFWT03o3VHwR9tDPsz7L2wj6BQr7Zo7X/Vqu4bbL2CI="
+    },
+    {
+      "key": "黑夜",
+      "name": "黑夜┃App",
+      "type": 3,
+      "api": "csp_DDMJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 2,
+      "filterable": 0,
+      "ext": "WEsYYDEDe6UIv+lLoR1ZFtw/KalgoC77ziQ/i1e0G5lahN54qE13n3chXS953b6h1mDPSqWgnaBubrHoosxDmwcpULYyPtPTF31PHWfgjFED47XFXittwD+aj6u7iwvDOn/F3QvmT/XzOCoa/YkFlgQyfGyxHC26vvAlZcSyiUp9RsZtlXZ9Qe3ZpLGXuJYIhroOFpm0veOnGvw4sZUKFrRNG1hxcvBIxxJj0ALpb13muDjYXHJa26n0UUaBP5/x4SZk1SdinjGsSNX3eSlUKgDRwkF3oZcEtZdTseqiMroULgJfZBFOkPhv38SPXqlxq8Ig/7rFOdntpbCeirTw+NidxizzL3pSH4LYNREEIKOzV5qILPoAUs7p7vw8Lf9POoKCXekDSMGE7+xCQyrHXYQ7Z89FW+fjkLb2PZYAmRWpSfU1aOdsgKeADNaKEOfIcRkaXzN5r+pVv+IU3NF7jOGxHBw2sGVMhYzghAX6E4gQbxxJVxjTtxWXP41mJruCTT2XhvgGesauv5DZ8ORHfMTKpdwnasnlNxojBHhGgpqEAjfsxx18njoq5L719mm+RUVtOxc7cJYqgbrQSpxAp5DHS7SRnzlqC9An/5n1Rjm/48kOoUFcOfoHsn/mYow4f8ZXI5lXsDrXnk5Zk/HQgelqhihJty1oHds/mf/1v1NU="
+    },
+    {
+      "key": "米米",
+      "name": "米米┃App",
+      "type": 3,
+      "api": "csp_DDMJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 2,
+      "filterable": 0,
+      "ext": "DDPPIfyShZxQ154/utlPF1naqTQcMDOmqpopjnqNkaiODaBK1eiH8S/0ZGwxTZBu93dwNhNWyqW4e0myFe6UmeL6FnysFEWbpfrvi2uTaxzo86AJdls+tdoKt4GQz71TzuSX1CZTT7GGqh6LBGNXCJsjg2L6rAhXbc21IdyFJiyAZx5CxbKOKOmCbeoqBDQt36Gx1blf9VlDDtl38ien24KYmaIrVHoXyhN2vT5fiWIgGMu/UMjUHs72A7TYtibto95bi//iMcW22E9Z946L1DybjZdxoeNT58e2DtV/SxNs4whmY53kyzX+tU8W2cmJA1EHxxnprBvSQWgP9uMxODg/pNFEWpS/YcfXpuXMAc/bJM4hiGqQQ+PlP9m/d30n/vMVL9Z00GpbDnLieshXkBYE77GtHgolz/IVzPXV2ytFhqZ9HgbdzNL+fqQsGlmSf4Tg/3rgAKfXmEnekKPccJg5WZBJpjN/RN3O2yqxDUx6n0veolUXDxHZeS9f4ZGzmQbHTJXdMSEnSRX63f1tUuGj0gvQI+0icEEYzlcdLGD1NQFqUQ9DB0t5uqs5qBK3VMUK/Pr4mQQwAmRkWMCmmdM+O1S2zABPXcnAxBIjSCCAuiVLwCiuxVuUKjDnkKuMqHYVX4+3HoZ863GupCPAg2StZWK57sDccD+fJSafAN04="
+    },
+    {
+      "key": "牛牛",
+      "name": "牛牛┃App",
+      "type": 3,
+      "api": "csp_DDMJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 2,
+      "filterable": 0,
+      "ext": "CNqqFtCcPXKwvzNx8h0f39FSrMjlRkd6eazlH/vOWndmDyJ37oLvYpzWcqjfpJdQjUIU9QuCtwz7ER/PznQXpvhL9EO6F1XqE8CLbKJxgDLZQZ5XFwroVgHQRKJ1gBIB5Bcl5z0njgoyClNDJAWnty1KGpq7m7vNT6YXYrWkfVpK/xpqisW5RSjieUV6rk12bdL7/xCdX8LLjmf0fF87EKrCCoggoF2lcIid2WQSkkZlkcooAbz84SLWiA+3DpRbCX8Oh+a3AHT+eHzcqkH4cr8Xh/OO5fiDmidUdx2VWPpO6XIvltfFT6lDUnK8KHAXJ3NcFrU/lgJWRJZkSDwtEURFDB24RCUmCLoEnjUT72Mq6h9ZbRQQ5aVwHZvoUUdiGKrkHKy4hpY9j8KMWiIvhcvu28VwvAt/otJCUyNu99t4pnia4ER0M5N1tSR6IcwmxpjcAoiNErijhgMX1DHl3Y2fOTpDMH3Ndsr3t0xXaymlIGQnll+tYvd6ILclp7uDQYSDqZyp6H0PTf2En1K11fuB8AQYGrs+4VBZF0Uf4Fbqj7cPbmLFLjAIxXc9NeOI/yTICCBVv9/s/m0TVXmZoTfIjRo1XPwodlWZKOD3x4uz5B6DoQ+/MlQExOZVEKDzcqtZDfQzMiAGdTGi86qXe7iZgaDvywe2AIVOKTpttbq0="
     },
     {
       "key": "嘿嘿",
@@ -123,8 +164,9 @@
       "api": "csp_DDMJ",
       "searchable": 1,
       "quickSearch": 1,
+      "playerType": 2,
       "filterable": 0,
-      "ext": "http://43.248.129.116:6688/appto/v1"
+      "ext": "ENnRz/ih1l1c66N6BKFOz+YBuSQ9MLSIBiAZlncrjRjTTZLY5CLlI3oumb/OprDun/JzBv3XY6Dc8lfVB0P9b9tMf9CfR/6c+hvNyc8mNR69yCBfLyi4ao8Fd/OopJkf3OcGcg1thSSUDnMeVkSmetn4rDOY5DrRy2mAzg/Or984N1BHSVwdPoWt24CC+8LaBws6uTMruROR+L7CliEDYnYCy9YTzqMt1XRkc6Cq5uHyiSIKemgPUymHu2fAlqNq/9WfwSciXCKpgcJmNCd7QpiBBQRqjem/F2zQ0wDMhRJfggvkGB+z+4nttmt9b7eD33X24h8kRxoFbeTJ3QRiIfI24H0TxUm6TJFYHEa6DgTNEVpQ8ELDtBJz5rA3ThOYAyePCf8pC4Y4nfZUBiJ7gUNJ9sOBUgSgFwa0badfvf8KtA1jLjTBqekzuwr6sFCb0i2iYreH6+m2micxUzpBVdn5NmkaSP86xhYLIrCdew5XZBFexVpVTcEDdpN7G4wWd/5/OuVTlkxGBEvKFt3uxcLH2e32LhaBoPAkuBtnoOrnuaGWmEMRpxBPA5tkA+qJ5hAs43Q6T33WdHCMyhJTP5y0bO871P/UowIaM+ZcLhs9YdmcassMZIr/wxVrbSHgW/Yh2eERZ0n6Zzn5qxZv72zxtSPrJd8NQ5zu8geZlZ30="
     },
     {
       "key": "艾艾",
@@ -132,46 +174,22 @@
       "type": 3,
       "api": "csp_Appto",
       "playerType": 2,
-      "ext": "hcAuLY8Gg7Eb0oRkB84jw+9rQLeiFinDuZH5RMmF6KKO8irmlYhtPQnzRpQe4LPY98R+w/5FmQ0qHpjZJi2IO6Jhj3g50wP9mK/hGAw0EyahT8kphU0Uq+3kgSSMo7xszUGN9EwRotCqpXDfs2g4Cb/mdPhy8Q3I+QIck7eFAPLquyGgZS9WsK/GEwH5WbMKWMQxEhakYUrj0NV1WwSeHOVAuhsgn+Pewj71uD4AOk2UzeTmLbhwvqrRo5zcYCdCzh+e3pUpbuAtK/zaxi7r64ASfqb64bP8TPizK03pSz4b5ksSfBXaFY9HgVOl1ybO7EZS5fttTHxgPNslV+JC3Xhci41Dw8TnXR4ou92WZsj+X9bJAJlDOmLERN0e8hael2DuBA1AR1HaYpSbxPioonGsbr3SheAKfra/RvtjVXciKokPaWRxCNPSlZF8+wKsr9UG4IC35I07Xf5VHfdr9fOH1cCxi+JIS6tZDWg3B858ae1tm24USJsLnHhx2gG/j0X+h0Z4uCCA/uFPqJNZZJ56EqiyG3ZHfdDr0hwKbPTXi1IYSzLz/sYovi1dubRG+ht7C4yaYaZgjllWpkM2i8sG9vvpzF0YXuPrCDEg0B2x+KFpgnMZ2sfY864BRWI5z7JMt4rZhiE2la+PJ3Bw5e+C5/o8UJ4iR0CsirL03EFU="
+      "ext": "cmx8moYeCnvhEzzoIqDwiozurCMvY5XTmR+ZwTbv+7bvpEPAt2XLw0Op8RypDuoKGJLmD4myErADmLF/cx9QoQMDBTapbZxkouCm/bw+1AWuBCBnDQFCgXrw3I4lAGTaJfY0coVBSqSJ77BW5OATwkB4IfwqtWu7xXwlbEHFUsGRESh6g7VHmnFp0q4L+ohf5PkjTcyaMxjWM9FH+XOoji5ItsDhuWiFWOaRFw26Z6W8naU8v05Br77nFJteyk0MT630gW0aZEtB/J13mBmsT2tjhiuLZ+9lZq3DQk81VqABKYRXH6uauLeDBZj699Qe0A7BE+0l/tlAKV8RIvDWj6xgQeOHDZM/+D8moBHveF8j3terhJRfsAj/ukKkvdzehYA/wWrzulwpU1K4WE4OMVb/UoMiLzJijTdC1TdkmMKnXzZgKp3TJuUiPv9qi58BSRlLyY1GRHvjhBya0KEodI9QPAHqOAaW6Z2lADJc4uwImiN0UAug26SHIzWDoJ8P+0APXMA5OzqTwQ5PlGISfCChHlI4fBKRSWGiJNzVO9NxjB+9fi1d5Pp5sHegNVpuvHs3jhCg2C9Wyqwl1UA6+BxKADG2FpFHacAd1OrH7kidPzRWm8mwb202QT0+tJbtjQExHQfNuxLaZXISixJsQP7GKBBUQernokP5U1Qj2rbo="
     },
     {
-      "key": "一念",
-      "name": "一念┃App",
+      "key": "星星",
+      "name": "星星┃App",
       "type": 3,
       "api": "csp_Appto",
       "playerType": 2,
-      "ext": "yrIdeTFfxrkq9UvyKZnbLq9caaIWePeKL6cLZDZxYOmDgIouFUVo4Bsh22zcdykx//v8INTboXgkF6k/hzW4AdvVSV4fjbadGOQU76bjLG4k3jxKTY+xO50XMu8IWDt5JUub5N4gq6GaV8M1BYVPds+mvg9wbU2SJsDlNmuORiRoYX5O7qDa81wfD1CrMI+/yXd2/WntcjuEhzed5pOPeoHyGC1Dee193fv6Lv818/086WNyi7N0bOVIupfVRAG7uR5lf5yzVo4GCRzu7F43avlCGkrCsaDRViAHc7lH86ByvTcJmZuSZGB7z1LhRbhCQdhzhqxwG0FVyjiYYuZTsACNSiWS40vfHQ3EpcPcPswsanYPVGtrbR9szQ08m4XJFby35tQ+aPrMHnGgM1XSbXNWiGXp+A+rHy1ThgplOTg5YW/fRqofHX/Rlr+Za1kB3HHbgonRaZ/Wm7m8MSavBJifRZ8v/OR3biqX/ukomXcd1cDoum3k9YMjPWr6g1RovGmkXXf2SejmjguOI20bwCR60+K2aYoZ3/9+uXOHQ21MwOt1Kgi0usRaM5YOlibR552nzCihagz4nn9sdWruwP0gy8NKh2OsJT9dZHYHhiRk6Tig01Wb+fASc7ak2F9dF0BkJUWxmNLwd/eRMIqwgsaw5r2wHKuy7M9q5RYPOLZY="
-    },
-    {
-      "key": "橘子",
-      "name": "橘子┃App",
-      "type": 3,
-      "api": "csp_Appto",
-      "playerType": 2,
-      "ext": "fkZrXkPqoMrR/SQqKB9jozxS0LSzV9ubNLxjyKHB8x3/Q758oMiZwxmQ3W1fko0MarADgqAaKuKxV+sloWG8m1J25td2yHhpMHTxfk2C4Br9NnPiOG0noveXt6BGEoX5Lncs7dTJnlxnX7m2uj61CLQMrhnt3an0fGkuLPho/4RzaepFzAJ+nuRarfKG9ps11QBQtnKdaOQ9Ug8GSw1qFv7J9ySON/M8WKJ1MX+K/ABfEPZHlAwmBTmeXkEfro4a71SFIiQi2rqazyZIQq9utjn0S4Ur4/heOOA8xnoqM4qsQTSozPxKIej/2ZoosJTnYEMyR8i4pG8qwysCeaFf/24trdAklsDxDwv0ZJUnEi21WmdQUd/MY7cdH4iEUQOOpRzHtUv5BB0TXqCOodXLjap+T/sSuAKu2s5Jo/gr0HbpD/f4goQlLBazQt9xtV8Nl2ZUQzP5NtYdH1nIiyoaXEPWDBg0TXUTW9eBJN74kX4fYg+66Zeojxy/oYk4nFr8fo1vTr75YbEL1alCtJfTty1xM/3tteFKTmqRmci9O9lvS8xuXQFxqCbPt3LD+ki5P/FIZiRyhJ6B+lHPUB4QmnMJcunGs9jjwmumLXbQ7U/G8D4Az9dFOOXDH8C0eKFEdzomQoFJ7WttO7ExNmcWqSWvN9TtB/7/BSGSIRwvkXbo="
-    },
-    {
-      "key": "喵喵",
-      "name": "喵喵┃App",
-      "type": 3,
-      "api": "csp_Appto",
-      "playerType": 2,
-      "ext": "KYc9VRSTOMJj9D7uMMJpPGloADLlNsvMuFsclnW5lhcvSeYUSGYrQEL5P1dPhEJJsv3BeBSJKD8AxB0XHl7uxbh/zYh8GbvW0JojCT7GF+P3cGHWye9FRYXycQT5ySldvDwOotu/+MnANqJwFZYCf1dv08B/z7150ToNJgh9XEk6yfyzy3DC7y6r1v4qjpCGdlZ0YzElShksxlSgRSqoX5tq+7mTe0YzLCHe3HL8h9H9mDxVv85HlPZigXsY1lWDoA27Z7b477FqU3UsOSKOeJiq/FvLx5x9W2EadFGuFMm7UeCU1HqdttlZxQmyGdzZorzFxde9sgZVV2MI9PkNzh03KLRy0j69J0yH6/djoFdJFoiOtHQ2qtlQk+7XnHk55NyuDe0eQt/RGdGJeJ5n4HjbB0MbT3FwWQZlbsums59LP0Lglz7TUT3BZZlcrqYWg3OJI9O9OYMw+5HbWpSIVeUb3DXUvT8tBBJCOnpfNmWGgOmTDKpgy602V8XK2YD50g3AoDLDY8W1ce+7lfaQIZoLRJ/ySb0DCGelW48hi8SrpwOhfymmI75DLtF8SnqxFAT9dEEPXvv4U96ELnwvQrM/oshZjyxZuHGxHNOOXZcBNfBOonz0MLCPpnP8xbk3LF6+hRxf5EN1MbVZdgcMMwqIB7p0vzsV/P4zd5rNGqkc="
-    },
-    {
-      "key": "布蕾",
-      "name": "布蕾┃App",
-      "type": 3,
-      "api": "csp_Appto",
-      "playerType": 2,
-      "ext": "lPqiPbx8qLxXb6HVYNhMnH5WJnAiwTNBgFWCRKUfW7O76MUnursQTz6bls9dG0mas+nafbRLmMd1CVOZ2RDB05Tn4BPmA4qQbyLXxlwjqNSs6aS7pXqkxKFPowc2fVOMBIBc/aZHFHoP6SJ1ZhsF3c+ZZY3QP+wiEBQvxnsysU45eINIcACJ+X6oqGj617fQsg4u2hgsL2s/ZEPwva5QJvDHiQw4PYWkUJz8ZSP1tLKElNY89+sJfVMpQlvwYIUoC4aSVflgrDsBTF41B/XGXRmJFDQD8xkwKVyeDxFLdWZnss/rVGhFuT76Hr+4a6McIm4GNAynoTmgRN+sNsxsHSSGxQuvWzVfkTIdmDCo+i0isXIJYpJmYNLGDX1jBS2t80UjaSxop/f07Kfg84W9otpxaUdBl7VhRbtfasrImOzq9GU8OK1caypKCaOnzQh1yrjL2bZGmC9nrONVUQdulALKqzVfcsaHEizP7eEz+RSk34mR0ekzZ8WakWy0VxmMUuYb8/zonp0RsqYEjx3Td98c8tph1khVjGuU0VD1ei/3z7aNtGvPtus41dNx5Vo5F1cLy2826CJ8mYlvd4rCcp4UT3SmKMGVOwjTQE8EvzQQ0Aljsx81LJMtFrQKja1mxn3P+xrUsGOldsoL7l+mpflUvKX9mpyGDW9tKYOYrg0JcZ0aTBK7Sa1RtrOTwLLF2KGlT6Qsy3nENXPmNE2B3FaMh+VMwDkrE4sgRo0cZJfoyc+qUO+j6Ew02u/ph7hGv66pm8OVuxpJVEd/5l60nRYBa/0xaaxpSe2J85518wVBenZYU/jIK0VNLA8sW5TB5EDyyWKGHQ7NoyedI08NZb+6aiGwOujaDYxJMMLesjKFt8akY9Sy0f9lgNeTBX/JtK5NxkPXEITTv+BTMBDPjw01l+Zv30Tp4akoVewnLzM2Og+J6/xBHg4uq7GGljMLbflltqNpAmEC+Vqf9e20GukHD5MB9pKYvuZe4ME/wHGEpFvopSw0zjU0x6ZNKly+el8K4WWjR8g1hIeJcHQkbWDjh78pdmYGydY+PqneQ9Fz4UND85MOYmlQ4E0c+I2PUOftg0mc6X//9oGR1kbPs+9EyfmVdZysMJPiqcDIuIcB4l1RVpcw4QPMMMaSraQhAO0ATtPEZnzskGHx5uE+6u1WC3kPSn3DaPHKDFuhWaTJRxZ6inCrNtQDmliWaEHz4s07b55tS7GpFWTEvJATEVzzISijcjDDyufzCE/OLJKAghDrE5QwQ1wL3ebjLFsoRnMWy2WSiMZZZsPsaWnu0NI5IXqfzjVUwkomPLpOELm9qXo2OQsRpWyteZfvgzJyTlBJBEi/lHXMT1mrhZhOgDw=="
+      "ext": "CVWMgWK4zwEjifoFRK2CR8Xl8oapn7e5eRjRoTVQxUo+A/gsendkfJKoRry13/2QcqX1OSofED/BV4TTOS2+mb+jiMLfQ70+97Lkiet/ou/r7HqSiw9fNW+yoIgJd42Oa3flhPl9QxDacDSBirLUrK23xiDpN+Uxc+8GpadQ0dY9k40hUX1TXYjL2TzHUhfLDUqHiNGEQVmci6TMW7/nvPoMzfa+lhlEYtcNh28DH35sSVZ7fVInnblitRNTsaibGxuNgByPYrOrZ02n6KKS5sGQKoBM3wXRlnxXV/kfiVn1iCMYlG9uJDOFZJ7k0YrRDP5DpdyO+9VPJiddrDgvoSYRbKBOBvqJeyVo9454538Eypyq3I8o9TG60tmGflrEWrFBnYsIrIhfAMY+H2o/h9jqucpTvErbuEl8IM2py0X0qriXrXap04KPSqDM3wGCt72gXUhvbqe/BJJb2Lp6ZQUEbauFMBHwr6+sSM1geRp5eN9L7fD8JgFdmwDjOXe8vB5Oh6UuT1STBeNx7tm4V0JkACRG052YucNmOKbvYkpudHM34LOCRwAVOBlupoOpikoEp6u1QPN7jaz5BJqeua6ocd6ivWxyW4hqPvehJQFtNIBhQ0Rjn8oupd8ifJAGUZ9CBSypJdJMCxMTy2UkvFK7JxGUau/BAFcqQDd3268Q="
     },
     {
       "key": "mino",
       "name": "mino┃App",
       "type": 3,
       "api": "csp_Appto",
-      "ext": "NMWPi2eSTQHUuN+2iRE6M1AZfGzppP6c4M+INMBOKdXQVDkG6ouC48tgKxyhXeK3ffs0xZvy+VdVAtk2AogcvSzkKteChz4i4cDE0sHtrjPzAI8AWxK6lBWJhXsO/R8V5LPMx+cZkz06/iNOAoc2UulrooJZISsJLD3QZ+sgnFP0J4ozf6y2i6pNCmFQCfSZPDQHWONdqgqWmvZQa5J1IWyaPZslixkGd9ipZQSB0ljvoY6TrG1qm9eLAvVLHGNZz0DvFJEz3BjDFh3VK0b/3B0oaPtV0AryJqj9XvP1ygCHt3vMxU2D4Qu+NlUWCHxBh9MU9JJxyKGauc6F9fqGS6AmNH/4GNFfUY5VG3CBs/e1Cj9IAnuALDAFoFESaIejBXmZeJS00mZ7y13mA1hRC7jCDxi71bl71QNPG/HDvM6cxvr+obKJfW+XTsHrn81b7f0Cy0rRCiv5T7a0O4tIn1HukNimjbbZN7aQ4IIB6x9kH2tQy/hGCmC+KZiehalk8TjOVn3TvMoLBLC8gTm+GGjL84Ur4b91fglSqq+clKJtvqysTvS//HsUK2uZRBVmitsP5VV8ypunnJ637yMovsjHiN9NfvMep/qrzrUJDitMO8KDcArXr0n/GhLmfeuZibCpiHw4bRv1aRDNeWkFPmcSIIBDWIxyc6VSEfhHtNNaWVbAnM5t9NMPQSKiEEBJErfE1Ici1ty+yFbPWIsIFczZVPHUrXDO1A42gi8f/CWrExspzrdivP58o1h7XDT4Axvy93IjAeAsdmoWlbgoCzWnvXeJoT4nsda2ZQ9r2UIoqA7CS0crMqYvPtMn8SULAqUbl9e3Rmm5XAKKmgLB7xsmr4RexngO0bUdUaIdIQO0knv2hFD27neo9OGRkn6mfPWekmws5lNvNjRfWHs2A7XNA8HNYl+tfU+WVA70Xqc8YbpJ2spRwy3lcNaRp0PuveYLXdvduKLkmxUHAuLkr+gPCF5V+8AV7EZZNHKoRhNF+sceZU300oVincA76EoGQ"
+      "ext": "fh8U7wNn3pXsqSHAcUhbCFk1Gnxb4N15GDt5teG75ckHs93xqeB3AKSuWgs3nxEO48rjiOalDohd9E3z9fHhhM7j9C8M7XXelJmlf85e3h37KQ4PwTUnzaQTNsXY1B2Pt6tBVeDvv/7qKdEZ6RTb6HZ7N0EzXj+O9BJxBXNbVT1G9pv0fxh1H+ey10R+j0mMKmMBZtp1cgH9DqNp6oC4y0ALBbV5ffn9PiWGSuBNW5s/oTBV7p989ybGpiHTWKu82w6yqIJzL06UpuMlv9tZChOoHtBIC6p0BJNV6nUd20vTeVPVVDzYwE5vmtNj2UTC+cl5MdkYv4cgwbKCvPWCU25ouyjS8bSlOE8rVnzomNzdDU5Sqv5RGGn534uQ3lFTB446pUB42JMUoYrY9Y4ZHTvZSHDbiShj/tesQIT5r/nrFmFx+YdE9ST2htTrme5NSXmc9hPpPKlKGwpojLalAa8VmNYfyPbj85nZpTkYAT8osJjh/mHXZLM7ZmMR1+FVSV/dlxLpKdI3ifQid+hsYMyQpLKexXLr7B1FzaZ1NOlnrpquAckqtY/wTlOSBSG1DcuBwJnDcJ+nWOwtuD3mHoFlrTfXz93QyumOukj43aBMnEG4npv1ggZlg7kWpzW5OwaQboIlSp7RTonyxt82r3xPc9cMBlXFDPhwLaRvIOGE="
     },
     {
       "key": "YQKan",
