@@ -17,7 +17,7 @@
       "api": "csp_WoGG",
       "searchable": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$关"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://www.wogg.xyz/$$$关"
     },
     {
       "key": "YGP",
@@ -97,17 +97,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcpBF4MRDm4TvbCzxUxQS9bPrS+dwlqC+K21Byi2fnbN32ExknwkTyVnT4ZkO1NUAJnYhg/LOWYSnzESguc1X7n/JQ1wPh7lInAdzJ2qxzb2fKg8RZczmhg8lF/+BAMaZaqxv0MMB5dPInMBPwir"
-    },
-    {
-      "key": "快影",
-      "name": "快影┃App",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://iosa.xn--654a.cc/api.php/app/"
     },
     {
       "key": "追忆",
@@ -273,7 +262,7 @@
       "ext": "https://www.ysgc1.cc/"
     },
     {
-      "key": "新6V",
+      "key": "SixV",
       "name": "SixV┃磁力",
       "type": 3,
       "api": "csp_SixV",
@@ -290,22 +279,26 @@
       "changeable": 1
     },
     {
-      "key": "世界",
-      "name": "世界┃YsV2",
-      "api": "csp_AppYsV2",
+      "key": "快影",
+      "name": "快影┃App",
       "type": 3,
+      "api": "csp_AppYsV2",
+      "playerType": 2,
       "searchable": 1,
+      "quickSearch": 1,
       "changeable": 1,
-      "ext": "http://106.52.241.21:83/api.php/app/"
+      "ext": "http://iosa.xn--654a.cc/api.php/app/"
     },
     {
-      "key": "速看100",
-      "name": "速看┃YsV2",
+      "key": "迪迪",
+      "name": "迪迪┃App",
       "api": "csp_AppYsV2",
       "type": 3,
+      "playerType": 2,
       "searchable": 1,
+      "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://sk100.tv/api.php/app/"
+      "ext": "https://api123.adys.app/xgapp.php/v3/"
     },
     {
       "key": "csp_Dm84",
