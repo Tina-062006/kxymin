@@ -294,6 +294,15 @@
             "filterable": 1
         },
         {
+            "key": "涂城",
+            "name": "涂城┃App",
+            "type": 1,
+            "api": "http://124.222.116.5/mb/api.php/provide/vod/?ac=videolist",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "csp_BBB",
             "name": "哔哩哔哩",
             "type": 3,
