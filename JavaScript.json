@@ -1,14 +1,22 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;d0ae5fa6fb705a6c020f930a73f44714",
-  "sites": [
+  "spider": "./jar/custom_spider.jar;md5;2ea1762a8c802608c2222c7051709afc",
+  "sites": [    
     {
       "key": "豆瓣",
       "name": "豆瓣",
       "type": 3,
-      "api": "./JavaScript/lib/drpy2.min.js",
-      "changeable": 1,
+      "api": "csp_Douban",
       "searchable": 0,
-      "ext": "./JavaScript/drpy.js"
+      "changeable": 1,
+      "ext": "./json/douban.json"
+    },    
+    {
+      "key": "新6V",
+      "name": "新6V",
+      "type": 3,
+      "api": "csp_Xb6v",
+      "searchable": 1,
+      "changeable": 0
     },
     {
       "key": "玩偶",
