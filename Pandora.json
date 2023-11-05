@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/Pandora.jar;md5;231137143871d75a4495b028ee317672",
+  "spider": "./jar/Pandora.jar;md5;d65490382102d8e7d3bdbde44ca602f5",
   "wallpaper": "",
   "sites": [
     {
@@ -68,15 +68,6 @@
       "changeable": 1
     },
     {
-      "key": "极光",
-      "name": "极光┃App",
-      "type": 3,
-      "api": "csp_AppSK",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "FbjPcVZY48PN/RIZ5UWFro1kcspJGpZFEy1L9qCt0RcDCdqQ/iHaxETP6Le1Hyasa2eX33lg2zI+TmNzCMM4OldJXt6Q2B7ULz5M1CsK3w=="
-    },
-    {
       "key": "橘子",
       "name": "橘子┃App",
       "type": 3,
@@ -103,6 +94,15 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTvmeOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXbg8ZeqKSLCRI+/RRQBPc6vWx9MDProlGxbNkNVwDJ+xZqA3LjZmRIzHgX1pPRHIeXgUD1SnKnP50u+DrnDvAnzqAN4YbvKvEmRyu91mw5dothweuk0B210O5i9VKs/rU4uU1g5i9+xgl5lyke5uYNicyRgauyPMi/PGzF6pDzMihKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5kOayt6Ra40Irmh/M2AvZsLJYWpGzIW"
+    },
+    {
+      "key": "极光",
+      "name": "极光┃App",
+      "type": 3,
+      "api": "csp_AppSK",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "FbjPcVZY48PN/RIZ5UWFro1kcspJGpZFEy1L9qCt0RcDCdqQ/iHaxETP6Le1Hyasa2eX33lg2zI+TmNzCMM4OldJXt6Q2B7ULz5M1CsK3w=="
     },
     {
       "key": "觅视频",
@@ -136,9 +136,9 @@
       "name": "嗨嘢┃App",
       "type": 3,
       "api": "csp_AppMao",
-      "playerType": 2,
       "searchable": 1,
       "changeable": 1,
+      "playerType": 2,
       "ext": "FbjCcU1KqpC5p0RX4Q3D+NciPclIFs4EHzwZtdHSwE4eMJ/Nnh/51UHa3ZS8BimxKHKF1VAUtSsbdCQtWZJcTlUXW4DCv0KpS1xF01Vu5OxfAIXSOTBUA0DDZHsxv4WA2Sn7UdMuENMQpB9FkQKcTF50c7ySnFoRZu8EUWweBiyt6PwI+/Q2MNsbV+5oOVNTSDB91w82YAf2jCUH9xRPmpt2q6TAtRofVmJR1q4bVzFW3MrK3hWueIyRsyOllsj/P86fFmdEHuXnNydMv58nBxKvoLu9pNg="
     },
     {
