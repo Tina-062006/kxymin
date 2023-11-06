@@ -121,7 +121,7 @@
   ],
   "lives": [
     {
-      "name": "电视",
+      "name": "电视直播",
       "type": 0,
       "timeout": 60,
       "playerType": 2,
