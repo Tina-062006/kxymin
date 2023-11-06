@@ -81,7 +81,7 @@
       "changeable": 0,
       "ext": {
         "json": "./bili.json",
-        "cookie": "../json/cookie.txt"
+        "cookie": "./cookie.txt"
       }
     },
     {
@@ -95,7 +95,7 @@
       "changeable": 0,
       "ext": {
         "json": "./bili.json",
-        "cookie": "../json/cookie.txt"
+        "cookie": "./cookie.txt"
       }
     },
     {
