@@ -80,7 +80,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": {
-        "json": "./bili.json",
+        "json": "../json/bilibili.json",
         "cookie": "../json/cookie.txt"
       }
     },
