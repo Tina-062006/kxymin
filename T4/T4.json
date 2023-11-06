@@ -65,7 +65,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": {
-        "url": "json格式的分类的url"
+        "url": "./live.json"
       },
       "changeable": 0
     },
