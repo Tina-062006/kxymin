@@ -10,7 +10,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "token": "32位token/链接",
+        "token": "b793401f55244b2c83d5c80aa27376ad",
         "apiList": [
           {
             "name": "非凡",
@@ -25,8 +25,12 @@
             "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8"
           },
           {
-            "name": "T4/T0采集",
-            "api": "API地址"
+            "name": "玩偶",
+            "api": "http://home.jundie.top:9520/spider/csp_Wogg"
+          },
+          {
+            "name": "纸条",
+            "api": "http://home.jundie.top:9520/spider/cli_gitCafe"
           }
         ]
       },
@@ -76,8 +80,8 @@
       "filterable": 1,
       "changeable": 0,
       "ext": {
-        "json": "json格式的分类的url",
-        "cookie": "dict格式cookies"
+        "json": "./bili.json",
+        "cookie": "../json/cookie.txt"
       }
     },
     {
@@ -90,8 +94,8 @@
       "filterable": 1,
       "changeable": 0,
       "ext": {
-        "json": "json格式的分类的url",
-        "cookie": "dict格式cookies"
+        "json": "./bili.json",
+        "cookie": "../json/cookie.txt"
       }
     },
     {
@@ -121,7 +125,7 @@
       "type": 0,
       "timeout": 60,
       "playerType": 2,
-      "url": "直播地址",
+      "url": "http://111.67.196.181/zhibo.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}"
     }
   ],
