@@ -501,14 +501,9 @@
   ],
   "parses": [
     {
-      "name": "聚合1",
+      "name": "聚合",
       "type": 3,
       "url": "Demo"
-    },
-    {
-      "name": "聚合0",
-      "type": 3,
-      "url": "Web"
     },
     {
       "name": "00",
