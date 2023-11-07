@@ -25,10 +25,6 @@
             "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8"
           },
           {
-            "name": "快帆",
-            "api": "https://api.kuaifan.tv/api.php/provide/vod"
-          },
-          {
             "name": "乐播",
             "api": "https://lbapi9.com/api.php/provide/vod/from/lbm3u8"
           },
