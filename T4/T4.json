@@ -33,6 +33,14 @@
             "api": "https://api.ukuapi.com/api.php/provide/vod/from/ukm3u8"
           },
           {
+            "name": "涂城",
+            "api": "http://154.12.81.149/aatucheng/api.php/provide/vod"
+          },
+          {
+            "name": "玉米",
+            "api": "http://124.222.116.5/macos/api.php/provide/vod"
+          },
+          {
             "name": "纸条",
             "api": "http://home.jundie.top:9520/spider/cli_gitCafe"
           }
