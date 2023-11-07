@@ -29,10 +29,6 @@
             "api": "http://124.222.116.5/macos/api.php/provide/vod"
           },
           {
-            "name": "快帆",
-            "api": "https://api.kuaifan.tv/api.php/provide/vod"
-          },
-          {
             "name": "玩偶",
             "api": "http://home.jundie.top:9520/spider/csp_Wogg"
           },
