@@ -25,6 +25,10 @@
             "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8"
           },
           {
+            "name": "小猫",
+            "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/at/json/"
+          },
+          {
             "name": "玉米",
             "api": "http://124.222.116.5/macos/api.php/provide/vod"
           },
