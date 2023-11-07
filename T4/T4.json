@@ -16,7 +16,7 @@
             "name": "非凡",
             "api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8"
           },
-           {
+          {
             "name": "索尼",
             "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8"
           },
@@ -25,8 +25,12 @@
             "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8"
           },
           {
-            "name": "玉米",
-            "api": "http://124.222.116.5/macos/api.php/provide/vod"
+            "name": "乐播",
+            "api": "https://lbapi9.com/api.php/provide/vod/from/lbm3u8"
+          },
+          {
+            "name": "U酷",
+            "api": "https://api.ukuapi.com/api.php/provide/vod/from/ukm3u8"
           },
           {
             "name": "纸条",
@@ -75,7 +79,10 @@
       "type": 4,
       "api": "https://api-lmteam.koyeb.app/PythonT4/bilibilivd",
       "searchable": 1,
-       "style": { "type":"rect", "ratio":1.43 },
+      "style": {
+        "type": "rect",
+        "ratio": 1.43
+      },
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
