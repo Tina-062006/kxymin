@@ -25,6 +25,10 @@
             "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8"
           },
           {
+            "name": "玉米",
+            "api": "http://124.222.116.5/macos/api.php/provide/vod"
+          },
+          {
             "name": "玩偶",
             "api": "http://home.jundie.top:9520/spider/csp_Wogg"
           },
