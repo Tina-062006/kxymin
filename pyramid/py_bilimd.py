@@ -46,7 +46,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 	cookies = ''
 	def getCookie(self):
 		try:
-			cookies_str = self.fetch("SESSDATA=d6f90375%2C1714879904%2Cc8768%2Ab2CjCVDsQnss1r6k_Nvqlt1fUcfYLe1K8W6CyhfUAbovYiFNIi9hfbWzg_mWoi0kzhIbkSVlE5bWZnZlBCOGJzT3c1akdub1lyMVp4ZjZacnYwZ2tXXy00allaSVJWbzF5U19YUEI0X19PWWswWDdaUWQyNWNhdnVUZ0k4cmZmbWFFeVNmbUl4R1VBIIEC; bili_jct=761d89f76b7e7415548ca45ac30922cc; DedeUserID=3546561749452875; DedeUserID__ckMd5=9b5279dd8cc4bb01; sid=pu3s30n2").text
+			cookies_str = self.fetch("SESSDATA=01c79709%2C1711618905%2C244c3%2A91CjA9UUnRb_kJg03J5FqUbin76yMY90o1-ckJsM1ItQH21ns4hgcS6Le6oMR3SKtC18QSVmxSbGRhN3cyS3NReERsOHRfYVlhTWJKZjZyTF9wUWJXbjNfaF9qWklFMFpoeVg1ZUhFb0Q0MGFiN3FYd1N3UEFEY1oxX29IdmFSRVVLamcybGhhSkJnIIEC; bili_jct=e9d6e9df733afde2a03693d63a4e77dc; DedeUserID=186957646; DedeUserID__ckMd5=4f717c8832ee1e62; sid=elhiqom1").text
 			cookies_dic = dict([co.strip().split('=') for co in cookies_str.split(';')])
 			rsp = session()
 			cookies_jar = utils.cookiejar_from_dict(cookies_dic)
