@@ -41,6 +41,15 @@
       "ext": "./pyramid/py_cctv.py"
     },
     {
+      "key": "py_bilimd",
+      "name": "B站┃影视",
+      "type": 3,
+      "api": "py_bilimd",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "./pyramid/py_bilimd.py"
+    },
+    {
       "key": "Czsapp",
       "name": "厂长┃直连",
       "type": 3,
