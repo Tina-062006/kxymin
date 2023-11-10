@@ -36,7 +36,7 @@
         },
         {
             "key": "Cokemv",
-            "name": "Cokemv┃App",
+            "name": "可乐┃App",
             "type": 3,
             "api": "csp_Appto",
             "searchable": 1,
@@ -96,7 +96,7 @@
         },
         {
             "key": "tvbsk",
-            "name": "TVB云播┃App",
+            "name": "云播┃App",
             "type": 3,
             "api": "csp_Skapp",
             "playerType": 2,
@@ -286,7 +286,7 @@
             "ext": ""
         },
         {
-            "key": "NoSearch_csp_DiDuan",
+            "key": "csp_DiDuan",
             "name": "低端┃直连",
             "type": 3,
             "api": "csp_Ddrk",
@@ -358,7 +358,7 @@
             "filterable": 1
         },
         {
-            "key": "NoSearch_csp_BBB",
+            "key": "csp_BBB",
             "name": "哔哩┃哔哩",
             "type": 3,
             "api": "csp_Bili",
