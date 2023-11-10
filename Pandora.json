@@ -768,7 +768,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "http://111.67.196.181/zhibo.txt",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
