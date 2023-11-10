@@ -27,6 +27,14 @@
             "ext": ""
         },
         {
+            "key": "蝴蝶",
+            "name": "蝴蝶┃App",
+            "type": 3,
+            "api": "csp_Hudie",
+            "playerType": 2,
+            "ext": "https://yundun-hdsign.zhuifeng100.cn"
+        },
+        {
             "key": "Cokemv",
             "name": "Cokemv┃App",
             "type": 3,
