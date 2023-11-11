@@ -16,6 +16,15 @@
     ],
     "sites": [
         {
+      "key": "豆瓣",
+      "name": "豆瓣┃评分",
+      "type": 3,
+      "api": "./JavaScript/lib/drpy2.min.js",
+      "changeable": 1,
+      "searchable": 0,
+      "ext": "./JavaScript/drpy.js"
+        },
+        {
             "key": "南瓜",
             "name": "南瓜┃App",
             "type": 3,
