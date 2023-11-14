@@ -20,6 +20,15 @@
             "ext": "null$$$1"
         },
         {
+            "key": "Bdys_spider",
+            "name": "哔滴┃直连",
+            "api": "csp_Bdys01",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://www.bdys03.com/$$$null$$$1"
+        },
+        {
             "key": "追忆",
             "name": "追忆┃App",
             "type": 3,
