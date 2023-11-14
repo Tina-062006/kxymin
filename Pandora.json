@@ -50,29 +50,6 @@
       "ext": "./pyramid/py_bilimd.py"
     },
     {
-      "key": "csp_小鹿",
-      "name": "小鹿┃追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "作者": "荷城茶秀",
-        "站名": "小鹿┃影视",
-        "主页url": "http://www.xiaoluys.me/",
-        "简介": "电影简介：&&</div>",
-        "导演": "暂无",
-        "主演": "暂无",
-        "影片状态": "备注：&&</div>",
-        "影片类型": "类型：&&立即播放",
-        "线路数组": "#playlist&&</li>",
-        "线路标题": "tab\">&&</a>",
-        "分类url": "http://www.xiaoluys.me/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html;;ak",
-        "分类": "电影$1#电视剧$31#综艺$3#动漫$4"
-      }
-    },
-    {
       "key": "Czsapp",
       "name": "厂长┃直连",
       "type": 3,
@@ -529,6 +506,51 @@
       "searchable": 1,
       "changeable": 0,
       "ext": "./json/webdav.json"
+    },
+    {
+      "key": "csp_小鹿",
+      "name": "小鹿┃xBPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "作者": "小鹿",
+        "站名": "小鹿┃影视",
+        "主页url": "http://www.xiaoluys.me/",
+        "简介": "电影简介：&&</div>",
+        "导演": "暂无",
+        "主演": "暂无",
+        "影片状态": "备注：&&</div>",
+        "影片类型": "类型：&&立即播放",
+        "线路数组": "#playlist&&</li>",
+        "线路标题": "tab\">&&</a>",
+        "分类url": "http://www.xiaoluys.me/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html;;ak",
+        "分类": "电影$1#电视剧$31#综艺$3#动漫$4"
+      }
+    },
+    {
+      "key": "骚火",
+      "name": "骚火┃xBPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
+        "分类url": "https://shdy2.com/list/{cateId}-{catePg}.html;;r1dau0",
+        "分类": "电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4",
+        "数组二次截取": "class=\"v_list\">&&</ul>",
+        "数组": "\"v_img\"&&/div>",
+        "标题": "title=\"&&\"",
+        "副标题": "v_note\"&&</div",
+        "跳转播放链接": "<iframe*src=\"&&\"",
+        "二次跳转播放链接": "https://hkjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
+        "三次跳转播放链接": "\"url\"*\"&&\""
+      }
     }
   ],
   "parses": [
