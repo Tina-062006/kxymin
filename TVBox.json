@@ -15,7 +15,7 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "豆瓣",
+            "name": "豆瓣┃评分",
             "type": 3,
             "api": "https://jihulab.com/kvymin/TVRule/-/raw/main/quickjs/lib/drpy2.min.js",
             "changeable": 1,
