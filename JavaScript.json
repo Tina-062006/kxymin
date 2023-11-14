@@ -1,6 +1,6 @@
 {
   "spider": "./jar/custom_spider.jar;md5;2ea1762a8c802608c2222c7051709afc",
-  "sites": [    
+  "sites": [
     {
       "key": "豆瓣",
       "name": "豆瓣",
@@ -9,7 +9,7 @@
       "searchable": 0,
       "changeable": 1,
       "ext": "./json/douban.json"
-    },    
+    },
     {
       "key": "新6V",
       "name": "新6V",
@@ -29,6 +29,16 @@
         "token": "http://127.0.0.1:9978/file/tvfan/token.txt",
         "filter": "./json/wogg.json"
       }
+    },
+    {
+      "key": "小纸条_cli",
+      "name": "纸条",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/cli_gitCafe",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt",
+      "timeout": 30
     },
     {
       "key": "賤賤",
