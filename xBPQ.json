@@ -98,6 +98,15 @@
       "ext": "./XBPQ/奇优影视.json"
     },
     {
+      "key": "csp_小鹿",
+      "name": "️小鹿",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "./XBPQ/小鹿影视.json"
+    },
+    {
       "key": "csp_热播",
       "name": "️热播",
       "type": 3,
@@ -105,6 +114,15 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "./XBPQ/热播之家.json"
+    },
+    {
+      "key": "csp_疯狗影视",
+      "name": "️疯狗",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "./XBPQ/疯狗影视.json"
     },
     {
       "key": "csp_米爱",
