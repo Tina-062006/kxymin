@@ -71,6 +71,15 @@
       "ext": "./XBPQ/乐猪影视.json"
     },
     {
+      "key": "csp_好戏影视",
+      "name": "️好戏",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "./XBPQ/好戏影视.json"
+    },
+    {
       "key": "csp_低端",
       "name": "️低端",
       "type": 3,
