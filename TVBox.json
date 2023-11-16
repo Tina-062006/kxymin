@@ -1,6 +1,6 @@
 {
-    "spider": "./jar/Box.jar;md5;3c3cd629e6463d91c11585d727722580",
-    "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+    "spider": "./jar/Box.jar;md5;54533ae83bcd500b92880651bd4abd17",
+    "wallpaper": "",
     "lives": [
         {
             "group": "redirect",
@@ -270,7 +270,7 @@
             "ext": ""
         },
         {
-            "key": "NoSearch_csp_DiDuan",
+            "key": "csp_DiDuan",
             "name": "低端┃直连",
             "type": 3,
             "api": "csp_Ddrk",
@@ -343,7 +343,7 @@
             "filterable": 1
         },
         {
-            "key": "NoSearch_csp_BBB",
+            "key": "csp_BBB",
             "name": "哔哩哔哩",
             "type": 3,
             "api": "csp_Bili",
