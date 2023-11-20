@@ -1,0 +1,76 @@
+{
+    "spider": "",
+    "wallpaper": "",
+    "sites": [
+        {
+            "key": "csp_wogg_cli",
+            "name": "玩偶┃T4",
+            "type": 4,
+            "api": "http://home.jundie.top:9520/spider/csp_Wogg",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.gitmirror.com/lsyysa/lsy/main/tvfan/token.txt"
+        },
+        {
+            "key": "小纸条_cli",
+            "name": "小纸条┃T4",
+            "type": 4,
+            "api": "http://home.jundie.top:9520/spider/cli_gitCafe",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.gitmirror.com/lsyysa/lsy/main/tvfan/token.txt",
+            "timeout": 30
+        },
+        {
+            "key": "荐片",
+            "name": "荐片┃T4",
+            "type": 4,
+            "api": "http://home.jundie.top:9520/spider/csp_JP",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "timeout": 30
+        },
+        {
+            "key": "直播转点播1",
+            "name": "直播.教学",
+            "type": 4,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "api": "http://120.53.102.254/dsp16",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "直播转点播2",
+            "name": "直播.音乐",
+            "type": 4,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "api": "http://120.53.102.254/dsp",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "直播转点播3",
+            "name": "直播.综合",
+            "type": 4,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "api": "http://120.53.102.254/dsp999",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        }
+    ]
+}
