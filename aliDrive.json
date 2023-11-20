@@ -135,7 +135,7 @@
         },
         {
             "key": "盘搜",
-            "name": "阿里|盘搜",
+            "name": "盘搜",
             "type": 3,
             "api": "csp_PanSou",
             "ext": "./alitoken.txt"
