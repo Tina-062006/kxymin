@@ -390,19 +390,15 @@
   ],
   "parses": [
     {
-      "name": "777",
-      "type": 0,
-      "url": "https://jx.777jiexi.com/player/?url="
-    },
-    {
-      "name": "bozrc",
-      "type": 0,
-      "url": "https://jx.bozrc.com:4433/player/?url=",
+      "name": "鲲娱",
+      "type": 1,
+      "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=",
       "ext": {
         "flag": [
           "qq",
           "腾讯",
           "qiyi",
+          "iqiyi",
           "爱奇艺",
           "奇艺",
           "youku",
@@ -410,44 +406,15 @@
           "mgtv",
           "芒果",
           "letv",
-          "leshi",
-          "LS",
+          "乐视",
           "pptv",
           "PPTV",
           "sohu",
           "bilibili",
           "哔哩哔哩",
           "哔哩"
-        ],
-        "header": {
-          "User-Agent": ""
-        }
+        ]
       }
-    },
-    {
-      "name": "jsonplayer",
-      "type": 0,
-      "url": "https://jx.jsonplayer.com/player/?url="
-    },
-    {
-      "name": "zhanlangbu",
-      "type": 0,
-      "url": "https://jx.zhanlangbu.com/?url="
-    },
-    {
-      "name": "m3u8",
-      "type": 0,
-      "url": "https://jx.m3u8.pw/?url="
-    },
-    {
-      "name": "xmflv",
-      "type": 0,
-      "url": "https://jx.xmflv.com/?url="
-    },
-    {
-      "name": "yemu",
-      "type": 0,
-      "url": "https://www.yemu.xyz/?url="
     }
   ],
   "rules": [
