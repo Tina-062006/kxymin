@@ -550,7 +550,7 @@
       }
     },
     {
-      "name": "OK解析-1",
+      "name": "虾米",
       "type": 1,
       "url": "http://127.0.0.1:9978/proxy?do=appmaoparse&app=juzi&url=",
       "ext": {
