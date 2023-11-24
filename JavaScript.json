@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;17d7e3dcde6c9d3ab25b87dcaf77a3cd",
+  "spider": "./jar/custom_spider.jar;md5;1117603a248d03a2fba94c991612970f",
   "sites": [
     {
       "key": "豆瓣",
@@ -385,7 +385,7 @@
       "api": "csp_Market",
       "searchable": 0,
       "changeable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/market.json"
+      "ext": "https://fm.t4tv.hz.cz/json/market.json"
     }
   ],
   "parses": [
