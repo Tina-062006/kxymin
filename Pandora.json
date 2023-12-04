@@ -95,22 +95,6 @@
       "ext": "http://rzys.xyz"
     },
     {
-      "key": "巧技一",
-      "name": "巧技┃T4",
-      "type": 4,
-      "api": "http://t4.qiaoji8.com/vod?site=3a29eb005d0cd96c",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "巧技二",
-      "name": "T4┃APP",
-      "type": 4,
-      "api": "http://t4.qiaoji8.com/vod?site=a8944f73f3f50ac7",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
       "key": "橘子",
       "name": "橘子┃App",
       "type": 3,
