@@ -78,15 +78,6 @@
       "ext": "./quickjs/荐片.js"
     },
     {
-      "key": "drpy_js_追忆",
-      "name": "追忆",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "./JavaScript/lib/drpy2.min.js",
-      "ext": "./quickjs/追忆.js"
-    },
-    {
       "key": "drpy_js_南瓜影视",
       "name": "南瓜",
       "type": 3,
@@ -103,15 +94,6 @@
       "changeable": 1,
       "api": "./JavaScript/lib/drpy2.min.js",
       "ext": "./quickjs/l0l影视.js"
-    },
-    {
-      "key": "drpy_js_乐猪",
-      "name": "乐猪",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "./JavaScript/lib/drpy2.min.js",
-      "ext": "./quickjs/乐猪TV.js"
     },
     {
       "key": "drpy_js_云播",
@@ -157,15 +139,6 @@
       "changeable": 1,
       "api": "./JavaScript/lib/drpy2.min.js",
       "ext": "./quickjs/爱迪[V2].js"
-    },
-    {
-      "key": "drpy_js_花猫TV",
-      "name": "花猫",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "./JavaScript/lib/drpy2.min.js",
-      "ext": "./quickjs/花猫TV.js"
     },
     {
       "key": "drpy_js_酷客影院",
@@ -236,15 +209,6 @@
       "changeable": 1,
       "api": "./JavaScript/lib/drpy2.min.js",
       "ext": "./quickjs/鸭鸭[V2].js"
-    },
-    {
-      "key": "drpy_js_创艺",
-      "name": "创艺",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "./JavaScript/lib/drpy2.min.js",
-      "ext": "./quickjs/创艺影视[V2].js"
     },
     {
       "key": "drpy_js_UM电影",
