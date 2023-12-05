@@ -3,14 +3,13 @@
   "sites": [
     {
       "key": "push_agent",
-      "name": "首页",
+      "name": "首页|推荐",
       "type": 4,
-      "api": "https://api-lmteam.koyeb.app/PythonT4/ali",
+      "api": "https://api.azure.leuse.top/PythonT4/ali",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
+      "changeable": 1,
       "ext": {
-        "token": "b793401f55244b2c83d5c80aa27376ad",
+        "token": "https://jihulab.com/kvymin/TVRule/-/raw/main/txt/ali_cookie.txt",
         "apiList": [
           {
             "name": "非凡",
@@ -37,63 +36,50 @@
             "api": "http://154.12.81.149/aatucheng/api.php/provide/vod"
           },
           {
-            "name": "玉米",
-            "api": "http://124.222.116.5/macos/api.php/provide/vod"
-          },
-          {
             "name": "纸条",
             "api": "http://home.jundie.top:9520/spider/cli_gitCafe"
           }
         ]
-      },
-      "changeable": 1
+      }
     },
     {
       "key": "py_cntv",
-      "name": "央视",
+      "name": "央视|频道",
       "type": 4,
-      "api": "https://api-lmteam.koyeb.app/PythonT4/cntv",
+      "api": "https://api.azure.leuse.top/PythonT4/cntv",
       "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
       "changeable": 0
     },
     {
       "key": "py_sport",
-      "name": "体育",
+      "name": "体育|直播",
       "type": 4,
-      "api": "https://api-lmteam.koyeb.app/PythonT4/sport",
+      "api": "https://api.azure.leuse.top/PythonT4/sport",
       "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
       "changeable": 0
     },
     {
       "key": "py_live",
-      "name": "直播",
+      "name": "视频|直播",
       "type": 4,
-      "api": "https://api-lmteam.koyeb.app/PythonT4/live",
+      "api": "https://api.azure.leuse.top/PythonT4/live",
       "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
+      "changeable": 0,
       "ext": {
         "url": "./live.json"
-      },
-      "changeable": 0
+      }
     },
     {
       "key": "py_bilibilivd",
-      "name": " 哔哩视频",
+      "name": "哔哩|视频",
       "type": 4,
-      "api": "https://api-lmteam.koyeb.app/PythonT4/bilibilivd",
+      "api": "https://api.azure.leuse.top/PythonT4/bilibilivd",
       "searchable": 1,
+      "changeable": 0,
       "style": {
         "type": "rect",
         "ratio": 1.43
       },
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
       "ext": {
         "json": "./bili.json",
         "cookie": "./cookie.txt"
@@ -101,113 +87,41 @@
     },
     {
       "key": "py_bilibilimd",
-      "name": " 哔哩番剧",
+      "name": "哔哩|番剧",
       "type": 4,
-      "api": "https://api-lmteam.koyeb.app/PythonT4/bilibilimd",
+      "api": "https://api.azure.leuse.top/PythonT4/bilibilimd",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
       "changeable": 0,
       "ext": {
-        "json": "./bili.json",
+        "json": "",
         "cookie": "./cookie.txt"
       }
     },
     {
       "key": "py_bookreader",
-      "name": "有声小说",
+      "name": "有声|小说",
       "type": 4,
-      "api": "https://api-lmteam.koyeb.app/PythonT4/bookreader",
+      "api": "https://api.azure.leuse.top/PythonT4/bookreader",
       "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
       "changeable": 0
     },
     {
       "key": "py_firstaid",
-      "name": "急救指南",
+      "name": "急救|指南",
       "type": 4,
-      "api": "https://api-lmteam.koyeb.app/PythonT4/firstaid",
+      "api": "https://api.azure.leuse.top/PythonT4/firstaid",
       "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
       "changeable": 0
     }
   ],
   "lives": [
     {
-      "name": "电视直播",
+      "name": "电视|直播",
       "type": 0,
       "timeout": 60,
       "playerType": 2,
-      "url": "http://111.67.196.181/zhibo.txt",
+      "url": "https://xhdwc.tk/tvlive.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}"
-    }
-  ],
-  "parses": [
-    {
-      "name": "Json并发",
-      "type": 2,
-      "url": "Parallel"
-    },
-    {
-      "name": "解析聚合",
-      "type": 3,
-      "url": "Demo"
-    },
-    {
-      "name": "Json轮询",
-      "type": 2,
-      "url": "Sequence"
-    },
-    {
-      "name": "普通聚合",
-      "type": 3,
-      "url": "Web"
-    }
-  ],
-  "doh": [
-    {
-      "name": "Google",
-      "url": "https://dns.google/dns-query",
-      "ips": [
-        "8.8.4.4",
-        "8.8.8.8"
-      ]
-    },
-    {
-      "name": "Cloudflare",
-      "url": "https://cloudflare-dns.com/dns-query",
-      "ips": [
-        "1.1.1.1",
-        "1.0.0.1",
-        "2606:4700:4700::1111",
-        "2606:4700:4700::1001"
-      ]
-    },
-    {
-      "name": "AdGuard",
-      "url": "https://dns.adguard.com/dns-query",
-      "ips": [
-        "94.140.14.140",
-        "94.140.14.141"
-      ]
-    },
-    {
-      "name": "DNSWatch",
-      "url": "https://resolver2.dns.watch/dns-query",
-      "ips": [
-        "84.200.69.80",
-        "84.200.70.40"
-      ]
-    },
-    {
-      "name": "Quad9",
-      "url": "https://dns.quad9.net/dns-quer",
-      "ips": [
-        "9.9.9.9",
-        "149.112.112.112"
-      ]
     }
   ],
   "rules": [
