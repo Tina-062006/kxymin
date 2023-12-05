@@ -9,7 +9,7 @@
       "searchable": 1,
       "changeable": 1,
       "ext": {
-        "token": "https://jihulab.com/kvymin/TVRule/-/raw/main/txt/ali_cookie.txt",
+        "token": "./cookie.txt",
         "apiList": [
           {
             "name": "非凡",
