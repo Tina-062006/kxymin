@@ -459,17 +459,38 @@
     {
       "name": "LR",
       "type": 1,
-      "url": "http://42.157.129.144:2323/CH/caihong_1993138546.php?url="
+      "url": "http://42.157.129.144:2323/CH/caihong_1993138546.php?url=",
+      "ext": {
+        "flag": [
+          "imgv",
+          "migu",
+          "qq",
+          "qiyi",
+          "mgtv",
+          "bilibili",
+          "youku"
+        ]
+      }
     },
     {
       "name": "奇奇",
       "type": 1,
-      "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url="
+      "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=",
+      "ext": {
+        "flag": [
+          "imgv",
+          "migu",
+          "qq",
+          "qiyi",
+          "mgtv",
+          "bilibili"
+        ]
+      }
     },
     {
       "name": "米米",
       "type": 1,
-      "url": "http://103.42.31.123:5821/jx/?url= "
+      "url": "https://daina.hk/api/?key=e1e84ecae847b6e4a1a27fd4611f45f5&url="
     },
     {
       "name": "阳图",
@@ -482,14 +503,19 @@
       "url": "https://jx.xmflv.com/?url="
     },
     {
-      "name": "浩大",
+      "name": "七七",
       "type": 0,
       "url": "https://jx.777jiexi.com/player/?url="
     },
     {
-      "name": "宇宙",
+      "name": "夜幕",
       "type": 0,
-      "url": "https://jx.jsonplayer.com/player/?url="
+      "url": "https://www.yemu.xyz/?url="
+    },
+    {
+      "name": "可乐",
+      "type": 0,
+      "url": "https://www.ckplayer.vip/jiexi/?url="
     }
   ],
   "doh": [
