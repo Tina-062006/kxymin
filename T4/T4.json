@@ -9,7 +9,7 @@
       "searchable": 1,
       "changeable": 1,
       "ext": {
-        "token": "./cookie.txt",
+        "token": "https://jihulab.com/kvymin/TVRule/-/raw/main/txt/ali_cookie.txt",
         "apiList": [
           {
             "name": "非凡",
@@ -66,7 +66,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "json": "./live.json"
+        "url": "./live.json"
       }
     },
     {
@@ -81,7 +81,8 @@
         "ratio": 1.43
       },
       "ext": {
-        "json": "./bili.json"
+        "json": "./bili.json",
+        "cookie": "./cookie.txt"
       }
     },
     {
@@ -92,7 +93,8 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "json": "./bili.json"
+        "json": "",
+        "cookie": "./cookie.txt"
       }
     },
     {
