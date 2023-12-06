@@ -66,7 +66,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "url": "./live.json"
+        "json": "./live.json"
       }
     },
     {
@@ -81,8 +81,7 @@
         "ratio": 1.43
       },
       "ext": {
-        "json": "./bili.json",
-        "cookie": "./cookie.txt"
+        "json": "./bili.json"
       }
     },
     {
@@ -93,8 +92,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "json": "",
-        "cookie": "./cookie.txt"
+        "json": "./bili.json"
       }
     },
     {
