@@ -66,7 +66,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "url": "./live.json"
+        "url": "https://agit.ai/kvymin/TV/raw/branch/master/T4/live.json"
       }
     },
     {
@@ -81,7 +81,7 @@
         "ratio": 1.43
       },
       "ext": {
-        "json": "./bili.json"
+        "json": "https://agit.ai/kvymin/TV/raw/branch/master/T4/bili.json"
       }
     },
     {
@@ -92,7 +92,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "json": "./bili.json"
+        "json": "https://agit.ai/kvymin/TV/raw/branch/master/T4/bili.json"
       }
     },
     {
