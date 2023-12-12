@@ -22,7 +22,7 @@
             "api": "./quickjs/libs/drpy2.min.js",
             "changeable": 1,
             "searchable": 0,
-            "ext": "./quickjs/drpy.js"
+            "ext": "./JavaScript/drpy.js"
         },
         {
             "key": "南瓜",
