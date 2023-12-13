@@ -6,8 +6,11 @@
   {"key":"DouDou","name":"豆瓣|评分","type":3,"api":"csp_DouDou","searchable":0,"changeable":0},
   {"key":"WoGG","name":"玩偶|4K","type":3,"api":"csp_WoGG","searchable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://www.wogg.xyz/$$$关"},
   {"key":"YGP","name":"荐影|速递","type":3,"api":"csp_YGP","searchable":0,"changeable":0},
-  {"key":"py_cctv_集合","name":"央视|集合","type":3,"style":{"type":"rect","ratio":1.485},"api":"py_cctv","searchable":1,"changeable":1,"ext":"./pyramid/py_cctv.py"},
-  {"key":"Czsapp","name":"厂长|直连","type":3,"api":"csp_Czsapp","searchable":1,"changeable":1,"ext":"https://www.czzy88.com/"},
+
+  {"key":"py_cctv_集合","name":"央视|集合","type":3,"style":{"type":"rect","ratio":1.485},"api":"./pyramid/py_cctv.py","searchable":1,"changeable":1,"ext":""},
+  {"key":"py_Bilibili","name":"哔哩|影视","type":3,"api":"./pyramid/py_bilibili.py","searchable":1,"changeable":1,"ext":""},
+
+  {"key":"Czsapp","name":"厂长|直连","type":3,"api":"csp_Czsapp","searchable":1,"changeable":1,"ext":"https://www.czzy33.com/"},
   {"key":"Kunyu77","name":"七七|App","type":3,"api":"csp_Kunyu77","searchable":1,"changeable":1},
   {"key":"NanGua","name":"南瓜|App","type":3,"api":"csp_NanGua","searchable":1,"changeable":1},
   {"key":"Hmys","name":"河马|App","type":3,"api":"csp_Hmys","playerType":1,"ext":"https://m.jmzp.net.cn"},
