@@ -6,6 +6,10 @@
       "server": "http://shicheng.wang:555/"
     },
     {
+      "name": "小雅",
+      "server": "http://49.232.128.44:5678/"
+    },
+    {
       "name": "七米藍",
       "server": "https://al.chirmyram.com"
     },
