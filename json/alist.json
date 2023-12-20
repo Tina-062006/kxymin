@@ -2,36 +2,28 @@
   "vodPic": "https://s1.ax1x.com/2023/05/04/p9tgI81.png",
   "drives": [
     {
-      "name": "🦆鸭鸭",
-      "server": "http://shicheng.wang:555/"
-    },
-    {
       "name": "小雅",
-      "server": "http://49.232.128.44:5678/"
-    },
-    {
-      "name": "七米藍",
-      "server": "https://al.chirmyram.com"
-    },
-    {
-      "name": "ECVE",
-      "server": "https://pan.ecve.cn"
+      "server": "http://alist.xiaoya.pro"
     },
     {
       "name": "觸光",
       "server": "https://pan.ichuguang.com"
     },
     {
+      "name": "一只魚",
+      "server": "https://vtok.pp.ua/"
+    },
+    {
+      "name": "七米藍",
+      "server": "https://al.chirmyram.com"
+    },
+    {
       "name": "神族九帝",
       "server": "https://alist.shenzjd.com"
     },
     {
-      "name": "小雅的Alist",
-      "server": "http://alist.xiaoya.pro"
-    },
-    {
-      "name": "✨星梦",
-      "server": "https://pan.bashroot.top"
+      "name": "梓澪",
+      "server": "https://zi0.cc"
     }
   ]
 }
