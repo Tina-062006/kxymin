@@ -36,7 +36,8 @@
   
   {"key":"快影","name":"快影|YsV2","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"http://iosa.xn--654a.cc/api.php/app/"},
   {"key":"迪迪","name":"迪迪|YsV2","api":"csp_AppYsV2","type":3,"searchable":1,"changeable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
-  
+  {"key":"小胡","name":"小胡｜影视","type":1,"searchable":1,"changeable":1,"api":"http://c.小胡.icu/api.php/provide/vod/"},
+
   {"key":"drpy_js_贱贱","name":"荐片|p2p","type":3,"searchable":1,"changeable":1,"playerType":1,"api":"./quickjs/lib/drpy2.min.js","ext":"./quickjs/荐片.js"},
   
   {"key":"csp_SP33","name":"三三|解析","type":3,"api":"csp_SP33","searchable":1,"changeable":1},
