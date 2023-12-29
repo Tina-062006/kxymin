@@ -94,7 +94,7 @@
 
  "lives": [    
     {
-      "name": "live",
+      "name": "电视|直播",
       "type": 0,
       "url": "https://fanty.run.goorm.site/live.txt",
       "playerType": 1,
@@ -103,9 +103,9 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "ipv6",
+      "name": "直播|推送",
       "type": 0,
-      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+      "url": "./tvlives/yangshipin.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
