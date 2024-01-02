@@ -92,25 +92,32 @@
   {"name":"磁力","hosts":["magnet"],"regex":["最 新","直 播","更 新"]}
 ], 
 
- "lives": [    
-    {
-      "name": "电视|直播",
-      "type": 0,
-      "url": "https://fanty.run.goorm.site/live.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "直播|聚播",
-      "type": 1,
-      "url": "./tvlives/live.json",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
+ "lives": [        
+        {
+            "name": "直播┃聚播",
+            "type": 1,
+            "url": "https://www.gitlink.org.cn/api/kvymin/TVRule/raw/tvlive/live.json?ref=master",
+            "playerType": 1,
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name":"直播┃组播",
+            "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+            "type":0,
+            "timeout": 20,
+            "url":"https://www.gitlink.org.cn/api/kvymin/TVRule/raw/tvlive/live.m3u?ref=master"
+        },
+        {
+            "name": "央视┃嗅探",
+            "type": 0,
+            "url": "https://www.gitlink.org.cn/api/kvymin/TVRule/raw/tvlive/ccnt.m3u?ref=master",
+            "playerType": 1,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
+            "timeout": 40,
+            "boot": false
+        }
   ],
   "ads": [
     "mozai.4gtv.tv"
