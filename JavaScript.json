@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;b298a8b958138c4e48aa0858886e7880",
+  "spider": "./jar/custom_spider.jar;md5;10a2368d410cd7177a46a8cc1f684481",
   "sites": [    
     {
       "key": "豆瓣",
