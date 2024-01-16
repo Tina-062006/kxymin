@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;a81ee775ab56884c4f5cb932cbc2d1af",
+  "spider": "./jar/custom_spider.jar;md5;a164e2fb5514551f7abbf20e0f02f492",
   "sites": [    
     {
       "key": "豆瓣",
@@ -46,6 +46,15 @@
         "token": "http://127.0.0.1:9978/file/tvfan/token.txt",
         "filter": "./json/wogg.json"
       }
+    },
+    {
+      "key": "运输车",
+      "name": "运输车",
+      "type": 3,
+      "api": "csp_Yingshiche",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
     },
     {
       "key": "賤賤",
