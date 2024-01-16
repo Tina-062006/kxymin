@@ -48,8 +48,8 @@
       }
     },
     {
-      "key": "运输车",
-      "name": "运输车",
+      "key": "影视车",
+      "name": "影视车",
       "type": 3,
       "api": "csp_Yingshiche",
       "searchable": 1,
