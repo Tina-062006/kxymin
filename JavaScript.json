@@ -11,12 +11,20 @@
       "ext": "./json/douban.json"
     },
     {
+      "key": "csp_Cs1369",
+      "name": "玖陆",
+      "type": 3,
+      "api": "csp_Cs1369",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
       "key": "csp_Ys23",
       "name": "贰叁",
       "type": 3,
       "api": "csp_Ys23",
       "searchable": 1,
-      "changeable": 0
+      "changeable": 1
     },
     {
       "key": "新6V",
