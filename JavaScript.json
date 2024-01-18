@@ -1,6 +1,6 @@
 {
   "spider": "./jar/custom_spider.jar;md5;1633c43bcc11043ba2fef39bfd560f17",
-  "sites": [    
+  "sites": [
     {
       "key": "豆瓣",
       "name": "豆瓣",
@@ -33,7 +33,7 @@
       "api": "csp_Xb6v",
       "searchable": 1,
       "changeable": 0
-    },    
+    },
     {
       "key": "短劇",
       "name": "短劇",
@@ -290,13 +290,95 @@
       "ext": "./quickjs/B站影视.js"
     },
     {
+      "key": "櫻花",
+      "name": "櫻花",
+      "type": 3,
+      "api": "csp_Ying",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "巴士",
+      "name": "巴士",
+      "type": 3,
+      "api": "csp_Dm84",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "異界",
+      "name": "異界",
+      "type": 3,
+      "api": "csp_Ysj",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "哔哩",
+      "name": "哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://fm.t4tv.hz.cz/json/bili.json",
+        "type": "帕梅拉#太极拳#广场舞#演唱会",
+        "cookie": ""
+      }
+    },
+    {
+      "key": "酷狗",
+      "name": "酷狗",
+      "type": 3,
+      "api": "csp_Kugou",
+      "searchable": 0,
+      "changeable": 0
+    },
+    {
+      "key": "本地",
+      "name": "本地",
+      "type": 3,
+      "api": "csp_Local",
+      "searchable": 0,
+      "changeable": 0
+    },
+    {
+      "key": "AList",
+      "name": "AList",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "https://fm.t4tv.hz.cz/json/alist.json"
+    },
+    {
+      "key": "WebDAV",
+      "name": "WebDAV",
+      "type": 3,
+      "api": "csp_WebDAV",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "https://fm.t4tv.hz.cz/json/webdav.json"
+    },
+    {
+      "key": "JustLive",
+      "name": "JustLive",
+      "type": 3,
+      "api": "csp_JustLive",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
       "key": "七夜",
       "name": "七夜",
       "type": 3,
       "api": "csp_Dovx",
       "searchable": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
+      "changeable": 0
     },
     {
       "key": "易搜",
@@ -304,8 +386,7 @@
       "type": 3,
       "api": "csp_YiSo",
       "searchable": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
+      "changeable": 0
     },
     {
       "key": "雲搜",
@@ -313,8 +394,7 @@
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
+      "changeable": 0
     },
     {
       "key": "盤搜",
@@ -322,8 +402,7 @@
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
+      "changeable": 0
     },
     {
       "key": "紙條搜",
@@ -331,8 +410,7 @@
       "type": 3,
       "api": "csp_XiaoZhiTiao",
       "searchable": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
+      "changeable": 0
     },
     {
       "key": "盤搜索",
@@ -340,8 +418,7 @@
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
+      "changeable": 0
     },
     {
       "key": "找資源",
@@ -350,7 +427,7 @@
       "api": "csp_Zhaozy",
       "searchable": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt$$$test2$$$test2"
+      "ext": "影視天下第一$$$test2$$$test2"
     },
     {
       "key": "push_agent",
@@ -369,6 +446,22 @@
       "searchable": 0,
       "changeable": 0,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/market.json"
+    },
+    {
+      "key": "泥巴",
+      "name": "泥巴",
+      "type": 3,
+      "api": "csp_NiNi",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "星星",
+      "name": "星星",
+      "type": 3,
+      "api": "csp_Star",
+      "searchable": 1,
+      "changeable": 1
     }
   ],
   "parses": [
